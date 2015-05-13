@@ -1,0 +1,4 @@
+* copy the redirects file from projects to 'redirects.txt'
+* run process-redirects.py
+* copy redirects.out to puppet
+* run puppet on each of the backend webservers
