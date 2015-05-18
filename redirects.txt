@@ -1277,3 +1277,41 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /ref/nsw/objects/ND0000361.htm, /ref/nsw/biogs/NE01066b.htm
 /nsw/objects/ND0000361.htm, /nsw/biogs/NE01066b.htm
+
+
+# This pub redirect was added by Nicola Laurent on 21 April 2015
+/ref/wa/bib/WP0001231.htm, /ref/wa/bib/WP0000024.htm
+/wa/bib/WP0001231.htm, /wa/bib/WP0000024.htm
+
+/ref/wa/bib/WP0001154.htm, /ref/wa/bib/WP0000024.htm
+/wa/bib/WP0001154.htm, /wa/bib/WP0000024.htm
+
+/ref/wa/bib/WP0001230.htm, /ref/wa/bib/WP0000024.htm
+/wa/bib/WP0001230.htm, /wa/bib/WP0000024.htm
+
+
+# This biog redirect was added by Nicola Laurent on 6 May 2015
+/ref/sa/biogs/SE01077b.htm, /ref/sa/biogs/SE00864b.htm
+/sa/biogs/SE01077b.htm, /sa/biogs/SE00864b.htm
+
+
+
+# These biog redirects were added by Nicola Laurent on 11 May 2015
+/ref/sa/biogs/SE00886b.htm, /ref/sa/biogs/SE01111b.htm
+/sa/biogs/SE00886b.htm, /sa/biogs/SE01111b.htm
+
+/ref/sa/biogs/SE01074b.htm, /ref/sa/biogs/SE01111b.htm
+/sa/biogs/SE01074b.htm, /sa/biogs/SE01111b.htm
+
+/ref/qld/biogs/QE00422b.htm, /ref/qld/biogs/QE00445b.htm
+/qld/biogs/QE00422b.htm, /qld/biogs/QE00445b.htm
+
+/ref/nt/biogs/YE00409b.htm, /ref/nt/biogs/YE00119b.htm
+/nt/biogs/YE00409b.htm, /nt/biogs/YE00119b.htm
+
+# These redirects were added by Cate O'Neill on 18 May 2015
+/ref/tas/biogs/TE00859b.htm, /ref/tas/biogs/TE00929b.htm
+/tas/biogs/TE00859b.htm, /tas/biogs/TE00929b.htm
+
+/ref/nsw/objects/ND0000454.htm, /ref/nsw/biogs/NE01691b.htm
+/nsw/objects/ND0000454.htm, /nsw/biogs/NE01691b.htm
