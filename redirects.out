@@ -1027,8 +1027,8 @@
   RedirectMatch permanent ^/ref/nsw/objects/ND0000437.htm$ /ref/nsw/biogs/NE01686b.htm
   RedirectMatch permanent ^/nsw/objects/ND0000437.htm$ /nsw/biogs/NE01686b.htm
   # This dobject redirect was added by Nicola Laurent on 30 March 2015
-  RedirectMatch permanent ^/ref/wa/objects/WD0001021.htm$ /ref/wa/biogs/WE01493.htm
-  RedirectMatch permanent ^/wa/objects/WD0001021.htm$ /wa/biogs/WE01493.htm
+  RedirectMatch permanent ^/ref/wa/objects/WD0001021.htm$ /ref/wa/biogs/WE01493b.htm
+  RedirectMatch permanent ^/wa/objects/WD0001021.htm$ /wa/biogs/WE01493b.htm
   # This entity to pub redirect added by Cate O'Neill 30 March 2015
   RedirectMatch permanent ^/ref/qld/biogs/QE00872b.htm$ /ref/qld/bib/QP0000555.htm
   RedirectMatch permanent ^/qld/biogs/QE00872b.htm$ /qld/bib/QP0000555.htm
@@ -1107,3 +1107,33 @@
   RedirectMatch permanent ^/qld/biogs/QE00836b.htm$ /qld/biogs/QE00497b.htm
   RedirectMatch permanent ^/ref/qld/biogs/QE00837b.htm$ /ref/qld/biogs/QE00497b.htm
   RedirectMatch permanent ^/qld/biogs/QE00837b.htm$ /qld/biogs/QE00497b.htm
+  # This dobject to biog redirect was added by Nicola Laurent on 11 August 2015
+  RedirectMatch permanent ^/ref/tas/objects/TD0000165.htm$ /ref/tas/biogs/TE00560b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000165.htm$ /tas/biogs/TE00560b.htm
+  #These bib to biog redirects were added by Nicola Laurent on 27 August 2015
+  RedirectMatch permanent ^/ref/wa/bib/WP0000801.htm$ /ref/wa/biogs/WE00956b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000801.htm$ /wa/biogs/WE00956b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0000802.htm$ /ref/wa/biogs/WE00956b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000802.htm$ /wa/biogs/WE00956b.htm
+  #These bib to biog redirects were added by Nicola Laurent on 28 August 2015
+  RedirectMatch permanent ^/ref/wa/bib/WP0000820.htm$ /ref/wa/biogs/WE00507b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000820.htm$ /wa/biogs/WE00507b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0000825.htm$ /ref/wa/biogs/WE00978b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000825.htm$ /wa/biogs/WE00978b.htm
+  #These bib to biog redirects were added by Nicola Laurent on 1 September 2015
+  RedirectMatch permanent ^/ref/wa/bib/WP0001166.htm$ /ref/wa/biogs/WE00502b.htm
+  RedirectMatch permanent ^/wa/bib/WP0001166.htm$ /wa/biogs/WE00502b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0001202.htm$ /ref/wa/biogs/WE00062b.htm
+  RedirectMatch permanent ^/wa/bib/WP0001202.htm$ /wa/biogs/WE00062b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0001131.htm$ /ref/wa/biogs/WE01130b.htm
+  RedirectMatch permanent ^/wa/bib/WP0001131.htm$ /wa/biogs/WE01130b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0001130.htm$ /ref/wa/biogs/WE01130b.htm
+  RedirectMatch permanent ^/wa/bib/WP0001130.htm$ /wa/biogs/WE01130b.htm
+  RedirectMatch permanent ^/help/factsheet-2-search-tips/$ /help/new-search/
+  RedirectMatch permanent ^/contact/care-leavers-australia-network/$ /contact/
+  RedirectMatch permanent ^/contact/child-migrants-trust/$ /contact/
+  RedirectMatch permanent ^/contact/international-association-of-former-child-migrants-and-their-families/$ /ref/wa/biogs/WE00714b.htm
+  RedirectMatch permanent ^/contact/alliance-for-forgotten-australians/$ /ref/australia/biogs/FE00095b.htm
+  RedirectMatch permanent ^/contact/adoption-services/$ /resources/adoptions/
+  RedirectMatch permanent ^/contact/royal-commission/$ /ref/australia/biogs/FE00101b.htm
+  RedirectMatch permanent ^/featured-stories/accessing-records-your-rights/$ /resources/your-rights/
