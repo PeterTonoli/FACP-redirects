@@ -1412,12 +1412,42 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 /ref/wa/bib/WP0001130.htm, /ref/wa/biogs/WE01130b.htm
 /wa/bib/WP0001130.htm, /wa/biogs/WE01130b.htm
 
-# Redirects by P. Tonoli  29 September 2015
+#These redirects were added by Rachel Tropea on 29 September 2015 as part of a Wordpress review
 /help/factsheet-2-search-tips/, /help/new-search/
-/contact/care-leavers-australia-network/, /contact/
-/contact/child-migrants-trust/, /contact/
+
+/contact/care-leavers-australia-network/ to http://www.findandconnect.gov.au/contact/
+
+/contact/child-migrants-trust/ to http://www.findandconnect.gov.au/contact/
+
 /contact/international-association-of-former-child-migrants-and-their-families/, /ref/wa/biogs/WE00714b.htm
+
 /contact/alliance-for-forgotten-australians/, /ref/australia/biogs/FE00095b.htm
+
 /contact/adoption-services/, /resources/adoptions/
+
 /contact/royal-commission/, /ref/australia/biogs/FE00101b.htm
+
 /featured-stories/accessing-records-your-rights/, /resources/your-rights/
+
+# This redirect was added by Cate O'Neill on 19 october 2015
+
+/ref/qld/biogs/QE00643b.htm, /ref/qld/biogs/QE00642b.htm
+/qld/biogs/QE00643b.htm, /qld/biogs/QE00642b.htm
+
+# This redirect was added by Cate O'Neill on 21 october 2015
+/ref/qld/objects/QD0000028.htm, /ref/qld/objects/QD0000026.htm
+/qld/objects/QD0000028.htm, /qld/objects/QD0000026.htm
+
+#These redirects were added by Rachel Tropea on 11 November 2015
+/look-for-records/, /information-about-records/
+ 
+/help/, /help/factsheet-1-how-to-use-the-website/
+
+/about/web-resource-credits/, /about/credits/ 
+
+
+
+
+
+
+

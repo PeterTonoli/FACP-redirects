@@ -1129,11 +1129,20 @@
   RedirectMatch permanent ^/wa/bib/WP0001131.htm$ /wa/biogs/WE01130b.htm
   RedirectMatch permanent ^/ref/wa/bib/WP0001130.htm$ /ref/wa/biogs/WE01130b.htm
   RedirectMatch permanent ^/wa/bib/WP0001130.htm$ /wa/biogs/WE01130b.htm
+  #These redirects were added by Rachel Tropea on 29 September 2015 as part of a Wordpress review
   RedirectMatch permanent ^/help/factsheet-2-search-tips/$ /help/new-search/
-  RedirectMatch permanent ^/contact/care-leavers-australia-network/$ /contact/
-  RedirectMatch permanent ^/contact/child-migrants-trust/$ /contact/
   RedirectMatch permanent ^/contact/international-association-of-former-child-migrants-and-their-families/$ /ref/wa/biogs/WE00714b.htm
   RedirectMatch permanent ^/contact/alliance-for-forgotten-australians/$ /ref/australia/biogs/FE00095b.htm
   RedirectMatch permanent ^/contact/adoption-services/$ /resources/adoptions/
   RedirectMatch permanent ^/contact/royal-commission/$ /ref/australia/biogs/FE00101b.htm
   RedirectMatch permanent ^/featured-stories/accessing-records-your-rights/$ /resources/your-rights/
+  # This redirect was added by Cate O'Neill on 19 october 2015
+  RedirectMatch permanent ^/ref/qld/biogs/QE00643b.htm$ /ref/qld/biogs/QE00642b.htm
+  RedirectMatch permanent ^/qld/biogs/QE00643b.htm$ /qld/biogs/QE00642b.htm
+  # This redirect was added by Cate O'Neill on 21 october 2015
+  RedirectMatch permanent ^/ref/qld/objects/QD0000028.htm$ /ref/qld/objects/QD0000026.htm
+  RedirectMatch permanent ^/qld/objects/QD0000028.htm$ /qld/objects/QD0000026.htm
+  #These redirects were added by Rachel Tropea on 11 November 2015
+  RedirectMatch permanent ^/look-for-records/$ /information-about-records/
+  RedirectMatch permanent ^/help/$ /help/factsheet-1-how-to-use-the-website/
+  RedirectMatch permanent ^/about/web-resource-credits/$ /about/credits/
