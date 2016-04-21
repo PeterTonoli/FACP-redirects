@@ -1445,9 +1445,24 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /about/web-resource-credits/, /about/credits/ 
 
+# This redirect was added by Nicola Laurent on 18 November 2015
+/ref/vic/bib/P00001103.htm, /ref/vic/objects/D00000533.htm
 
 
+# These redirects were added by Nicola Laurent on 15 December 2015
+/ref/wa/bib/WP0000872.htm, /ref/wa/bib/WP0000072.htm
 
 
+/ref/nsw/bib/NP0000796.htm, /ref/nsw/biogs/NE01168b.htm
+/nsw/bib/NP0000796.htm, /nsw/biogs/NE01168b.htm
 
+# This redirect was added by Nicola Laurent on 18 December 2015
+/web-resource-credits/, /about/credits/ 
 
+# Redirects added by Cate O'Neill on 20 April 2016
+
+/ref/vic/biogs/E000955b.htm, /ref/vic/biogs/E000170b.htm
+/vic/biogs/E000955b.htm, /vic/biogs/E000170b.htm
+
+/ref/vic/biogs/E000986b.htm, /ref/vic/biogs/E000170b.htm
+/vic/biogs/E000986b.htm, /vic/biogs/E000170b.htm

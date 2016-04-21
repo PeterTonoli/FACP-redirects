@@ -1146,3 +1146,16 @@
   RedirectMatch permanent ^/look-for-records/$ /information-about-records/
   RedirectMatch permanent ^/help/$ /help/factsheet-1-how-to-use-the-website/
   RedirectMatch permanent ^/about/web-resource-credits/$ /about/credits/
+  # This redirect was added by Nicola Laurent on 18 November 2015
+  RedirectMatch permanent ^/ref/vic/bib/P00001103.htm$ /ref/vic/objects/D00000533.htm
+  # These redirects were added by Nicola Laurent on 15 December 2015
+  RedirectMatch permanent ^/ref/wa/bib/WP0000872.htm$ /ref/wa/bib/WP0000072.htm
+  RedirectMatch permanent ^/ref/nsw/bib/NP0000796.htm$ /ref/nsw/biogs/NE01168b.htm
+  RedirectMatch permanent ^/nsw/bib/NP0000796.htm$ /nsw/biogs/NE01168b.htm
+  # This redirect was added by Nicola Laurent on 18 December 2015
+  RedirectMatch permanent ^/web-resource-credits/$ /about/credits/
+  # Redirects added by Cate O'Neill on 20 April 2016
+  RedirectMatch permanent ^/ref/vic/biogs/E000955b.htm$ /ref/vic/biogs/E000170b.htm
+  RedirectMatch permanent ^/vic/biogs/E000955b.htm$ /vic/biogs/E000170b.htm
+  RedirectMatch permanent ^/ref/vic/biogs/E000986b.htm$ /ref/vic/biogs/E000170b.htm
+  RedirectMatch permanent ^/vic/biogs/E000986b.htm$ /vic/biogs/E000170b.htm
