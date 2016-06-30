@@ -1466,3 +1466,21 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /ref/vic/biogs/E000986b.htm, /ref/vic/biogs/E000170b.htm
 /vic/biogs/E000986b.htm, /vic/biogs/E000170b.htm
+
+#This redirect was added by Nicola Laurent on 24 June 2016
+
+/ref/wa/objects/WD0000410.htm, /ref/wa/biogs/WE00692b.htm
+/wa/objects/WD0000410.htm, /wa/biogs/WE00692b.htm
+
+#These redirects were added by Nicola Laurent on 28 June 2016
+
+/ref/nsw/bib/NP0000157.htm, /ref/nsw/bib/NP0000012.htm,
+/nsw/bib/NP0000157.htm, /nsw/bib/NP0000012.htm
+
+/ref/nsw/bib/NP0000469b.htm, /ref/nsw/bib/NP0000012.htm
+/nsw/bib/NP0000469.htm, /nsw/bib/NP0000012.htm
+
+#These redirects were added by Nicola Laurent on 29 June 2016
+
+/ref/nsw/objects/ND0000446, ref/nsw/bib/NP0000640.htm
+/nsw/objects/ND0000446, /nsw/bib/NP0000640.htm
