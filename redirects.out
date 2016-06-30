@@ -1168,5 +1168,5 @@
   RedirectMatch permanent ^/ref/nsw/bib/NP0000469b.htm$ /ref/nsw/bib/NP0000012.htm
   RedirectMatch permanent ^/nsw/bib/NP0000469.htm$ /nsw/bib/NP0000012.htm
   #These redirects were added by Nicola Laurent on 29 June 2016
-  RedirectMatch permanent ^/ref/nsw/objects/ND0000446$ ref/nsw/bib/NP0000640.htm
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000446$ /ref/nsw/bib/NP0000640.htm
   RedirectMatch permanent ^/nsw/objects/ND0000446$ /nsw/bib/NP0000640.htm
