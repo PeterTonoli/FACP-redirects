@@ -1474,7 +1474,7 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 #These redirects were added by Nicola Laurent on 28 June 2016
 
-/ref/nsw/bib/NP0000157.htm, /ref/nsw/bib/NP0000012.htm,
+/ref/nsw/bib/NP0000157.htm, /ref/nsw/bib/NP0000012.htm
 /nsw/bib/NP0000157.htm, /nsw/bib/NP0000012.htm
 
 /ref/nsw/bib/NP0000469b.htm, /ref/nsw/bib/NP0000012.htm
