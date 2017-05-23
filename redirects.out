@@ -1170,3 +1170,37 @@
   #These redirects were added by Nicola Laurent on 29 June 2016
   RedirectMatch permanent ^/ref/nsw/objects/ND0000446.htm$ /ref/nsw/bib/NP0000640.htm
   RedirectMatch permanent ^/nsw/objects/ND0000446.htm$ /nsw/bib/NP0000640.htm
+  #These redirects were added by Nicola Laurent on 6 March 2017
+  RedirectMatch permanent ^/ref/wa/bib/WP0000210.htm$ /ref/wa/biogs/WE00492b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000210.htm$ /wa/biogs/WE00492b.htm
+  RedirectMatch permanent ^/nsw/bib/NP0000210.htm$ /nsw/biogs/NE00248b.htm
+  RedirectMatch permanent ^/ref/nsw/bib/NP0000210.htm$ /ref/nsw/biogs/NE00248b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000061.htm$ /wa/biogs/WE00122b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0000061.htm$ /ref/wa/biogs/WE00122b.htm
+  #These redirects were added by Nicola Laurent on 7 March 2017
+  RedirectMatch permanent ^/act/bib/AP0000010.htm$ /act/biogs/AE00024b.htm
+  RedirectMatch permanent ^/ref/act/bib/AP0000010.htm$ /ref/act/biogs/AE00024b.htm
+  RedirectMatch permanent ^/act/bib/AP0000011.htm$ /act/biogs/AE00024b.htm
+  RedirectMatch permanent ^/ref/act/bib/AP0000011.htm$ /ref/act/biogs/AE00024b.htm
+  #This redirect was added by Nicola Laurent on 10 March 2017
+  RedirectMatch permanent ^/qld/bib/QP0000521.htm$ /qld/biogs/QE00640b.htm
+  RedirectMatch permanent ^/ref/qld/bib/QP0000521.htm$ /ref/qld/biogs/QE00640b.htm
+  #These redirects were added by Nicola Laurent on 15 March 2017
+  RedirectMatch permanent ^/tas/bib/TP0000730.htm$ /tas/bib/TP0000589.htm
+  RedirectMatch permanent ^/ref/tas/bib/TP0000730.htm$ /ref/tas/bib/TP0000589.htm
+  RedirectMatch permanent ^/nsw/bib/NP0000712.htm$ /nsw/bib/NP0000459.htm
+  RedirectMatch permanent ^/ref/nsw/bib/NP0000712.htm$ /ref/nsw/bib/NP0000459.htm
+  RedirectMatch permanent ^/nsw/bib/NP0000711.htm$ /nsw/bib/NP0000459.htm
+  RedirectMatch permanent ^/ref/nsw/bib/NP0000711.htm$ /ref/nsw/bib/NP0000459.htm
+  RedirectMatch permanent ^/nsw/bib/NP0000713.htm$ /nsw/bib/NP0000459.htm
+  RedirectMatch permanent ^/ref/nsw/bib/NP0000713.htm$ /ref/nsw/bib/NP0000459.htm
+  #This redirect was added by Nicola Laurent on 28 March 2017
+  RedirectMatch permanent ^/ref/vic/biogs/E000851b.htm$ /ref/vic/biogs/E001035b.htm
+  RedirectMatch permanent ^/vic/biogs/E000851b.htm$ /vic/biogs/E001035b.htm
+  #This redirect was added by Nicola Laurent on 10 April 2017
+  RedirectMatch permanent ^/ref/nsw/biogs/NE01460b.htm$ /ref/nsw/biogs/NE00726b.htm
+  #This redirect was added by Cate O'Neill on 12 May 2017
+  RedirectMatch permanent ^/ref/qld/biogs/QE00308b.htm$ /ref/qld/biogs/QE00245b.htm
+  RedirectMatch permanent ^/qld/biogs/QE00308b.htm$ /qld/biogs/QE00245b.htm
+  #This redirect was added by Cate O'Neill 16 May 2017
+  RedirectMatch permanent ^/ref/nsw/biogs/NE00024b.htm$ /ref/nsw/biogs/NE00020b.htm
