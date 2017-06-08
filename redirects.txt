@@ -1530,3 +1530,29 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /ref/nsw/biogs/NE00024b.htm, /ref/nsw/biogs/NE00020b.htm
 /nsw/biogs/NE00024b.htm /nsw/biogs/NE00020b.htm
+
+#These redirects were added by Cate O'Neill 1 June 2017
+
+/ref/sa/biogs/SE00854b.htm, /ref/sa/biogs/SE01362b.htm
+/sa/biogs/SE00854b.htm /sa/biogs/SE01362b.htm
+
+/ref/sa/biogs/SE00853b.htm, /ref/sa/biogs/SE01362b.htm
+/sa/biogs/SE00853b.htm /sa/biogs/SE01362b.htm
+
+/ref/tas/biogs/TE00178b.htm, /ref/tas/biogs/TE00225b.htm
+/tas/biogs/TE00178b.htm tas/biogs/TE00225b.htm
+
+/ref/nsw/biogs/NE01380b.htm, /ref/nsw/biogs/NE01008b.htm
+/nsw/biogs/NE01380b.htm /nsw/biogs/NE01008b.htm
+
+/ref/wa/biogs/WE01374b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01374b.htm /wa/biogs/WE00467b.htm
+
+/ref/wa/biogs/WE01373b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01373b.htm /wa/biogs/WE00467b.htm
+
+/ref/wa/biogs/WE01375b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01375b.htm /wa/biogs/WE00467b.htm
+
+/ref/qld/biogs/QE00293b.htm, /ref/qld/biogs/QE00265b.htm
+/qld/biogs/QE00293b.htm /qld/biogs/QE00265b.htm
