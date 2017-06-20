@@ -1170,76 +1170,20 @@
   #These redirects were added by Nicola Laurent on 29 June 2016
   RedirectMatch permanent ^/ref/nsw/objects/ND0000446.htm$ /ref/nsw/bib/NP0000640.htm
   RedirectMatch permanent ^/nsw/objects/ND0000446.htm$ /nsw/bib/NP0000640.htm
+  #These  redirects were added by Cate O'Neill on 16 June  2017 to correct errors with the app pages. On 20 June 2017, Cate deleted the original entries for these redirects, as it would seem that the duplication was leading to errors.
   #These redirects were added by Nicola Laurent on 6 March 2017
   RedirectMatch permanent ^/ref/wa/bib/WP0000210.htm$ /ref/wa/biogs/WE00492b.htm
-  RedirectMatch permanent ^/wa/bib/WP0000210.htm$ /wa/biogs/WE00492b.htm
-  RedirectMatch permanent ^/nsw/bib/NP0000210.htm$ /nsw/biogs/NE00248b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000210.htm$ /ref/wa/biogs/WE00492b.htm
+  RedirectMatch permanent ^/nsw/bib/NP0000210.htm$ /ref/nsw/biogs/NE00248b.htm
   RedirectMatch permanent ^/ref/nsw/bib/NP0000210.htm$ /ref/nsw/biogs/NE00248b.htm
-  RedirectMatch permanent ^/wa/bib/WP0000061.htm$ /wa/biogs/WE00122b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000061.htm$ /ref/wa/biogs/WE00122b.htm
   RedirectMatch permanent ^/ref/wa/bib/WP0000061.htm$ /ref/wa/biogs/WE00122b.htm
   #These redirects were added by Nicola Laurent on 7 March 2017
-  RedirectMatch permanent ^/act/bib/AP0000010.htm$ /act/biogs/AE00024b.htm
+  RedirectMatch permanent ^/act/bib/AP0000010.htm$ /ref/act/biogs/AE00024b.htm
   RedirectMatch permanent ^/ref/act/bib/AP0000010.htm$ /ref/act/biogs/AE00024b.htm
-  RedirectMatch permanent ^/act/bib/AP0000011.htm$ /act/biogs/AE00024b.htm
+  RedirectMatch permanent ^/act/bib/AP0000011.htm$ /ref/act/biogs/AE00024b.htm
   RedirectMatch permanent ^/ref/act/bib/AP0000011.htm$ /ref/act/biogs/AE00024b.htm
   #This redirect was added by Nicola Laurent on 10 March 2017
-  RedirectMatch permanent ^/qld/bib/QP0000521.htm$ /qld/biogs/QE00640b.htm
-  RedirectMatch permanent ^/ref/qld/bib/QP0000521.htm$ /ref/qld/biogs/QE00640b.htm
-  #These redirects were added by Nicola Laurent on 15 March 2017
-  RedirectMatch permanent ^/tas/bib/TP0000730.htm$ /tas/bib/TP0000589.htm
-  RedirectMatch permanent ^/ref/tas/bib/TP0000730.htm$ /ref/tas/bib/TP0000589.htm
-  RedirectMatch permanent ^/nsw/bib/NP0000712.htm$ /nsw/bib/NP0000459.htm
-  RedirectMatch permanent ^/ref/nsw/bib/NP0000712.htm$ /ref/nsw/bib/NP0000459.htm
-  RedirectMatch permanent ^/nsw/bib/NP0000711.htm$ /nsw/bib/NP0000459.htm
-  RedirectMatch permanent ^/ref/nsw/bib/NP0000711.htm$ /ref/nsw/bib/NP0000459.htm
-  RedirectMatch permanent ^/nsw/bib/NP0000713.htm$ /nsw/bib/NP0000459.htm
-  RedirectMatch permanent ^/ref/nsw/bib/NP0000713.htm$ /ref/nsw/bib/NP0000459.htm
-  #This redirect was added by Nicola Laurent on 28 March 2017
-  RedirectMatch permanent ^/ref/vic/biogs/E000851b.htm$ /ref/vic/biogs/E001035b.htm
-  RedirectMatch permanent ^/vic/biogs/E000851b.htm$ /vic/biogs/E001035b.htm
-  #This redirect was added by Nicola Laurent on 10 April 2017
-  RedirectMatch permanent ^/ref/nsw/biogs/NE01460b.htm$ /ref/nsw/biogs/NE00726b.htm
-  #This redirect was added by Cate O'Neill on 12 May 2017
-  RedirectMatch permanent ^/ref/qld/biogs/QE00308b.htm$ /ref/qld/biogs/QE00245b.htm
-  RedirectMatch permanent ^/qld/biogs/QE00308b.htm$ /qld/biogs/QE00245b.htm
-  #This redirect was added by Cate O'Neill 16 May 2017
-  RedirectMatch permanent ^/ref/nsw/biogs/NE00024b.htm$ /ref/nsw/biogs/NE00020b.htm
-  RedirectMatch permanent ^/nsw/biogs/NE00024b.htm$ /nsw/biogs/NE00020b.htm
-  #These redirects were added by Cate O'Neill 1 June 2017
-  RedirectMatch permanent ^/ref/sa/biogs/SE00854b.htm$ /ref/sa/biogs/SE01362b.htm
-  RedirectMatch permanent ^/sa/biogs/SE00854b.htm$ /sa/biogs/SE01362b.htm
-  RedirectMatch permanent ^/ref/sa/biogs/SE00853b.htm$ /ref/sa/biogs/SE01362b.htm
-  RedirectMatch permanent ^/sa/biogs/SE00853b.htm$ /sa/biogs/SE01362b.htm
-  RedirectMatch permanent ^/ref/tas/biogs/TE00178b.htm$ /ref/tas/biogs/TE00225b.htm
-  RedirectMatch permanent ^/tas/biogs/TE00178b.htm$ tas/biogs/TE00225b.htm
-  RedirectMatch permanent ^/ref/nsw/biogs/NE01380b.htm$ /ref/nsw/biogs/NE01008b.htm
-  RedirectMatch permanent ^/nsw/biogs/NE01380b.htm$ /nsw/biogs/NE01008b.htm
-  RedirectMatch permanent ^/ref/wa/biogs/WE01374b.htm$ /ref/wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/wa/biogs/WE01374b.htm$ /wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/ref/wa/biogs/WE01373b.htm$ /ref/wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/wa/biogs/WE01373b.htm$ /wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/ref/wa/biogs/WE01375b.htm$ /ref/wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/wa/biogs/WE01375b.htm$ /wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/ref/qld/biogs/QE00293b.htm$ /ref/qld/biogs/QE00265b.htm
-  RedirectMatch permanent ^/qld/biogs/QE00293b.htm$ /qld/biogs/QE00265b.htm
-  #These redirects were added by Cate O'Neill 14 June 2017
-  RedirectMatch permanent ^/ref/sa/biogs/SE00854b.htm$ /ref/sa/biogs/SE01362b.htm
-  RedirectMatch permanent ^/guide/sa/SE00854$ /guide/sa/SE01362
-  RedirectMatch permanent ^/ref/sa/biogs/SE00853b.htm$ /ref/sa/biogs/SE01362b.htm
-  RedirectMatch permanent ^/guide/sa/SE00853b$ /guide/sa/SE01362
-  RedirectMatch permanent ^/ref/tas/biogs/TE00178b.htm$ /ref/tas/biogs/TE00225b.htm
-  RedirectMatch permanent ^/guide/tas/TE00178$ /guide/tas/TE00225
-  RedirectMatch permanent ^/ref/nsw/biogs/NE01380b.htm$ /ref/nsw/biogs/NE01008b.htm
-  RedirectMatch permanent ^/guide/nsw/NE01380$ /guide/nsw/NE01008
-  RedirectMatch permanent ^/ref/wa/biogs/WE01374b.htm$ /ref/wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/guide/wa/WE01374$ /guide/wa/WE00467
-  RedirectMatch permanent ^/ref/wa/biogs/WE01373b.htm$ /ref/wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/guide/wa/WE01373$ /guide/wa/WE00467
-  RedirectMatch permanent ^/ref/wa/biogs/WE01375b.htm$ /ref/wa/biogs/WE00467b.htm
-  RedirectMatch permanent ^/guide/wa/WE01375$ /guide/wa/WE00467
-  RedirectMatch permanent ^/ref/qld/biogs/QE00293b.htm$ /ref/qld/biogs/QE00265b.htm
-  RedirectMatch permanent ^/guide/qld/QE00293$ /guide/qld/QE00265
-  #These  redirects were added by Cate O'Neill on 16 June  2017 to correct errors with the app pages
   RedirectMatch permanent ^/qld/bib/QP0000521.htm$ /ref/qld/biogs/QE00640b.htm
   RedirectMatch permanent ^/ref/qld/bib/QP0000521.htm$ /ref/qld/biogs/QE00640b.htm
   #These redirects were added by Nicola Laurent on 15 March 2017
