@@ -187,7 +187,7 @@
 /ref/nsw/biogs/NE01254b.htm, /ref/nsw/biogs/NE01230b.htm
 /nsw/biogs/NE01254b.htm, /ref/nsw/biogs/NE01230b.htm
 /ref/nsw/biogs/NE00119b.htm, /ref/nsw/biogs/NE00124b.htm
-/nsw/biogs/NE00119b.htm, /ref/nsw/biogs/NE00124b.htm.
+/nsw/biogs/NE00119b.htm, /ref/nsw/biogs/NE00124b.htm
 /ref/nsw/biogs/NE00174b.htm, /ref/nsw/biogs/NE00175b.htm
 /nsw/biogs/NE00174b.htm, /ref/nsw/biogs/NE00175b.htm
 /ref/nsw/biogs/NE00190b.htm, /ref/nsw/biogs/NE00189b.htm
@@ -584,7 +584,7 @@
 
 # This biog redirect was added by Nicola Laurent on 24 October 2014
 /ref/qld/biogs/QE00423b.htm, /ref/qld/biogs/QE00411b.htm
-/nsw/biogs/QE00423b.htm, /ref/nsw/biogs/QE00411b.htm
+/qld/biogs/QE00423b.htm, /ref/qld/biogs/QE00411b.htm
 
 # These redirects were added by Cate O'Neill on 30 October 2014 - incorrectly inputted on 25 July 2014
 /ref/wa/biogs/WE00519.htm, /ref/wa/biogs/WE00451b.htm
@@ -1256,8 +1256,8 @@
 /nsw/objects/ND0000437.htm, /nsw/biogs/NE01686b.htm
 
 # This dobject redirect was added by Nicola Laurent on 30 March 2015
-/ref/wa/objects/WD0001021.htm, /ref/wa/biogs/WE01493.htm
-/wa/objects/WD0001021.htm, /wa/biogs/WE01493.htm
+/ref/wa/objects/WD0001021.htm, /ref/wa/biogs/WE01493b.htm
+/wa/objects/WD0001021.htm, /wa/biogs/WE01493b.htm
 
 # This entity to pub redirect added by Cate O'Neill 30 March 2015
 /ref/qld/biogs/QE00872b.htm, /ref/qld/bib/QP0000555.htm
@@ -1315,3 +1315,369 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /ref/nsw/objects/ND0000454.htm, /ref/nsw/biogs/NE01691b.htm
 /nsw/objects/ND0000454.htm, /nsw/biogs/NE01691b.htm
+
+# This redirect was added by Cate O'Neill on 28 May 2015
+/ref/sa/biogs/SE00742b.htm, /ref/sa/biogs/SE00726b.htm
+/sa/biogs/SE00742b.htm, /sa/biogs/SE00726b.htm
+
+# This was added by Cate O'Neill, 1 June 2015
+# These redirects had typos which Cate O'Neill corrected on 7 AUgust 2015.
+
+/ref/sa/biogs/SE00283b.htm, /ref/sa/biogs/SE01408b.htm
+/sa/biogs/SE00283b.htm, /sa/biogs/SE01408b.htm
+
+# These were added by Cate O'Neill, 2 June 2015
+/ref/sa/biogs/SE00978b.htm, /ref/sa/biogs/SE00977b.htm
+/sa/biogs/SE00978b.htm, /sa/biogs/SE00977b.htm
+
+/ref/sa/biogs/SE00983b.htm, /ref/sa/biogs/SE00982b.htm
+/sa/biogs/SE00983b.htm, /sa/biogs/SE00982b.htm
+
+/ref/sa/biogs/SE00994b.htm, /ref/sa/biogs/SE00992b.htm
+/sa/biogs/SE00994b.htm, /sa/biogs/SE00992b.htm
+
+# This redirect was added by Cate O'Neill on 3 June 2015
+/ref/sa/biogs/SE01075b.htm, /ref/sa/biogs/SE00861b.htm
+/sa/biogs/SE01075b.htm, /sa/biogs/SE00861b.htm
+
+/ref/sa/biogs/SE01076b.htm, /ref/sa/biogs/SE00807b.htm
+/sa/biogs/SE01076b.htm, /sa/biogs/SE00807b.htm
+
+/ref/sa/biogs/SE01091b.htm, /ref/sa/biogs/SE00840b.htm
+/sa/biogs/SE01091b.htm, /sa/biogs/SE00840b.htm
+
+/ref/sa/biogs/SE01079b.htm, /ref/sa/biogs/SE00811b.htm
+/sa/biogs/SE01079b.htm, /sa/biogs/SE00811b.htm
+
+/ref/sa/biogs/SE01078b.htm, /ref/sa/biogs/SE00811b.htm
+/sa/biogs/SE01078b.htm, /sa/biogs/SE00811b.htm
+
+# This redirect was added by Cate O'Neill on 4 June 2015
+/ref/sa/biogs/SE00534b.htm, /ref/sa/biogs/SE00450b.htm
+/sa/biogs/SE00534b.htm, /sa/biogs/SE00450b.htm
+
+
+# These biog redirects were added by Nicola Laurent on 30 July 2015
+/ref/nsw/biogs/NE00956b.htm, /ref/nsw/biogs/NE00952b.htm
+/nsw/biogs/NE00956b.htm, /nsw/biogs/NE00952b.htm
+
+# This redirect was inputted incorrectly - fixed by Cate O'Neill on 7 August 2015
+
+/ref/nsw/biogs/NE00957b.htm, /ref/nsw/biogs/NE00958b.htm
+/nsw/biogs/NE00957b.htm, /nsw/biogs/NE00958b.htm
+
+/ref/nsw/biogs/NE01446b.htm, /ref/nsw/biogs/NE01676b.htm
+/nsw/biogs/NE01446b.htm, /nsw/biogs/NE01676b.htm
+
+# These redirects were added by Cate O'Neill on 7 August 2015
+
+/ref/qld/biogs/QE00836b.htm, /ref/qld/biogs/QE00497b.htm
+/qld/biogs/QE00836b.htm, /qld/biogs/QE00497b.htm
+
+/ref/qld/biogs/QE00837b.htm, /ref/qld/biogs/QE00497b.htm
+/qld/biogs/QE00837b.htm, /qld/biogs/QE00497b.htm
+
+
+# This dobject to biog redirect was added by Nicola Laurent on 11 August 2015
+/ref/tas/objects/TD0000165.htm, /ref/tas/biogs/TE00560b.htm
+/tas/objects/TD0000165.htm, /tas/biogs/TE00560b.htm
+
+
+#These bib to biog redirects were added by Nicola Laurent on 27 August 2015
+/ref/wa/bib/WP0000801.htm, /ref/wa/biogs/WE00956b.htm
+/wa/bib/WP0000801.htm, /wa/biogs/WE00956b.htm
+
+/ref/wa/bib/WP0000802.htm, /ref/wa/biogs/WE00956b.htm
+/wa/bib/WP0000802.htm, /wa/biogs/WE00956b.htm
+
+
+#These bib to biog redirects were added by Nicola Laurent on 28 August 2015
+/ref/wa/bib/WP0000820.htm, /ref/wa/biogs/WE00507b.htm
+/wa/bib/WP0000820.htm, /wa/biogs/WE00507b.htm
+
+/ref/wa/bib/WP0000825.htm, /ref/wa/biogs/WE00978b.htm
+/wa/bib/WP0000825.htm, /wa/biogs/WE00978b.htm
+
+
+#These bib to biog redirects were added by Nicola Laurent on 1 September 2015
+/ref/wa/bib/WP0001166.htm, /ref/wa/biogs/WE00502b.htm
+/wa/bib/WP0001166.htm, /wa/biogs/WE00502b.htm
+
+/ref/wa/bib/WP0001202.htm, /ref/wa/biogs/WE00062b.htm
+/wa/bib/WP0001202.htm, /wa/biogs/WE00062b.htm
+
+/ref/wa/bib/WP0001131.htm, /ref/wa/biogs/WE01130b.htm
+/wa/bib/WP0001131.htm, /wa/biogs/WE01130b.htm
+
+/ref/wa/bib/WP0001130.htm, /ref/wa/biogs/WE01130b.htm
+/wa/bib/WP0001130.htm, /wa/biogs/WE01130b.htm
+
+#These redirects were added by Rachel Tropea on 29 September 2015 as part of a Wordpress review
+/help/factsheet-2-search-tips/, /help/new-search/
+
+/contact/care-leavers-australia-network/ to http://www.findandconnect.gov.au/contact/
+
+/contact/child-migrants-trust/ to http://www.findandconnect.gov.au/contact/
+
+/contact/international-association-of-former-child-migrants-and-their-families/, /ref/wa/biogs/WE00714b.htm
+
+/contact/alliance-for-forgotten-australians/, /ref/australia/biogs/FE00095b.htm
+
+/contact/adoption-services/, /resources/adoptions/
+
+/contact/royal-commission/, /ref/australia/biogs/FE00101b.htm
+
+/featured-stories/accessing-records-your-rights/, /resources/your-rights/
+
+# This redirect was added by Cate O'Neill on 19 october 2015
+
+/ref/qld/biogs/QE00643b.htm, /ref/qld/biogs/QE00642b.htm
+/qld/biogs/QE00643b.htm, /qld/biogs/QE00642b.htm
+
+# This redirect was added by Cate O'Neill on 21 october 2015
+/ref/qld/objects/QD0000028.htm, /ref/qld/objects/QD0000026.htm
+/qld/objects/QD0000028.htm, /qld/objects/QD0000026.htm
+
+#These redirects were added by Rachel Tropea on 11 November 2015
+/look-for-records/, /information-about-records/
+ 
+/help/, /help/factsheet-1-how-to-use-the-website/
+
+/about/web-resource-credits/, /about/credits/ 
+
+# This redirect was added by Nicola Laurent on 18 November 2015
+/ref/vic/bib/P00001103.htm, /ref/vic/objects/D00000533.htm
+
+
+# These redirects were added by Nicola Laurent on 15 December 2015
+/ref/wa/bib/WP0000872.htm, /ref/wa/bib/WP0000072.htm
+
+
+/ref/nsw/bib/NP0000796.htm, /ref/nsw/biogs/NE01168b.htm
+/nsw/bib/NP0000796.htm, /nsw/biogs/NE01168b.htm
+
+# This redirect was added by Nicola Laurent on 18 December 2015
+/web-resource-credits/, /about/credits/ 
+
+# Redirects added by Cate O'Neill on 20 April 2016
+
+/ref/vic/biogs/E000955b.htm, /ref/vic/biogs/E000170b.htm
+/vic/biogs/E000955b.htm, /vic/biogs/E000170b.htm
+
+/ref/vic/biogs/E000986b.htm, /ref/vic/biogs/E000170b.htm
+/vic/biogs/E000986b.htm, /vic/biogs/E000170b.htm
+
+#This redirect was added by Nicola Laurent on 24 June 2016
+
+/ref/wa/objects/WD0000410.htm, /ref/wa/biogs/WE00692b.htm
+/wa/objects/WD0000410.htm, /wa/biogs/WE00692b.htm
+
+#These redirects were added by Nicola Laurent on 28 June 2016
+
+/ref/nsw/bib/NP0000157.htm, /ref/nsw/bib/NP0000012.htm
+/nsw/bib/NP0000157.htm, /nsw/bib/NP0000012.htm
+
+/ref/nsw/bib/NP0000469.htm, /ref/nsw/bib/NP0000012.htm
+/nsw/bib/NP0000469.htm, /nsw/bib/NP0000012.htm
+
+#These redirects were added by Nicola Laurent on 29 June 2016
+
+/ref/nsw/objects/ND0000446.htm, /ref/nsw/bib/NP0000640.htm
+/nsw/objects/ND0000446.htm, /nsw/bib/NP0000640.htm
+
+#These redirects were added by Nicola Laurent on 6 March 2017
+/ref/wa/bib/WP0000210.htm, /ref/wa/biogs/WE00492b.htm
+/wa/bib/WP0000210.htm, /wa/biogs/WE00492b.htm
+/nsw/bib/NP0000210.htm, /nsw/biogs/NE00248b.htm
+/ref/nsw/bib/NP0000210.htm, /ref/nsw/biogs/NE00248b.htm
+/wa/bib/WP0000061.htm, /wa/biogs/WE00122b.htm
+/ref/wa/bib/WP0000061.htm, /ref/wa/biogs/WE00122b.htm
+
+#These redirects were added by Nicola Laurent on 7 March 2017
+/act/bib/AP0000010.htm, /act/biogs/AE00024b.htm
+/ref/act/bib/AP0000010.htm, /ref/act/biogs/AE00024b.htm
+/act/bib/AP0000011.htm, /act/biogs/AE00024b.htm
+/ref/act/bib/AP0000011.htm, /ref/act/biogs/AE00024b.htm
+
+#This redirect was added by Nicola Laurent on 10 March 2017
+/qld/bib/QP0000521.htm, /qld/biogs/QE00640b.htm
+/ref/qld/bib/QP0000521.htm, /ref/qld/biogs/QE00640b.htm
+
+#These redirects were added by Nicola Laurent on 15 March 2017
+/tas/bib/TP0000730.htm, /tas/bib/TP0000589.htm
+/ref/tas/bib/TP0000730.htm, /ref/tas/bib/TP0000589.htm
+/nsw/bib/NP0000712.htm, /nsw/bib/NP0000459.htm
+/ref/nsw/bib/NP0000712.htm, /ref/nsw/bib/NP0000459.htm
+/nsw/bib/NP0000711.htm, /nsw/bib/NP0000459.htm
+/ref/nsw/bib/NP0000711.htm, /ref/nsw/bib/NP0000459.htm
+/nsw/bib/NP0000713.htm, /nsw/bib/NP0000459.htm
+/ref/nsw/bib/NP0000713.htm, /ref/nsw/bib/NP0000459.htm
+
+#This redirect was added by Nicola Laurent on 28 March 2017
+/ref/vic/biogs/E000851b.htm, /ref/vic/biogs/E001035b.htm
+/vic/biogs/E000851b.htm, /vic/biogs/E001035b.htm
+
+#This redirect was added by Nicola Laurent on 10 April 2017
+/ref/nsw/biogs/NE01460b.htm, /ref/nsw/biogs/NE00726b.htm
+/nsw/biogs/NE01460b.htm /nsw/biogs/NE00726b.htm
+
+#This redirect was added by Cate O'Neill on 12 May 2017
+
+/ref/qld/biogs/QE00308b.htm, /ref/qld/biogs/QE00245b.htm
+/qld/biogs/QE00308b.htm, /qld/biogs/QE00245b.htm
+
+#This redirect was added by Cate O'Neill 16 May 2017
+
+/ref/nsw/biogs/NE00024b.htm, /ref/nsw/biogs/NE00020b.htm
+/nsw/biogs/NE00024b.htm, /nsw/biogs/NE00020b.htm
+
+#These redirects were added by Cate O'Neill 1 June 2017
+
+/ref/sa/biogs/SE00854b.htm, /ref/sa/biogs/SE01362b.htm
+/sa/biogs/SE00854b.htm, /sa/biogs/SE01362b.htm
+
+/ref/sa/biogs/SE00853b.htm, /ref/sa/biogs/SE01362b.htm
+/sa/biogs/SE00853b.htm, /sa/biogs/SE01362b.htm
+
+/ref/tas/biogs/TE00178b.htm, /ref/tas/biogs/TE00225b.htm
+/tas/biogs/TE00178b.htm, tas/biogs/TE00225b.htm
+
+/ref/nsw/biogs/NE01380b.htm, /ref/nsw/biogs/NE01008b.htm
+/nsw/biogs/NE01380b.htm, /nsw/biogs/NE01008b.htm
+
+/ref/wa/biogs/WE01374b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01374b.htm, /wa/biogs/WE00467b.htm
+
+/ref/wa/biogs/WE01373b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01373b.htm, /wa/biogs/WE00467b.htm
+
+/ref/wa/biogs/WE01375b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01375b.htm, /wa/biogs/WE00467b.htm
+
+/ref/qld/biogs/QE00293b.htm, /ref/qld/biogs/QE00265b.htm
+/qld/biogs/QE00293b.htm, /qld/biogs/QE00265b.htm
+
+#These redirects were added by Cate O'Neill 14 June 2017
+
+/ref/sa/biogs/SE00854b.htm, /ref/sa/biogs/SE01362b.htm
+/guide/sa/SE00854, /guide/sa/SE01362
+
+/ref/sa/biogs/SE00853b.htm, /ref/sa/biogs/SE01362b.htm
+/guide/sa/SE00853b, /guide/sa/SE01362
+
+/ref/tas/biogs/TE00178b.htm, /ref/tas/biogs/TE00225b.htm
+/guide/tas/TE00178, /guide/tas/TE00225
+
+/ref/nsw/biogs/NE01380b.htm, /ref/nsw/biogs/NE01008b.htm
+/guide/nsw/NE01380, /guide/nsw/NE01008
+
+/ref/wa/biogs/WE01374b.htm, /ref/wa/biogs/WE00467b.htm
+/guide/wa/WE01374, /guide/wa/WE00467
+
+/ref/wa/biogs/WE01373b.htm, /ref/wa/biogs/WE00467b.htm
+/guide/wa/WE01373, /guide/wa/WE00467
+
+/ref/wa/biogs/WE01375b.htm, /ref/wa/biogs/WE00467b.htm
+/guide/wa/WE01375, /guide/wa/WE00467
+
+/ref/qld/biogs/QE00293b.htm, /ref/qld/biogs/QE00265b.htm
+/guide/qld/QE00293, /guide/qld/QE00265
+
+#These  redirects were added by Cate O'Neill on 16 June  2017 to correct errors with the app pages
+/qld/bib/QP0000521.htm, /ref/qld/biogs/QE00640b.htm
+/ref/qld/bib/QP0000521.htm, /ref/qld/biogs/QE00640b.htm
+
+#These redirects were added by Nicola Laurent on 15 March 2017
+/tas/bib/TP0000730.htm, /ref/tas/bib/TP0000589.htm
+/ref/tas/bib/TP0000730.htm, /ref/tas/bib/TP0000589.htm
+/nsw/bib/NP0000712.htm, /ref/nsw/bib/NP0000459.htm
+/ref/nsw/bib/NP0000712.htm, /ref/nsw/bib/NP0000459.htm
+/nsw/bib/NP0000711.htm, /ref/nsw/bib/NP0000459.htm
+/ref/nsw/bib/NP0000711.htm, /ref/nsw/bib/NP0000459.htm
+/nsw/bib/NP0000713.htm, /ref/nsw/bib/NP0000459.htm
+/ref/nsw/bib/NP0000713.htm, /ref/nsw/bib/NP0000459.htm
+
+#This redirect was added by Nicola Laurent on 28 March 2017
+/ref/vic/biogs/E000851b.htm, /ref/vic/biogs/E001035b.htm
+/vic/biogs/E000851b.htm, /ref/vic/biogs/E001035b.htm
+/guide/vic/E000851, /ref/vic/biogs/E001035b.htm
+
+#This redirect was added by Nicola Laurent on 10 April 2017
+/ref/nsw/biogs/NE01460b.htm, /ref/nsw/biogs/NE00726b.htm
+/nsw/biogs/NE01460b.htm, /ref/nsw/biogs/NE00726b.htm
+/guide/nsw/NE01460, /ref/nsw/biogs/NE00726b.htm
+
+#This redirect was added by Cate O'Neill on 12 May 2017
+
+/ref/qld/biogs/QE00308b.htm, /ref/qld/biogs/QE00245b.htm
+/qld/biogs/QE00308b.htm, /ref/qld/biogs/QE00245b.htm
+/guide/qld/QE00308b, /ref/qld/biogs/QE00245b.htm
+
+#This redirect was added by Cate O'Neill 16 May 2017
+
+/ref/nsw/biogs/NE00024b.htm, /ref/nsw/biogs/NE00020b.htm
+/nsw/biogs/NE00024b.htm, /ref/nsw/biogs/NE00020b.htm
+/guide/nsw/NE00024, /ref/nsw/biogs/NE00020b.htm
+
+#These redirects were added by Cate O'Neill 1 June 2017
+
+/ref/sa/biogs/SE00854b.htm, /ref/sa/biogs/SE01362b.htm
+/sa/biogs/SE00854b.htm, /ref/sa/biogs/SE01362b.htm
+/guide/sa/SE00854, /ref/sa/biogs/SE01362b.htm
+
+/ref/sa/biogs/SE00853b.htm, /ref/sa/biogs/SE01362b.htm
+/sa/biogs/SE00853b.htm, /ref/sa/biogs/SE01362b.htm
+/guide/sa/SE00853, /ref/sa/biogs/SE01362b.htm
+
+/ref/tas/biogs/TE00178b.htm, /ref/tas/biogs/TE00225b.htm
+/tas/biogs/TE00178b.htm, /ref/tas/biogs/TE00225b.htm
+/guide/tas/TE00178, /ref/tas/biogs/TE00225b.htm
+
+/ref/nsw/biogs/NE01380b.htm, /ref/nsw/biogs/NE01008b.htm
+/nsw/biogs/NE01380b.htm, /ref/nsw/biogs/NE01008b.htm
+/guide/nsw/NE01380, /ref/nsw/biogs/NE01008b.htm
+
+/ref/wa/biogs/WE01374b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01374b.htm, /ref/wa/biogs/WE00467b.htm
+/guide/wa/WE01374, /ref/wa/biogs/WE00467b.htm
+
+/ref/wa/biogs/WE01373b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01373b.htm, /ref/wa/biogs/WE00467b.htm
+/guide/wa/WE01373, /ref/wa/biogs/WE00467b.htm
+
+/ref/wa/biogs/WE01375b.htm, /ref/wa/biogs/WE00467b.htm
+/wa/biogs/WE01375b.htm, /ref/wa/biogs/WE00467b.htm
+/guide/wa/WE01375, /ref/wa/biogs/WE00467b.htm
+
+/ref/qld/biogs/QE00293b.htm, /ref/qld/biogs/QE00265b.htm
+/qld/biogs/QE00293b.htm, /ref/qld/biogs/QE00265b.htm
+/guide/qld/QE00293, /ref/qld/biogs/QE00265b.htm
+
+#These redirects were added by Nicola Laurent 16 June 2017
+/ref/tas/objects/TD0000260.htm, /ref/tas/biogs/TE00284b.htm
+/tas/objects/TD0000260.htm, /ref/tas/biogs/TE00284b.htm
+
+/ref/tas/objects/TD0000259.htm, /ref/tas/biogs/TE00284b.htm
+/tas/objects/TD0000259.htm, /ref/tas/biogs/TE00284b.htm
+
+/ref/tas/objects/TD0000258.htm, /ref/tas/biogs/TE00284b.htm
+/tas/objects/TD0000258.htm, /ref/tas/biogs/TE00284b.htm
+
+/ref/tas/objects/TD0000154.htm, /ref/tas/biogs/TE00556b.htm
+/tas/objects/TD0000154.htm, /ref/tas/biogs/TE00556b.htm
+
+#These redirects were added by Nicola Laurent 19 June 2017
+/ref/qld/objects/QD0000161.htm, /ref/qld/objects/QD0000152.htm
+/qld/objects/QD0000161.htm, /ref/qld/objects/QD0000152.htm
+
+/ref/sa/objects/SD0000368.htm, /ref/sa/biogs/SE00240b.htm
+/sa/objects/SD0000368.htm, /ref/sa/biogs/SE00240b.htm
+
+/ref/sa/objects/SD0000398.htm, /ref/sa/biogs/SE00101b.htm
+/sa/objects/SD0000398.htm, /ref/sa/biogs/SE00101b.htm
+
+/ref/sa/objects/SD0000402.htm, /ref/sa/biogs/SE00111b.htm
+/sa/objects/SD0000402.htm, /ref/sa/biogs/SE00111b.htm
+
+/ref/sa/objects/SD0000401.htm, /ref/sa/biogs/SE00111b.htm
+/sa/objects/SD0000401.htm, /ref/sa/biogs/SE00111b.htm
