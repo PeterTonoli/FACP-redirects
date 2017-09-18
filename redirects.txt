@@ -1415,9 +1415,9 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 #These redirects were added by Rachel Tropea on 29 September 2015 as part of a Wordpress review
 /help/factsheet-2-search-tips/, /help/new-search/
 
-/contact/care-leavers-australia-network/ to http://www.findandconnect.gov.au/contact/
+/contact/care-leavers-australia-network/, http://www.findandconnect.gov.au/contact/
 
-/contact/child-migrants-trust/ to http://www.findandconnect.gov.au/contact/
+/contact/child-migrants-trust/, http://www.findandconnect.gov.au/contact/
 
 /contact/international-association-of-former-child-migrants-and-their-families/, /ref/wa/biogs/WE00714b.htm
 
@@ -1573,7 +1573,7 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /ref/qld/biogs/QE00293b.htm, /ref/qld/biogs/QE00265b.htm
 /qld/biogs/QE00293b.htm, /ref/qld/biogs/QE00265b.htm
-/guide/qld/QE00293, /ref/qld/biogs/QE00265b.htm
+/guide/qld/QE00293, /guide/qld/QE00265
 
 #These redirects were added by Nicola Laurent 16 June 2017
 /ref/tas/objects/TD0000260.htm, /ref/tas/biogs/TE00284b.htm
@@ -1603,3 +1603,122 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /ref/sa/objects/SD0000401.htm, /ref/sa/biogs/SE00111b.htm
 /sa/objects/SD0000401.htm, /ref/sa/biogs/SE00111b.htm
+
+#This redirect added by Kirsten Wright 22 June 2017
+/about/terms-and-conditions/, /about/privacy-policy/
+
+#this redirect added by Cate O'Neill 10 August 2017
+
+/ref/nsw/biogs/NE00090b.htm, /ref/nsw/biogs/NE00089b.htm
+/nsw/biogs/NE00090b.htm, /ref/nsw/biogs/NE00089b.htm
+/guide/nsw/NE00090, /ref/nsw/biogs/NE00089b.htm
+
+#These redirects added by Nicola Laurent 9 September 2017
+/ref/sa/biogs/SE00432b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00432, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00432b.htm, /ref/sa/biogs/SE00725b.htm
+
+/ref/sa/biogs/SE00434b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00434, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00434b.htm, /ref/sa/biogs/SE00725b.htm
+
+/ref/sa/biogs/SE00435b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00435, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00435b.htm, /ref/sa/biogs/SE00725b.htm
+
+#These redirects added by Nicola Laurent 11 September 2017
+/ref/sa/biogs/SE00394b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00394, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00394b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00399b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00399, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00399b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00393b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00393, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00393b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00395b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00395, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00395b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00398b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00398, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00398b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00401b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00401, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00401b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00404b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00404, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00404b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00392b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00392, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00392b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00376b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00376, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00376b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00400b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00400, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00400b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00397b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00397, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00397b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00391b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00391, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00391b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00374b.htm, /ref/sa/biogs/SE00375b.htm
+/guide/sa/SE00374, /ref/sa/biogs/SE00375b.htm
+/sa/biogs/SE00374b.htm, /ref/sa/biogs/SE00375b.htm
+
+/ref/sa/biogs/SE00371b.htm, /ref/sa/biogs/SE00375b.htm
+/guide/sa/SE00371, /ref/sa/biogs/SE00375b.htm
+/sa/biogs/SE00371b.htm, /ref/sa/biogs/SE00375b.htm
+
+/ref/sa/biogs/SE00408b.htm, /ref/sa/biogs/SE00409b.htm
+/guide/sa/SE00408, /ref/sa/biogs/SE00409b.htm
+/sa/biogs/SE00408b.htm, /ref/sa/biogs/SE00409b.htm
+
+/ref/sa/biogs/SE00410b.htm, /ref/sa/biogs/SE00409b.htm
+/guide/sa/SE00410, /ref/sa/biogs/SE00409b.htm
+/sa/biogs/SE00410b.htm, /ref/sa/biogs/SE00409b.htm
+
+/ref/sa/biogs/SE00427b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00427, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00427b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00426b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00426, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00426b.htm, /ref/sa/biogs/SE00424b.htm
+
+#These redirects added by Kirsten Wright 11 September 2017
+/resources/rad2-grants/assessment-acquittal/, /resources/rad2-grants/
+
+/resources/rad2-grants/developing-a-budget/, /resources/rad2-grants/
+
+/resources/rad2-grants/faqs/, /resources/rad2-grants/
+
+/resources/rad2-grants/guidelines/, /resources/rad2-grants/
+
+/resources/rad2-grants/examples-of-descriptions-of-records/, /resources/rad2-grants/
+
+/resources/rad2-grants/terms-conditions/, /resources/rad2-grants/
+
+/resources/radp/faqs/, /resources/rad2-grants/
+
+/resources/rad2-grants/2016-17-application-example/, /resources/rad2-grants/
+
+/resources/rad2-grants/apply/, /resources/rad2-grants/
+
+/contact/care-leavers-australia-network/, /contact/
+
+/contact/child-migrants-trust/, /contact/
+
