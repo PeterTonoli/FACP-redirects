@@ -1722,3 +1722,140 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /contact/child-migrants-trust/, /contact/
 
+#This redirect was added by Nicola Laurent 24 October 2017
+/ref/sa/biogs/SE00396b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00396b.htm, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00396b.htm, /ref/sa/biogs/SE00396b.htm
+
+#These redirects were added by Nicola Laurent 27 October 2017
+/ref/sa/biogs/SE00684b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00684b.htm, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00684b.htm, /ref/sa/biogs/SE00778b.htm
+
+/ref/sa/biogs/SE00683b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00683b.htm, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00683b.htm, /ref/sa/biogs/SE00778b.htm
+
+/ref/sa/biogs/SE00682b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00682b.htm, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00682b.htm, /ref/sa/biogs/SE00778b.htm
+
+/ref/sa/biogs/SE00685b.htm, /ref/sa/biogs/SE00777b.htm
+/guide/sa/SE00685b.htm, /ref/sa/biogs/SE00777b.htm
+/sa/biogs/SE00685b.htm, /ref/sa/biogs/SE00777b.htm
+
+/ref/sa/biogs/SE00680b.htm, /ref/sa/biogs/SE00777b.htm
+/guide/sa/SE00680b.htm, /ref/sa/biogs/SE00777b.htm
+/sa/biogs/SE00680b.htm, /ref/sa/biogs/SE00777b.htm
+
+/ref/sa/biogs/SE00681b.htm, /ref/sa/biogs/SE00777b.htm
+/guide/sa/SE00681b.htm, /ref/sa/biogs/SE00777b.htm
+/sa/biogs/SE00681b.htm, /ref/sa/biogs/SE00777b.htm
+
+/ref/sa/biogs/SE00679b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00679b.htm, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00679b.htm, /ref/sa/biogs/SE00778b.htm
+
+#These redirects were added by Nicola Laurent 3 November 2017
+/ref/sa/biogs/SE00387b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00387b.htm, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00387b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00381b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00381b.htm, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00381b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00383b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00383b.htm, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00383b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00382b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00382b.htm, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00382b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00384b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00384b.htm, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00384b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00433b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00433b.htm, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00433b.htm, /ref/sa/biogs/SE00725b.htm
+
+/ref/sa/biogs/SE00431b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00431b.htm, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00431b.htm, /ref/sa/biogs/SE00725b.htm
+
+#These redirects were added by Nicola Laurent 6 November 2017
+/ref/sa/biogs/SE00436b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00436b.htm, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00436b.htm, /ref/sa/biogs/SE00725b.htm
+
+/ref/sa/biogs/SE00403b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00403b.htm, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00403b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00402b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00402b.htm, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00402b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00421b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00421b.htm, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00421b.htm, /ref/sa/biogs/SE00424b.htm
+
+#These redirects were added by Nicola Laurent 7 November 2017
+/ref/sa/biogs/SE00422b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00422b.htm, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00422b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00418b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00418b.htm, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00418b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00419b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00419b.htm, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00419b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00425.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00425b.htm, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00425b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00423.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00423b.htm, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00423b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00420.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00420b.htm, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00420b.htm, /ref/sa/biogs/SE00424b.htm
+
+#These redirects were added by Cate O'Neill 23 November 2017
+/ref/vic/biogs/E000708b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000708b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000708b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000707b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000707b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000707b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000706b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000706b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000706b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000712b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000712b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000712b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000715b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000715b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000715b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000716b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000716b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000716b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000717b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000717b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000717b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000710b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000710b.htm, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000710b.htm, /ref/vic/biogs/E000704b.htm
