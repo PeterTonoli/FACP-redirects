@@ -1859,3 +1859,11 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 /ref/vic/biogs/E000710b.htm, /ref/vic/biogs/E000704b.htm
 /guide/vic/E000710b.htm, /ref/vic/biogs/E000704b.htm
 /vic/biogs/E000710b.htm, /ref/vic/biogs/E000704b.htm
+
+#These redirects were added by Constance Thurley-Hart 6th December 2017
+/ref/wa/objects/WD0000505.htm, /ref/wa/biogs/WE01542b.htm
+/wa/objects/WD0000505.htm, /ref/wa/biogs/WE01542b.htm
+
+#These redirects were added by Constance Thurley-Hart 12th December 2017
+/ref/nsw/objects/ND0000702.htm, /ref/nsw/objects/ND0000703.htm
+/nsw/objects/ND0000702.htm, /ref/nsw/objects/ND0000703.htm

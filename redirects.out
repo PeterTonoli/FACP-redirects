@@ -1446,3 +1446,9 @@
   RedirectMatch permanent ^/ref/vic/biogs/E000710b.htm$ /ref/vic/biogs/E000704b.htm
   RedirectMatch permanent ^/guide/vic/E000710b.htm$ /ref/vic/biogs/E000704b.htm
   RedirectMatch permanent ^/vic/biogs/E000710b.htm$ /ref/vic/biogs/E000704b.htm
+  #These redirects were added by Constance Thurley-Hart 6th December 2017
+  RedirectMatch permanent ^/ref/wa/objects/WD0000505.htm$ /ref/wa/biogs/WE01542b.htm
+  RedirectMatch permanent ^/wa/objects/WD0000505.htm$ /ref/wa/biogs/WE01542b.htm
+  #These redirects were added by Constance Thurley-Hart 12th December 2017
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000702.htm$ /ref/nsw/objects/ND0000703.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000702.htm$ /ref/nsw/objects/ND0000703.htm
