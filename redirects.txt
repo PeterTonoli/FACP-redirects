@@ -4675,7 +4675,120 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 /ref/nsw/bib/NP0000261.htm, /ref/nsw/biogs/NE00330b.htm
 /nsw/bib/NP0000261.htm, /ref/nsw/biogs/NE00330b.htm
 
+#These redirects were added by Nicola Laurent on 30 April 2018
 
+/ref/qld/objects/QD000156.htm, /ref/qld/biogs/QE00072b.htm
+/qld/objects/QD0000156.htm, /ref/qld/biogs/QE00072b.htm
 
+/ref/qld/objects/QD000186.htm, /ref/qld/objects/QD0000182.htm
+/qld/objects/QD0000186.htm, /ref/qld/objects/QD0000182.htm
 
+#These redirects were added by Nicola Laurent on 1 May 2018
+/ref/qld/objects/QD000149.htm, /ref/qld/biogs/QE00632b.htm
+/qld/objects/QD0000149.htm, /ref/qld/biogs/QE00632b.htm
 
+/ref/qld/objects/QD000176.htm, /ref/qld/biogs/QE00660b.htm
+/qld/objects/QD0000176.htm, /ref/qld/biogs/QE00660b.htm
+
+#These redirects were added by Kirsten Wright on 7 May 2018 - more pubresource legislation / statutes
+/ref/vic/bib/P00000808.htm, /ref/vic/biogs/E000772b.htm
+/vic/bib/P00000808.htm, /ref/vic/biogs/E000772b.htm
+
+/ref/vic/bib/P00000809.htm, /ref/vic/biogs/E000771b.htm
+/vic/bib/P00000809.htm, /ref/vic/biogs/E000771b.htm
+
+/ref/sa/bib/SP0000075.htm, /ref/sa/biogs/SE00278b.htm
+/sa/bib/SP0000075.htm, /ref/sa/biogs/SE00278b.htm
+
+/ref/sa/bib/SP0000076.htm, /ref/sa/biogs/SE00260b.htm
+/sa/bib/SP0000076.htm, /ref/sa/biogs/SE00260b.htm
+
+/ref/sa/bib/SP0000081.htm, /ref/sa/biogs/SE00275b.htm
+/sa/bib/SP0000081.htm, /ref/sa/biogs/SE00275b.htm
+
+/ref/sa/bib/SP0000082.htm, /ref/sa/biogs/SE00276b.htm
+/sa/bib/SP0000082.htm, /ref/sa/biogs/SE00276b.htm
+
+/ref/sa/bib/SP0000083.htm, /ref/sa/biogs/SE00259b.htm
+/sa/bib/SP0000083.htm, /ref/sa/biogs/SE00259b.htm
+
+/ref/sa/bib/SP0000085.htm, /ref/sa/biogs/SE00261b.htm
+/sa/bib/SP0000085.htm, /ref/sa/biogs/SE00261b.htm
+
+/ref/sa/bib/SP0000086.htm, /ref/sa/biogs/SE00262b.htm
+/sa/bib/SP0000086.htm, /ref/sa/biogs/SE00262b.htm
+
+/ref/sa/bib/SP0000087.htm, /ref/sa/biogs/SE01457b.htm
+/sa/bib/SP0000087.htm, /ref/sa/biogs/SE01457b.htm
+
+/ref/sa/bib/SP0000088.htm, /ref/sa/biogs/SE00265b.htm
+/sa/bib/SP0000088.htm, /ref/sa/biogs/SE00265b.htm
+
+/ref/sa/bib/SP0000089.htm, /ref/sa/biogs/SE00266b.htm
+/sa/bib/SP0000089.htm, /ref/sa/biogs/SE00266b.htm
+
+/ref/sa/bib/SP0000090.htm, /ref/sa/biogs/SE00267b.htm
+/sa/bib/SP0000090.htm, /ref/sa/biogs/SE00267b.htm
+
+/ref/sa/bib/SP0000092.htm, /ref/sa/biogs/SE00269b.htm
+/sa/bib/SP0000092.htm, /ref/sa/biogs/SE00269b.htm
+
+/ref/sa/bib/SP0000094.htm, /ref/sa/biogs/SE00271b.htm
+/sa/bib/SP0000094.htm, /ref/sa/biogs/SE00271b.htm
+
+/ref/sa/bib/SP0000095.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/SP0000095.htm, /ref/sa/biogs/SE00272b.htm
+
+/ref/sa/bib/SP0000097.htm, /ref/sa/biogs/SE00274b.htm
+/sa/bib/SP0000097.htm, /ref/sa/biogs/SE00274b.htm
+
+/ref/sa/bib/SP0000098.htm, /ref/sa/biogs/SE00277b.htm
+/sa/bib/SP0000098.htm, /ref/sa/biogs/SE00277b.htm
+
+/ref/sa/bib/SP0000099.htm, /ref/sa/biogs/SE00279b.htm
+/sa/bib/SP0000099.htm, /ref/sa/biogs/SE00279b.htm
+
+/ref/sa/bib/SP0000100.htm, /ref/sa/biogs/SE00280b.htm
+/sa/bib/SP0000100.htm, /ref/sa/biogs/SE00280b.htm
+
+/ref/sa/bib/SP0000101.htm, /ref/sa/biogs/SE00359b.htm
+/sa/bib/SP0000101.htm, /ref/sa/biogs/SE00359b.htm
+
+/ref/sa/bib/SP0000102.htm, /ref/sa/biogs/SE00360b.htm
+/sa/bib/SP0000102.htm, /ref/sa/biogs/SE00360b.htm
+
+/ref/sa/bib/SP0000213.htm, /ref/sa/biogs/SE01199b.htm
+/sa/bib/SP0000213.htm, /ref/sa/biogs/SE01199b.htm
+
+/ref/sa/bib/SP0000214.htm, /ref/sa/biogs/SE01197b.htm
+/sa/bib/SP0000214.htm, /ref/sa/biogs/SE01197b.htm
+
+/ref/sa/bib/SP0000384.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/SP0000384.htm, /ref/sa/biogs/SE00272b.htm
+
+#This redirect was added by Nicola Laurent on 11 May 2018
+
+/ref/qld/objects/QD000227.htm, /ref/qld/biogs/QE00860b.htm
+/qld/objects/QD0000227.htm, /ref/qld/biogs/QE00860b.htm
+
+#These redirects were added by Nicola Laurent on 15 May 2018
+
+/ref/sa/objects/SD000071.htm, /ref/sa/objects/SD0000189.htm
+/sa/objects/SD0000071.htm, /ref/sa/objects/SD0000189.htm
+
+/ref/sa/objects/SD000023.htm, /ref/sa/objects/SD0000119.htm
+/sa/objects/SD0000023.htm, /ref/sa/objects/SD0000119.htm
+
+/ref/sa/objects/SD000020.htm, /ref/sa/objects/SD0000227.htm
+/sa/objects/SD0000020.htm, /ref/sa/objects/SD0000227.htm
+
+/ref/sa/objects/SD000068.htm, /ref/sa/biogs/SE00021b.htm
+/sa/objects/SD0000068.htm, /ref/sa/biogs/SE00021b.htm
+
+#These redirects were added by Constance Thurley-Hart on 16th May 2018
+
+/ref/vic/bib/P00000490.htm, /ref/vic/biogs/E000107b.htm
+/vic/bib/P00000490.htm, /ref/vic/biogs/E000107b.htm
+
+/ref/vic/bib/P00000488.htm, /ref/vic/biogs/E000107b.htm
+/vic/bib/P00000488.htm, /ref/vic/biogs/E000107b.htm

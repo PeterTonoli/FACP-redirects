@@ -3439,3 +3439,81 @@
   RedirectMatch permanent ^/nsw/bib/NP0000251.htm$ /ref/nsw/biogs/NE00330b.htm
   RedirectMatch permanent ^/ref/nsw/bib/NP0000261.htm$ /ref/nsw/biogs/NE00330b.htm
   RedirectMatch permanent ^/nsw/bib/NP0000261.htm$ /ref/nsw/biogs/NE00330b.htm
+  #These redirects were added by Nicola Laurent on 30 April 2018
+  RedirectMatch permanent ^/ref/qld/objects/QD000156.htm$ /ref/qld/biogs/QE00072b.htm
+  RedirectMatch permanent ^/qld/objects/QD0000156.htm$ /ref/qld/biogs/QE00072b.htm
+  RedirectMatch permanent ^/ref/qld/objects/QD000186.htm$ /ref/qld/objects/QD0000182.htm
+  RedirectMatch permanent ^/qld/objects/QD0000186.htm$ /ref/qld/objects/QD0000182.htm
+  #These redirects were added by Nicola Laurent on 1 May 2018
+  RedirectMatch permanent ^/ref/qld/objects/QD000149.htm$ /ref/qld/biogs/QE00632b.htm
+  RedirectMatch permanent ^/qld/objects/QD0000149.htm$ /ref/qld/biogs/QE00632b.htm
+  RedirectMatch permanent ^/ref/qld/objects/QD000176.htm$ /ref/qld/biogs/QE00660b.htm
+  RedirectMatch permanent ^/qld/objects/QD0000176.htm$ /ref/qld/biogs/QE00660b.htm
+  #These redirects were added by Kirsten Wright on 7 May 2018 - more pubresource legislation / statutes
+  RedirectMatch permanent ^/ref/vic/bib/P00000808.htm$ /ref/vic/biogs/E000772b.htm
+  RedirectMatch permanent ^/vic/bib/P00000808.htm$ /ref/vic/biogs/E000772b.htm
+  RedirectMatch permanent ^/ref/vic/bib/P00000809.htm$ /ref/vic/biogs/E000771b.htm
+  RedirectMatch permanent ^/vic/bib/P00000809.htm$ /ref/vic/biogs/E000771b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000075.htm$ /ref/sa/biogs/SE00278b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000075.htm$ /ref/sa/biogs/SE00278b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000076.htm$ /ref/sa/biogs/SE00260b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000076.htm$ /ref/sa/biogs/SE00260b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000081.htm$ /ref/sa/biogs/SE00275b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000081.htm$ /ref/sa/biogs/SE00275b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000082.htm$ /ref/sa/biogs/SE00276b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000082.htm$ /ref/sa/biogs/SE00276b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000083.htm$ /ref/sa/biogs/SE00259b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000083.htm$ /ref/sa/biogs/SE00259b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000085.htm$ /ref/sa/biogs/SE00261b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000085.htm$ /ref/sa/biogs/SE00261b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000086.htm$ /ref/sa/biogs/SE00262b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000086.htm$ /ref/sa/biogs/SE00262b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000087.htm$ /ref/sa/biogs/SE01457b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000087.htm$ /ref/sa/biogs/SE01457b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000088.htm$ /ref/sa/biogs/SE00265b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000088.htm$ /ref/sa/biogs/SE00265b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000089.htm$ /ref/sa/biogs/SE00266b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000089.htm$ /ref/sa/biogs/SE00266b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000090.htm$ /ref/sa/biogs/SE00267b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000090.htm$ /ref/sa/biogs/SE00267b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000092.htm$ /ref/sa/biogs/SE00269b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000092.htm$ /ref/sa/biogs/SE00269b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000094.htm$ /ref/sa/biogs/SE00271b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000094.htm$ /ref/sa/biogs/SE00271b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000095.htm$ /ref/sa/biogs/SE00272b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000095.htm$ /ref/sa/biogs/SE00272b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000097.htm$ /ref/sa/biogs/SE00274b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000097.htm$ /ref/sa/biogs/SE00274b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000098.htm$ /ref/sa/biogs/SE00277b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000098.htm$ /ref/sa/biogs/SE00277b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000099.htm$ /ref/sa/biogs/SE00279b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000099.htm$ /ref/sa/biogs/SE00279b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000100.htm$ /ref/sa/biogs/SE00280b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000100.htm$ /ref/sa/biogs/SE00280b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000101.htm$ /ref/sa/biogs/SE00359b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000101.htm$ /ref/sa/biogs/SE00359b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000102.htm$ /ref/sa/biogs/SE00360b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000102.htm$ /ref/sa/biogs/SE00360b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000213.htm$ /ref/sa/biogs/SE01199b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000213.htm$ /ref/sa/biogs/SE01199b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000214.htm$ /ref/sa/biogs/SE01197b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000214.htm$ /ref/sa/biogs/SE01197b.htm
+  RedirectMatch permanent ^/ref/sa/bib/SP0000384.htm$ /ref/sa/biogs/SE00272b.htm
+  RedirectMatch permanent ^/sa/bib/SP0000384.htm$ /ref/sa/biogs/SE00272b.htm
+  #This redirect was added by Nicola Laurent on 11 May 2018
+  RedirectMatch permanent ^/ref/qld/objects/QD000227.htm$ /ref/qld/biogs/QE00860b.htm
+  RedirectMatch permanent ^/qld/objects/QD0000227.htm$ /ref/qld/biogs/QE00860b.htm
+  #These redirects were added by Nicola Laurent on 15 May 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD000071.htm$ /ref/sa/objects/SD0000189.htm
+  RedirectMatch permanent ^/sa/objects/SD0000071.htm$ /ref/sa/objects/SD0000189.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD000023.htm$ /ref/sa/objects/SD0000119.htm
+  RedirectMatch permanent ^/sa/objects/SD0000023.htm$ /ref/sa/objects/SD0000119.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD000020.htm$ /ref/sa/objects/SD0000227.htm
+  RedirectMatch permanent ^/sa/objects/SD0000020.htm$ /ref/sa/objects/SD0000227.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD000068.htm$ /ref/sa/biogs/SE00021b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000068.htm$ /ref/sa/biogs/SE00021b.htm
+  #These redirects were added by Constance Thurley-Hart on 16th May 2018
+  RedirectMatch permanent ^/ref/vic/bib/P00000490.htm$ /ref/vic/biogs/E000107b.htm
+  RedirectMatch permanent ^/vic/bib/P00000490.htm$ /ref/vic/biogs/E000107b.htm
+  RedirectMatch permanent ^/ref/vic/bib/P00000488.htm$ /ref/vic/biogs/E000107b.htm
+  RedirectMatch permanent ^/vic/bib/P00000488.htm$ /ref/vic/biogs/E000107b.htm
