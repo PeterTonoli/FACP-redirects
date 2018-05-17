@@ -1533,7 +1533,7 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /ref/qld/biogs/QE00308b.htm, /ref/qld/biogs/QE00245b.htm
 /qld/biogs/QE00308b.htm, /ref/qld/biogs/QE00245b.htm
-/guide/qld/QE00308b, /ref/qld/biogs/QE00245b.htm
+/guide/qld/QE00308, /ref/qld/biogs/QE00245b.htm
 
 #This redirect was added by Cate O'Neill 16 May 2017
 
@@ -1722,3 +1722,3073 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 /contact/child-migrants-trust/, /contact/
 
+#This redirect was added by Nicola Laurent 24 October 2017 AND CODE EDITED BY CATE O'NEILL 6 FEB 2018
+/ref/sa/biogs/SE00396b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00396, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00396b.htm, /ref/sa/biogs/SE00396b.htm
+
+#These redirects were added by Nicola Laurent 27 October 2017 AND EDITED 6.2.2018
+/ref/sa/biogs/SE00684b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00684, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00684b.htm, /ref/sa/biogs/SE00778b.htm
+
+/ref/sa/biogs/SE00683b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00683, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00683b.htm, /ref/sa/biogs/SE00778b.htm
+
+/ref/sa/biogs/SE00682b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00682, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00682b.htm, /ref/sa/biogs/SE00778b.htm
+
+/ref/sa/biogs/SE00685b.htm, /ref/sa/biogs/SE00777b.htm
+/guide/sa/SE00685, /ref/sa/biogs/SE00777b.htm
+/sa/biogs/SE00685b.htm, /ref/sa/biogs/SE00777b.htm
+
+/ref/sa/biogs/SE00680b.htm, /ref/sa/biogs/SE00777b.htm
+/guide/sa/SE00680, /ref/sa/biogs/SE00777b.htm
+/sa/biogs/SE00680b.htm, /ref/sa/biogs/SE00777b.htm
+
+/ref/sa/biogs/SE00681b.htm, /ref/sa/biogs/SE00777b.htm
+/guide/sa/SE00681, /ref/sa/biogs/SE00777b.htm
+/sa/biogs/SE00681b.htm, /ref/sa/biogs/SE00777b.htm
+
+/ref/sa/biogs/SE00679b.htm, /ref/sa/biogs/SE00778b.htm
+/guide/sa/SE00679, /ref/sa/biogs/SE00778b.htm
+/sa/biogs/SE00679b.htm, /ref/sa/biogs/SE00778b.htm
+
+#These redirects were added by Nicola Laurent 3 November 2017 AND EDITED 6.2.2018
+/ref/sa/biogs/SE00387b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00387, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00387b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00381b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00381, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00381b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00383b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00383, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00383b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00382b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00382, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00382b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00384b.htm, /ref/sa/biogs/SE00385b.htm
+/guide/sa/SE00384, /ref/sa/biogs/SE00385b.htm
+/sa/biogs/SE00384b.htm, /ref/sa/biogs/SE00385b.htm
+
+/ref/sa/biogs/SE00433b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00433, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00433b.htm, /ref/sa/biogs/SE00725b.htm
+
+/ref/sa/biogs/SE00431b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00431, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00431b.htm, /ref/sa/biogs/SE00725b.htm
+
+#These redirects were added by Nicola Laurent 6 November 2017 AND EDITED 6.2.2018
+/ref/sa/biogs/SE00436b.htm, /ref/sa/biogs/SE00725b.htm
+/guide/sa/SE00436, /ref/sa/biogs/SE00725b.htm
+/sa/biogs/SE00436b.htm, /ref/sa/biogs/SE00725b.htm
+
+/ref/sa/biogs/SE00403b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00403, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00403b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00402b.htm, /ref/sa/biogs/SE00396b.htm
+/guide/sa/SE00402, /ref/sa/biogs/SE00396b.htm
+/sa/biogs/SE00402b.htm, /ref/sa/biogs/SE00396b.htm
+
+/ref/sa/biogs/SE00421b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00421, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00421b.htm, /ref/sa/biogs/SE00424b.htm
+
+#These redirects were added by Nicola Laurent 7 November 2017 AND EDITED 6.2.2018
+/ref/sa/biogs/SE00422b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00422, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00422b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00418b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00418, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00418b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00419b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00419, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00419b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00425b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00425, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00425b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00423b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00423, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00423b.htm, /ref/sa/biogs/SE00424b.htm
+
+/ref/sa/biogs/SE00420b.htm, /ref/sa/biogs/SE00424b.htm
+/guide/sa/SE00420, /ref/sa/biogs/SE00424b.htm
+/sa/biogs/SE00420b.htm, /ref/sa/biogs/SE00424b.htm
+
+#These redirects were added by Cate O'Neill 23 November 2017 and EDITED BY CATE 6.2.2018
+/ref/vic/biogs/E000708b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000708, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000708b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000707b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000707, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000707b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000706b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000706, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000706b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000712b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000712, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000712b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000715b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000715, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000715b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000716b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000716, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000716b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000717b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000717, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000717b.htm, /ref/vic/biogs/E000704b.htm
+
+/ref/vic/biogs/E000710b.htm, /ref/vic/biogs/E000704b.htm
+/guide/vic/E000710, /ref/vic/biogs/E000704b.htm
+/vic/biogs/E000710b.htm, /ref/vic/biogs/E000704b.htm
+
+#These redirects were added by Constance Thurley-Hart 6th December 2017
+/ref/wa/objects/WD0000505.htm, /ref/wa/biogs/WE01542b.htm
+/wa/objects/WD0000505.htm, /ref/wa/biogs/WE01542b.htm
+
+#These redirects were added by Constance Thurley-Hart 12th December 2017
+/ref/nsw/objects/ND0000702.htm, /ref/nsw/objects/ND0000703.htm
+/nsw/objects/ND0000702.htm, /ref/nsw/objects/ND0000703.htm
+
+#These redirects were added by Nicola Laurent 24 January 2018 AND EDITED BY CATE 6 FEB 2018
+/ref/sa/biogs/SE01145b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01145, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01145b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01144b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01144, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01144b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01122b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01122, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01122b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01143b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01143, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01143b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01124b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01124, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01124b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01142b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01142, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01142b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01141b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01141, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01141b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01140b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01140, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01140b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01121b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01121, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01121b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01139b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01139, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01139b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01133b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01133, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01133b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01132b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01132, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01132b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01131b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01131, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01131b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01130b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01130, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01130b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01138b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01138, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01138b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01137b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01137, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01137b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01136b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01136, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01136b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01135b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01135, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01135b.htm, /ref/sa/biogs/SE01120b.htm
+
+/ref/sa/biogs/SE01134b.htm, /ref/sa/biogs/SE01120b.htm
+/guide/sa/SE01134, /ref/sa/biogs/SE01120b.htm
+/sa/biogs/SE01134b.htm, /ref/sa/biogs/SE01120b.htm
+
+#These redirects were added by Nicola Laurent 25 January 2018 AND EDITED 6.2.2018
+
+/ref/sa/biogs/SE00610b.htm, /ref/sa/biogs/SE00758b.htm
+/guide/sa/SE00610, /ref/sa/biogs/SE00758b.htm
+/sa/biogs/SE00610b.htm, /ref/sa/biogs/SE00758b.htm
+
+/ref/sa/biogs/SE00609b.htm, /ref/sa/biogs/SE00758b.htm
+/guide/sa/SE00609, /ref/sa/biogs/SE00758b.htm
+/sa/biogs/SE00609b.htm, /ref/sa/biogs/SE00758b.htm
+
+/ref/nsw/bib/NP0000693.htm, /ref/nsw/objects/ND0000186.htm
+/nsw/bib/NP0000693.htm, /ref/nsw/objects/ND0000186.htm
+
+/ref/nsw/bib/NP0000696.htm, /ref/nsw/objects/ND0000187.htm
+/nsw/bib/NP0000696.htm, /ref/nsw/objects/ND0000187.htm
+
+#These redirects were added by Nicola Laurent 30 January 2018
+
+ref/nsw/objects/ND0000198.htm, /ref/nsw/bib/NP0000164.htm
+/nsw/objects/ND0000198.htm, /ref/nsw/bib/NP0000164.htm
+
+ref/nsw/objects/ND0000211.htm, /ref/nsw/bib/NP0000185.htm
+/nsw/objects/ND0000211.htm, /ref/nsw/bib/NP0000185.htm
+
+ref/nsw/objects/ND0000348.htm, /ref/nsw/bib/NP0000429.htm
+/nsw/objects/ND0000348.htm, /ref/nsw/bib/NP0000429.htm
+
+ref/tas/objects/TD0000017.htm, /ref/tas/objects/TD0000016.htm
+/tas/objects/TD0000017.htm, /ref/tas/objects/TD0000016.htm
+
+#These redirects were added by Nicola Laurent 31 January 2018
+
+ref/nsw/objects/ND0000247.htm, /ref/nsw/bib/NP0000245.htm
+/nsw/objects/ND0000247.htm, /ref/nsw/bib/NP0000245.htm
+
+ref/wa/objects/WD0000148.htm, /ref/wa/bib/WP0000272.htm
+/wa/objects/WD0000148.htm, /ref/wa/bib/WP0000272.htm
+
+ref/wa/objects/WD0000116.htm, /ref/wa/bib/WP0000252.htm
+/wa/objects/WD0000116.htm, /ref/wa/bib/WP0000252.htm
+
+ref/wa/objects/WD0000115.htm, /ref/wa/bib/WP0000252.htm
+/wa/objects/WD0000115.htm, /ref/wa/bib/WP0000252.htm
+
+ref/wa/objects/WD0000114.htm, /ref/wa/bib/WP0000252.htm
+/wa/objects/WD0000114.htm, /ref/wa/bib/WP0000252.htm
+
+ref/wa/objects/WD0000079.htm, /ref/wa/bib/WP0001531.htm
+/wa/objects/WD0000079.htm, /ref/wa/bib/WP0001531.htm
+
+ref/wa/objects/WD0000078.htm, /ref/wa/bib/WP0001532.htm
+/wa/objects/WD0000078.htm, /ref/wa/bib/WP0001532.htm
+
+#These redirects were added by Nicola Laurent 1 February 2018
+
+ref/wa/objects/WD0000063.htm, /ref/wa/bib/WP0001533.htm
+/wa/objects/WD0000063.htm, /wa/bib/WP0001533.htm
+
+ref/wa/objects/WD0000064.htm, /ref/wa/bib/WP0001534.htm
+/wa/objects/WD0000064.htm, /ref/wa/bib/WP0001534.htm
+
+ref/wa/objects/WD0000065.htm, /ref/wa/bib/WP0000187.htm
+/wa/objects/WD0000065.htm, /ref/wa/bib/WP0000187.htm
+
+ref/wa/objects/WD0000069.htm, /ref/wa/bib/WP0001535.htm
+/wa/objects/WD0000069.htm, /ref/wa/bib/WP0001535.htm
+
+ref/wa/objects/WD0000071.htm, /ref/wa/bib/WP0001536.htm
+/wa/objects/WD0000071.htm, /ref/wa/bib/WP0001536.htm
+
+ref/wa/objects/WD0000072.htm, /ref/wa/bib/WP0001537.htm
+/wa/objects/WD0000072.htm, /ref/wa/bib/WP0001537.htm
+
+ref/wa/objects/WD0000073.htm, /ref/wa/bib/WP0001538.htm
+/wa/objects/WD0000073.htm, /ref/wa/bib/WP0001538.htm
+
+ref/wa/objects/WD0000074.htm, /ref/wa/bib/WP0001538.htm
+/wa/objects/WD0000074.htm, /ref/wa/bib/WP0001538.htm
+
+ref/wa/objects/WD0000075.htm, /ref/wa/bib/WP0001539.htm
+/wa/objects/WD0000075.htm, /ref/wa/bib/WP0001539.htm
+
+ref/wa/objects/WD0000076.htm, /ref/wa/bib/WP0001540.htm
+/wa/objects/WD0000076.htm, /ref/wa/bib/WP0001540.htm
+
+ref/wa/objects/WD0000077.htm, /ref/wa/bib/WP0001541.htm
+/wa/objects/WD0000077.htm, /ref/wa/bib/WP0001541.htm
+
+/ref/vic/bib/P00000405.htm, ref/vic/objects/D00000152.htm
+/vic/bib/P00000405.htm, /ref/vic/objects/D00000152.htm
+
+/ref/vic/bib/P00000399.htm, ref/vic/objects/D00000153.htm
+/vic/bib/P00000399.htm, /ref/vic/objects/D00000153.htm
+
+/ref/vic/bib/P00000400.htm, ref/vic/objects/D00000154.htm
+/vic/bib/P00000400.htm, /ref/vic/objects/D00000154.htm
+
+/ref/vic/bib/P00000401.htm, ref/vic/objects/D00000155.htm
+/vic/bib/P00000401.htm, /ref/vic/objects/D00000155.htm
+
+/ref/vic/bib/P00000403.htm, ref/vic/objects/D00000157.htm
+/vic/bib/P00000403.htm, /ref/vic/objects/D00000157.htm
+
+/ref/vic/bib/P00000404.htm, ref/vic/objects/D00000158.htm
+/vic/bib/P00000404.htm, /ref/vic/objects/D00000158.htm
+
+/ref/vic/bib/P00000790.htm, ref/vic/objects/D00000376.htm
+/vic/bib/P00000790.htm, /ref/vic/objects/D00000376.htm
+
+#These redirects were added by Nicola Laurent 2 February 2018
+
+/ref/vic/bib/P00000792.htm, ref/vic/objects/D00000388.htm
+/vic/bib/P00000792.htm, /vic/objects/D00000388.htm
+
+/ref/vic/bib/P00000798.htm, ref/vic/objects/D00000391.htm
+/vic/bib/P00000798.htm, /ref/vic/objects/D00000391.htm
+
+/ref/vic/bib/P00000799.htm, ref/vic/objects/D00000392.htm
+/vic/bib/P00000799.htm, /ref/vic/objects/D00000392.htm
+
+ref/vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
+/vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
+
+/ref/vic/bib/P00000803.htm, ref/vic/objects/D00000396.htm
+/vic/bib/P00000803.htm, /ref/vic/objects/D00000396.htm
+
+/ref/vic/bib/P00000815.htm, ref/vic/objects/D00000402.htm
+/vic/bib/P00000815.htm, /ref/vic/objects/D00000402.htm
+
+/ref/vic/bib/P00000818.htm, ref/vic/objects/D00000407.htm
+/vic/bib/P00000818.htm, /ref/vic/objects/D00000407.htm
+
+/ref/vic/bib/P00000835.htm, ref/vic/biogs/E000355b.htm
+/vic/bib/P00000835.htm, /ref/vic/biogs/E000355b.htm
+
+ref/vic/objects/D00000428.htm, /ref/vic/biogs/E000355b.htm
+/vic/objects/D00000428.htm, /ref/vic/biogs/E000355b.htm
+
+/ref/vic/bib/P00000838.htm, ref/vic/objects/D00000431.htm
+/vic/bib/P00000838.htm, /ref/vic/objects/D00000431.htm
+
+/ref/vic/bib/P00000844.htm, ref/vic/objects/D00000433.htm
+/vic/bib/P00000844.htm, /ref/vic/objects/D00000433.htm
+
+ref/vic/objects/D00000434.htm, /ref/vic/bib/P00000845.htm
+/vic/objects/D00000434.htm, /ref/vic/bib/P00000845.htm
+
+/ref/vic/bib/P00000847.htm, ref/vic/objects/D00000436.htm
+/vic/bib/P00000847.htm, /ref/vic/objects/D00000436.htm
+
+ref/vic/objects/D00000467.htm, ref/vic/objects/D00000466.htm
+/vic/objects/D00000467.htm, /ref/vic/objects/D00000466.htm
+
+#These redirects were added by Kirsten Wright 5 February 2018, as part of removing statutes as pubresources work
+/ref/nt/bib/YP0000043.htm, /ref/nt/biogs/YE00033b.htm
+/nt/bib/YP0000043.htm, /ref/nt/biogs/YE00033b.htm
+
+/ref/nt/bib/YP0000044.htm, /ref/nt/biogs/YE00037b.htm
+/nt/bib/YP0000044.htm, /ref/nt/biogs/YE00037b.htm
+
+/ref/nt/bib/YP0000045.htm, /ref/nt/biogs/YE00038b.htm
+/nt/bib/YP0000045.htm, /ref/nt/biogs/YE00038b.htm
+
+/ref/nt/bib/YP0000046.htm, /ref/nt/biogs/YE00039b.htm
+/nt/bib/YP0000046.htm, /ref/nt/biogs/YE00039b.htm
+
+/ref/nt/bib/YP0000047.htm, /ref/nt/biogs/YE00040b.htm
+/nt/bib/YP0000047.htm, /ref/nt/biogs/YE00040b.htm
+
+/ref/nt/bib/YP0000048.htm, /ref/nt/biogs/YE00041b.htm
+/nt/bib/YP0000048.htm, /ref/nt/biogs/YE00041b.htm
+
+/ref/nt/bib/YP0000049.htm, /ref/nt/biogs/YE00042b.htm
+/nt/bib/YP0000049.htm, /ref/nt/biogs/YE00042b.htm
+
+/ref/nt/bib/YP0000050.htm, /ref/nt/biogs/YE00043b.htm
+/nt/bib/YP0000050.htm, /ref/nt/biogs/YE00043b.htm
+
+/ref/nt/bib/YP0000051.htm, /ref/nt/biogs/YE00044b.htm
+/nt/bib/YP0000051.htm, /ref/nt/biogs/YE00044b.htm
+
+/ref/nt/bib/YP0000052.htm, /ref/nt/biogs/YE00045b.htm
+/nt/bib/YP0000052.htm, /ref/nt/biogs/YE00045b.htm
+
+/ref/nt/bib/YP0000053.htm, /ref/nt/biogs/YE00045b.htm
+/nt/bib/YP0000053.htm, /ref/nt/biogs/YE00045b.htm
+
+/ref/nt/bib/YP0000061.htm, /ref/nt/biogs/YE00175b.htm
+/nt/bib/YP0000061.htm, /ref/nt/biogs/YE00175b.htm
+
+/ref/australia/bib/FP0000014.htm, /ref/australia/biogs/FE00088b.htm
+/australia/bib/FP0000014.htm, /ref/australia/biogs/FE00088b.htm
+
+/ref/australia/bib/FP0000011.htm, /ref/australia/biogs/FE00089b.htm
+/australia/bib/FP0000011.htm, /ref/australia/biogs/FE00089b.htm
+
+/ref/australia/bib/FP0000079.htm, /ref/australia/biogs/FE00127b.htm
+/australia/bib/FP0000079.htm, /ref/australia/biogs/FE00127b.htm
+
+/ref/qld/bib/QP0000035.htm, /ref/qld/biogs/QE00004b.htm
+/qld/bib/QP0000035.htm, /ref/qld/biogs/QE00004b.htm
+
+/ref/qld/bib/QP0000036.htm, /ref/qld/biogs/QE00005b.htm
+/qld/bib/QP0000036.htm, /ref/qld/biogs/QE00005b.htm
+
+/ref/qld/bib/QP0000037.htm, /ref/qld/biogs/QE00006b.htm
+/qld/bib/QP0000037.htm, /ref/qld/biogs/QE00006b.htm
+
+/ref/qld/bib/QP0000038.htm, /ref/qld/biogs/QE00007b.htm
+/qld/bib/QP0000038.htm, /ref/qld/biogs/QE00007b.htm
+
+/ref/qld/bib/QP0000039.htm, /ref/qld/biogs/QE00008b.htm
+/qld/bib/QP0000039.htm, /ref/qld/biogs/QE00008b.htm
+
+/ref/qld/bib/QP0000040.htm, /ref/qld/biogs/QE00012b.htm
+/qld/bib/QP0000040.htm, /ref/qld/biogs/QE00012b.htm
+
+/ref/qld/bib/QP0000041.htm, /ref/qld/biogs/QE00013b.htm
+/qld/bib/QP0000041.htm, /ref/qld/biogs/QE00013b.htm
+
+/ref/qld/bib/QP0000042.htm, /ref/qld/biogs/QE00014b.htm
+/qld/bib/QP0000042.htm, /ref/qld/biogs/QE00014b.htm
+
+/ref/qld/bib/QP0000043.htm, /ref/qld/biogs/QE00015b.htm
+/qld/bib/QP0000043.htm, /ref/qld/biogs/QE00015b.htm
+
+/ref/qld/bib/QP0000044.htm, /ref/qld/biogs/QE00016b.htm
+/qld/bib/QP0000044.htm, /ref/qld/biogs/QE00016b.htm
+
+/ref/qld/bib/QP0000045.htm, /ref/qld/biogs/QE00017b.htm
+/qld/bib/QP0000045.htm, /ref/qld/biogs/QE00017b.htm
+
+/ref/qld/bib/QP0000046.htm, /ref/qld/biogs/QE00018b.htm
+/qld/bib/QP0000046.htm, /ref/qld/biogs/QE00018b.htm
+
+/ref/qld/bib/QP0000047.htm, /ref/qld/biogs/QE00019b.htm
+/qld/bib/QP0000047.htm, /ref/qld/biogs/QE00019b.htm
+
+/ref/qld/bib/QP0000048.htm, /ref/qld/biogs/QE00020b.htm
+/qld/bib/QP0000048.htm, /ref/qld/biogs/QE00020b.htm
+
+/ref/qld/bib/QP0000049.htm, /ref/qld/biogs/QE00021b.htm
+/qld/bib/QP0000049.htm, /ref/qld/biogs/QE00021b.htm
+
+/ref/qld/bib/QP0000050.htm, /ref/qld/biogs/QE00022b.htm
+/qld/bib/QP0000050.htm, /ref/qld/biogs/QE00022b.htm
+
+/ref/qld/bib/QP0000051.htm, /ref/qld/biogs/QE00023b.htm
+/qld/bib/QP0000051.htm, /ref/qld/biogs/QE00023b.htm
+
+/ref/qld/bib/QP0000052.htm, /ref/qld/biogs/QE00024b.htm
+/qld/bib/QP0000052.htm, /ref/qld/biogs/QE00024b.htm
+
+/ref/qld/bib/QP0000053.htm, /ref/qld/biogs/QE00025b.htm
+/qld/bib/QP0000053.htm, /ref/qld/biogs/QE00025b.htm
+
+/ref/qld/bib/QP0000054.htm, /ref/qld/biogs/QE00026b.htm
+/qld/bib/QP0000054.htm, /ref/qld/biogs/QE00026b.htm
+
+/ref/qld/bib/QP0000055.htm, /ref/qld/biogs/QE00027b.htm
+/qld/bib/QP0000055.htm, /ref/qld/biogs/QE00027b.htm
+
+/ref/qld/bib/QP0000056.htm, /ref/qld/biogs/QE00028b.htm
+/qld/bib/QP0000056.htm, /ref/qld/biogs/QE00028b.htm
+
+/ref/qld/bib/QP0000057.htm, /ref/qld/biogs/QE00029b.htm
+/qld/bib/QP0000057.htm, /ref/qld/biogs/QE00029b.htm
+
+/ref/qld/bib/QP0000058.htm, /ref/qld/biogs/QE00030b.htm
+/qld/bib/QP0000058.htm, /ref/qld/biogs/QE00030b.htm
+
+/ref/qld/bib/QP0000059.htm, /ref/qld/biogs/QE00031b.htm
+/qld/bib/QP0000059.htm, /ref/qld/biogs/QE00031b.htm
+
+/ref/qld/bib/QP0000060.htm, /ref/qld/biogs/QE00032b.htm
+/qld/bib/QP0000060.htm, /ref/qld/biogs/QE00032b.htm
+
+/ref/qld/bib/QP0000061.htm, /ref/qld/biogs/QE00033b.htm
+/qld/bib/QP0000061.htm, /ref/qld/biogs/QE00033b.htm
+
+/ref/qld/bib/QP0000391.htm, /ref/qld/biogs/QE00033b.htm
+/qld/bib/QP0000391.htm, /ref/qld/biogs/QE00033b.htm
+
+/ref/qld/bib/QP0000062.htm, /ref/qld/biogs/QE00034b.htm
+/qld/bib/QP0000062.htm, /ref/qld/biogs/QE00034b.htm
+
+/ref/qld/bib/QP0000141.htm, /ref/qld/biogs/QE00450b.htm
+/qld/bib/QP0000141.htm, /ref/qld/biogs/QE00450b.htm
+
+/ref/qld/bib/QP0000294.htm, /ref/qld/biogs/QE00582b.htm
+/qld/bib/QP0000294.htm, /ref/qld/biogs/QE00582b.htm
+
+/ref/qld/bib/QP0000387.htm, /ref/qld/biogs/QE00737b.htm
+/qld/bib/QP0000387.htm, /ref/qld/biogs/QE00737b.htm
+
+/ref/qld/bib/QP0000389.htm, /ref/qld/biogs/QE00738b.htm
+/qld/bib/QP0000389.htm, /ref/qld/biogs/QE00738b.htm
+
+/ref/qld/bib/QP0000390.htm, /ref/qld/biogs/QE00739b.htm
+/qld/bib/QP0000390.htm, /ref/qld/biogs/QE00739b.htm
+
+/ref/qld/bib/QP0000395.htm, /ref/qld/biogs/QE00741b.htm
+/qld/bib/QP0000395.htm, /ref/qld/biogs/QE00741b.htm
+
+/ref/qld/bib/QP0000398.htm, /ref/qld/biogs/QE00753b.htm
+/qld/bib/QP0000398.htm, /ref/qld/biogs/QE00753b.htm
+
+/ref/qld/bib/QP0000406.htm, /ref/qld/biogs/QE00769b.htm
+/qld/bib/QP0000406.htm, /ref/qld/biogs/QE00769b.htm
+
+/ref/qld/bib/QP0000481.htm, /ref/qld/biogs/QE00864b.htm
+/qld/bib/QP0000481.htm, /ref/qld/biogs/QE00864b.htm
+
+/ref/tas/objects/TD0000027.htm, /ref/tas/biogs/TE00024b.htm
+/tas/objects/TD0000027.htm, /ref/tas/biogs/TE00024b.htm
+
+/ref/tas/bib/TP0000024.htm, /ref/tas/biogs/TE00024b.htm
+/tas/bib/TP0000024.htm, /ref/tas/biogs/TE00024b.htm
+
+/ref/tas/bib/TP0000118.htm, /ref/tas/biogs/TE00006b.htm
+/tas/bib/TP0000118.htm, /ref/tas/biogs/TE00006b.htm
+
+/ref/tas/bib/TP0000119.htm, /ref/tas/biogs/TE00007b.htm
+/tas/bib/TP0000119.htm, /ref/tas/biogs/TE00007b.htm
+
+/ref/tas/bib/TP0000120.htm, /ref/tas/biogs/TE00076b.htm
+/tas/bib/TP0000120.htm, /ref/tas/biogs/TE00076b.htm
+
+/ref/tas/bib/TP0000121.htm, /ref/tas/biogs/TE00005b.htm
+/tas/bib/TP0000121.htm, /ref/tas/biogs/TE00005b.htm
+
+/ref/tas/bib/TP0000122.htm, /ref/tas/biogs/TE00004b.htm
+/tas/bib/TP0000122.htm, /ref/tas/biogs/TE00004b.htm
+
+/ref/tas/bib/TP0000123.htm, /ref/tas/biogs/TE00017b.htm
+/tas/bib/TP0000123.htm, /ref/tas/biogs/TE00017b.htm
+
+/ref/tas/bib/TP0000124.htm, /ref/tas/biogs/TE00002b.htm
+/tas/bib/TP0000124.htm, /ref/tas/biogs/TE00002b.htm
+
+/ref/tas/bib/TP0000125.htm, /ref/tas/biogs/TE00072b.htm
+/tas/bib/TP0000125.htm, /ref/tas/biogs/TE00072b.htm
+
+/ref/tas/bib/TP0000126.htm, /ref/tas/biogs/TE00055b.htm
+/tas/bib/TP0000126.htm, /ref/tas/biogs/TE00055b.htm
+
+/ref/tas/bib/TP0000127.htm, /ref/tas/biogs/TE00633b.htm
+/tas/bib/TP0000127.htm, /ref/tas/biogs/TE00633b.htm
+
+/ref/tas/bib/TP0000128.htm, /ref/tas/biogs/TE00099b.htm
+/tas/bib/TP0000128.htm, /ref/tas/biogs/TE00099b.htm
+
+/ref/tas/bib/TP0000130.htm, /ref/tas/biogs/TE00008b.htm
+/tas/bib/TP0000130.htm, /ref/tas/biogs/TE00008b.htm
+
+/ref/tas/bib/TP0000131.htm, /ref/tas/biogs/TE00009b.htm
+/tas/bib/TP0000131.htm, /ref/tas/biogs/TE00009b.htm
+
+/ref/tas/bib/TP0000132.htm, /ref/tas/biogs/TE00075b.htm
+/tas/bib/TP0000132.htm, /ref/tas/biogs/TE00075b.htm
+
+/ref/tas/bib/TP0000133.htm, /ref/tas/biogs/TE00003b.htm
+/tas/bib/TP0000133.htm, /ref/tas/biogs/TE00003b.htm
+
+/ref/tas/bib/TP0000134.htm, /ref/tas/biogs/TE00010b.htm
+/tas/bib/TP0000134.htm, /ref/tas/biogs/TE00010b.htm
+
+/ref/tas/bib/TP0000135.htm, /ref/tas/biogs/TE00081b.htm
+/tas/bib/TP0000135.htm, /ref/tas/biogs/TE00081b.htm
+
+/ref/tas/bib/TP0000141.htm, /ref/tas/biogs/TE00251b.htm
+/tas/bib/TP0000141.htm, /ref/tas/biogs/TE00251b.htm
+
+/ref/tas/bib/TP0000234.htm, /ref/tas/biogs/TE00400b.htm
+/tas/bib/TP0000234.htm, /ref/tas/biogs/TE00400b.htm
+
+/ref/tas/bib/TP0000422.htm, /ref/tas/biogs/TE00632b.htm
+/tas/bib/TP0000422.htm, /ref/tas/biogs/TE00632b.htm
+
+/ref/tas/bib/TP0000423.htm, /ref/tas/biogs/TE00326b.htm
+/tas/bib/TP0000423.htm, /ref/tas/biogs/TE00326b.htm
+
+/ref/tas/bib/TP0000424.htm, /ref/tas/biogs/TE00642b.htm
+/tas/bib/TP0000424.htm, /ref/tas/biogs/TE00642b.htm
+
+/ref/tas/bib/TP0000425.htm, /ref/tas/biogs/TE00643b.htm
+/tas/bib/TP0000425.htm, /ref/tas/biogs/TE00643b.htm
+
+/ref/tas/bib/TP0000426.htm, /ref/tas/biogs/TE00327b.htm
+/tas/bib/TP0000426.htm, /ref/tas/biogs/TE00327b.htm
+
+/ref/tas/bib/TP0000427.htm, /ref/tas/biogs/TE00405b.htm
+/tas/bib/TP0000427.htm, /ref/tas/biogs/TE00405b.htm
+
+/ref/tas/bib/TP0000428.htm, /ref/tas/biogs/TE00407b.htm
+/tas/bib/TP0000428.htm, /ref/tas/biogs/TE00407b.htm
+
+/ref/tas/bib/TP0000429.htm, /ref/tas/biogs/TE00409b.htm
+/tas/bib/TP0000429.htm, /ref/tas/biogs/TE00409b.htm
+
+/ref/tas/bib/TP0000430.htm, /ref/tas/biogs/TE00410b.htm
+/tas/bib/TP0000430.htm, /ref/tas/biogs/TE00410b.htm
+
+/ref/tas/bib/TP0000431.htm, /ref/tas/biogs/TE00074b.htm
+/tas/bib/TP0000431.htm, /ref/tas/biogs/TE00074b.htm
+
+/ref/tas/bib/TP0000432.htm, /ref/tas/biogs/TE00373b.htm
+/tas/bib/TP0000432.htm, /ref/tas/biogs/TE00373b.htm
+
+/ref/tas/bib/TP0000433.htm, /ref/tas/biogs/TE00338b.htm
+/tas/bib/TP0000433.htm, /ref/tas/biogs/TE00338b.htm
+
+/ref/tas/bib/TP0000434.htm, /ref/tas/biogs/TE00025b.htm
+/tas/bib/TP0000434.htm, /ref/tas/biogs/TE00025b.htm
+
+/ref/tas/bib/TP0000460.htm, /ref/tas/biogs/TE00650b.htm
+/tas/bib/TP0000460.htm, /ref/tas/biogs/TE00650b.htm
+
+/ref/tas/bib/TP0000461.htm, /ref/tas/biogs/TE00651b.htm
+/tas/bib/TP0000461.htm, /ref/tas/biogs/TE00651b.htm
+
+/ref/tas/bib/TP0000631.htm, /ref/tas/biogs/TE00829b.htm
+/tas/bib/TP0000631.htm, /ref/tas/biogs/TE00829b.htm
+
+/ref/tas/bib/TP0000632.htm, /ref/tas/biogs/TE00830b.htm
+/tas/bib/TP0000632.htm, /ref/tas/biogs/TE00830b.htm
+
+/ref/tas/bib/TP0000636.htm, /ref/tas/biogs/TE00833b.htm
+/tas/bib/TP0000636.htm, /ref/tas/biogs/TE00833b.htm
+
+/ref/tas/bib/TP0000637.htm, /ref/tas/biogs/TE00835b.htm
+/tas/bib/TP0000637.htm, /ref/tas/biogs/TE00835b.htm
+
+/ref/tas/bib/TP0000645.htm, /ref/tas/biogs/TE00846b.htm
+/tas/bib/TP0000645.htm, /ref/tas/biogs/TE00846b.htm
+
+/ref/tas/bib/TP0000646.htm, /ref/tas/biogs/TE00848b.htm
+/tas/bib/TP0000646.htm, /ref/tas/biogs/TE00848b.htm
+
+/ref/tas/bib/TP0000647.htm, /ref/tas/biogs/TE00852b.htm
+/tas/bib/TP0000647.htm, /ref/tas/biogs/TE00852b.htm
+
+/ref/tas/bib/TP0000648.htm, /ref/tas/biogs/TE00853b.htm
+/tas/bib/TP0000648.htm, /ref/tas/biogs/TE00853b.htm
+
+/ref/tas/bib/TP0000649.htm, /ref/tas/biogs/TE00854b.htm
+/tas/bib/TP0000649.htm, /ref/tas/biogs/TE00854b.htm
+
+/ref/tas/bib/TP0000650.htm, /ref/tas/biogs/TE00856b.htm
+/tas/bib/TP0000650.htm, /ref/tas/biogs/TE00856b.htm
+
+/ref/tas/bib/TP0000653.htm, /ref/tas/biogs/TE00690b.htm
+/tas/bib/TP0000653.htm, /ref/tas/biogs/TE00690b.htm
+
+/ref/tas/bib/TP0000684.htm, /ref/tas/biogs/TE00954b.htm
+/tas/bib/TP0000684.htm, /ref/tas/biogs/TE00954b.htm
+
+/ref/tas/bib/TP0000685.htm, /ref/tas/biogs/TE00956b.htm
+/tas/bib/TP0000685.htm, /ref/tas/biogs/TE00956b.htm
+
+/ref/tas/bib/TP0000686.htm, /ref/tas/biogs/TE00957b.htm
+/tas/bib/TP0000686.htm, /ref/tas/biogs/TE00957b.htm
+
+/ref/tas/bib/TP0000687.htm, /ref/tas/biogs/TE00958b.htm
+/tas/bib/TP0000687.htm, /ref/tas/biogs/TE00958b.htm
+
+/ref/tas/bib/TP0000688.htm, /ref/tas/biogs/TE00959b.htm
+/tas/bib/TP0000688.htm, /ref/tas/biogs/TE00959b.htm
+
+/ref/tas/bib/TP0000740.htm, /ref/tas/biogs/TE01133b.htm
+/tas/bib/TP0000740.htm, /ref/tas/biogs/TE01133b.htm
+
+/ref/nsw/bib/NP0000030.htm, /ref/nsw/biogs/NE00001b.htm
+/nsw/bib/NP0000030.htm, /ref/nsw/biogs/NE00001b.htm
+
+/ref/nsw/bib/NP0000031.htm, /ref/nsw/biogs/NE00002b.htm
+/nsw/bib/NP0000031.htm, /ref/nsw/biogs/NE00002b.htm
+
+/ref/nsw/bib/NP0000032.htm, /ref/nsw/biogs/NE00003b.htm
+/nsw/bib/NP0000032.htm, /ref/nsw/biogs/NE00003b.htm
+
+/ref/nsw/bib/NP0000033.htm, /ref/nsw/biogs/NE00004b.htm
+/nsw/bib/NP0000033.htm, /ref/nsw/biogs/NE00004b.htm
+
+/ref/nsw/bib/NP0000034.htm, /ref/nsw/biogs/NE00005b.htm
+/nsw/bib/NP0000034.htm, /ref/nsw/biogs/NE00005b.htm
+
+/ref/nsw/bib/NP0000035.htm, /ref/nsw/biogs/NE00006b.htm
+/nsw/bib/NP0000035.htm, /ref/nsw/biogs/NE00006b.htm
+
+/ref/nsw/bib/NP0000036.htm, /ref/nsw/biogs/NE00007b.htm
+/nsw/bib/NP0000036.htm, /ref/nsw/biogs/NE00007b.htm
+
+/ref/nsw/bib/NP0000037.htm, /ref/nsw/biogs/NE00008b.htm
+/nsw/bib/NP0000037.htm, /ref/nsw/biogs/NE00008b.htm
+
+/ref/nsw/bib/NP0000038.htm, /ref/nsw/biogs/NE00009b.htm
+/nsw/bib/NP0000038.htm, /ref/nsw/biogs/NE00009b.htm
+
+/ref/nsw/bib/NP0000039.htm, /ref/nsw/biogs/NE00010b.htm
+/nsw/bib/NP0000039.htm, /ref/nsw/biogs/NE00010b.htm
+
+/ref/nsw/bib/NP0000040.htm, /ref/nsw/biogs/NE00011b.htm
+/nsw/bib/NP0000040.htm, /ref/nsw/biogs/NE00011b.htm
+
+/ref/nsw/bib/NP0000041.htm, /ref/nsw/biogs/NE00012b.htm
+/nsw/bib/NP0000041.htm, /ref/nsw/biogs/NE00012b.htm
+
+/ref/nsw/bib/NP0000042.htm, /ref/nsw/biogs/NE00013b.htm
+/nsw/bib/NP0000042.htm, /ref/nsw/biogs/NE00013b.htm
+
+/ref/nsw/bib/NP0000043.htm, /ref/nsw/biogs/NE00014b.htm
+/nsw/bib/NP0000043.htm, /ref/nsw/biogs/NE00014b.htm
+
+/ref/nsw/bib/NP0000044.htm, /ref/nsw/biogs/NE00015b.htm
+/nsw/bib/NP0000044.htm, /ref/nsw/biogs/NE00015b.htm
+
+/ref/nsw/bib/NP0000045.htm, /ref/nsw/biogs/NE00016b.htm
+/nsw/bib/NP0000045.htm, /ref/nsw/biogs/NE00016b.htm
+
+/ref/nsw/bib/NP0000046.htm, /ref/nsw/biogs/NE00017b.htm
+/nsw/bib/NP0000046.htm, /ref/nsw/biogs/NE00017b.htm
+
+/ref/nsw/bib/NP0000047.htm, /ref/nsw/biogs/NE00018b.htm
+/nsw/bib/NP0000047.htm, /ref/nsw/biogs/NE00018b.htm
+
+/ref/nsw/bib/NP0000048.htm, /ref/nsw/biogs/NE00019b.htm
+/nsw/bib/NP0000048.htm, /ref/nsw/biogs/NE00019b.htm
+
+/ref/nsw/bib/NP0000049.htm, /ref/nsw/biogs/NE00020b.htm
+/nsw/bib/NP0000049.htm, /ref/nsw/biogs/NE00020b.htm
+
+/ref/nsw/bib/NP0000050.htm, /ref/nsw/biogs/NE00021b.htm
+/nsw/bib/NP0000050.htm, /ref/nsw/biogs/NE00021b.htm
+
+/ref/nsw/bib/NP0000051.htm, /ref/nsw/biogs/NE00022b.htm
+/nsw/bib/NP0000051.htm, /ref/nsw/biogs/NE00022b.htm
+
+/ref/nsw/bib/NP0000052.htm, /ref/nsw/biogs/NE00023b.htm
+/nsw/bib/NP0000052.htm, /ref/nsw/biogs/NE00023b.htm
+
+/ref/nsw/bib/NP0000053.htm, /ref/nsw/biogs/NE00020b.htm
+/nsw/bib/NP0000053.htm, /ref/nsw/biogs/NE00020b.htm
+
+/ref/nsw/bib/NP0000054.htm, /ref/nsw/biogs/NE00025b.htm
+/nsw/bib/NP0000054.htm, /ref/nsw/biogs/NE00025b.htm
+
+/ref/nsw/bib/NP0000055.htm, /ref/nsw/biogs/NE00026b.htm
+/nsw/bib/NP0000055.htm, /ref/nsw/biogs/NE00026b.htm
+
+/ref/nsw/bib/NP0000056.htm, /ref/nsw/biogs/NE00027b.htm
+/nsw/bib/NP0000056.htm, /ref/nsw/biogs/NE00027b.htm
+
+/ref/nsw/bib/NP0000057.htm, /ref/nsw/biogs/NE00028b.htm
+/nsw/bib/NP0000057.htm, /ref/nsw/biogs/NE00028b.htm
+
+/ref/nsw/bib/NP0000058.htm, /ref/nsw/biogs/NE00499b.htm
+/nsw/bib/NP0000058.htm, /ref/nsw/biogs/NE00499b.htm
+
+/ref/nsw/objects/ND0000496.htm, /ref/nsw/objects/ND0000093.htm
+/nsw/objects/ND0000496.htm, /ref/nsw/objects/ND0000093.htm
+
+/ref/nsw/bib/NP0000724.htm, /ref/nsw/biogs/NE00499b.htm
+/nsw/bib/NP0000724.htm, /ref/nsw/biogs/NE00499b.htm
+
+/ref/nsw/bib/NP0000059.htm, /ref/nsw/biogs/NE00500b.htm
+/nsw/bib/NP0000059.htm, /ref/nsw/biogs/NE00500b.htm
+
+/ref/nsw/bib/NP0000060.htm, /ref/nsw/biogs/NE00501b.htm
+/nsw/bib/NP0000060.htm, /ref/nsw/biogs/NE00501b.htm
+
+/ref/nsw/bib/NP0000061.htm, /ref/nsw/biogs/NE00027b.htm
+/nsw/bib/NP0000061.htm, /ref/nsw/biogs/NE00027b.htm
+
+/ref/nsw/bib/NP0000062.htm, /ref/nsw/biogs/NE00018b.htm
+/nsw/bib/NP0000062.htm, /ref/nsw/biogs/NE00018b.htm
+
+/ref/nsw/objects/ND0000114.htm, /ref/nsw/biogs/NE00018b.htm
+/nsw/objects/ND0000114.htm, /ref/nsw/biogs/NE00018b.htm
+
+/ref/nsw/bib/NP0000063.htm, /ref/nsw/biogs/NE00018b.htm
+/nsw/bib/NP0000063.htm, /ref/nsw/biogs/NE00018b.htm
+
+/ref/nsw/bib/NP0000151.htm, /ref/nsw/biogs/NE01097b.htm
+/nsw/bib/NP0000151.htm, /ref/nsw/biogs/NE01097b.htm
+
+/ref/nsw/bib/NP0000204.htm, /ref/nsw/biogs/NE01177b.htm
+/nsw/bib/NP0000204.htm, /ref/nsw/biogs/NE01177b.htm
+
+/ref/nsw/objects/ND0000428.htm, /ref/act/objects/AD0000006.htm
+/nsw/objects/ND0000428.htm, /ref/act/objects/AD0000006.htm
+
+/ref/nsw/bib/NP0000604.htm, /ref/act/biogs/AE00012b.htm
+/nsw/bib/NP0000604.htm, /ref/act/biogs/AE00012b.htm
+
+/ref/nsw/bib/NP0000721.htm, /ref/nsw/biogs/NE01518b.htm
+/nsw/bib/NP0000721.htm, /ref/nsw/biogs/NE01518b.htm
+
+/ref/nsw/bib/NP0000722.htm, /ref/nsw/biogs/NE01519b.htm
+/nsw/bib/NP0000722.htm, /ref/nsw/biogs/NE01519b.htm
+
+/ref/nsw/bib/NP0000723.htm, /ref/nsw/biogs/NE01520b.htm
+/nsw/bib/NP0000723.htm, /ref/nsw/biogs/NE01520b.htm
+
+/ref/nsw/bib/NP0000725.htm, /ref/nsw/biogs/NE01527b.htm
+/nsw/bib/NP0000725.htm, /ref/nsw/biogs/NE01527b.htm
+
+/ref/nsw/bib/NP0000727.htm, /ref/nsw/biogs/NE01522b.htm
+/nsw/bib/NP0000727.htm, /ref/nsw/biogs/NE01522b.htm
+
+/ref/nsw/bib/NP0000728.htm, /ref/nsw/biogs/NE01524b.htm
+/nsw/bib/NP0000728.htm, /ref/nsw/biogs/NE01524b.htm
+
+/ref/nsw/bib/NP0000729.htm, /ref/nsw/biogs/NE01525b.htm
+/nsw/bib/NP0000729.htm, /ref/nsw/biogs/NE01525b.htm
+
+/ref/nsw/bib/NP0000730.htm, /ref/nsw/biogs/NE01526b.htm
+/nsw/bib/NP0000730.htm, /ref/nsw/biogs/NE01526b.htm
+
+/ref/nsw/bib/NP0000731.htm, /ref/nsw/biogs/NE01521b.htm
+/nsw/bib/NP0000731.htm, /ref/nsw/biogs/NE01521b.htm
+
+/ref/nsw/bib/NP0000732.htm, /ref/nsw/biogs/NE00004b.htm
+/nsw/bib/NP0000732.htm, /ref/nsw/biogs/NE00004b.htm
+
+/ref/nsw/bib/NP0000733.htm, /ref/nsw/biogs/NE01096b.htm
+/nsw/bib/NP0000733.htm, /ref/nsw/biogs/NE01096b.htm
+
+/ref/nsw/bib/NP0000734.htm, /ref/nsw/biogs/NE01523b.htm
+/nsw/bib/NP0000734.htm, /ref/nsw/biogs/NE01523b.htm
+
+/ref/nsw/bib/NP0000736.htm, /ref/nsw/biogs/NE01530b.htm
+/nsw/bib/NP0000736.htm, /ref/nsw/biogs/NE01530b.htm
+
+/ref/nsw/bib/NP0000737.htm, /ref/nsw/biogs/NE01531b.htm
+/nsw/bib/NP0000737.htm, /ref/nsw/biogs/NE01531b.htm
+
+/ref/nsw/bib/NP0000738.htm, /ref/nsw/biogs/NE01528b.htm
+/nsw/bib/NP0000738.htm, /ref/nsw/biogs/NE01528b.htm
+
+/ref/nsw/bib/NP0000739.htm, /ref/nsw/biogs/NE01532b.htm
+/nsw/bib/NP0000739.htm, /ref/nsw/biogs/NE01532b.htm
+
+/ref/nsw/bib/NP0000740.htm, /ref/nsw/biogs/NE01537b.htm
+/nsw/bib/NP0000740.htm, /ref/nsw/biogs/NE01537b.htm
+
+/ref/nsw/bib/NP0000741.htm, /ref/nsw/biogs/NE01534b.htm
+/nsw/bib/NP0000741.htm, /ref/nsw/biogs/NE01534b.htm
+
+/ref/nsw/bib/NP0000742.htm, /ref/nsw/biogs/NE01535b.htm
+/nsw/bib/NP0000742.htm, /ref/nsw/biogs/NE01535b.htm
+
+/ref/nsw/bib/NP0000743.htm, /ref/nsw/biogs/NE01536b.htm
+/nsw/bib/NP0000743.htm, /ref/nsw/biogs/NE01536b.htm
+
+/ref/nsw/bib/NP0000744.htm, /ref/nsw/biogs/NE01533b.htm
+/nsw/bib/NP0000744.htm, /ref/nsw/biogs/NE01533b.htm
+
+/ref/nsw/bib/NP0000745.htm, /ref/nsw/biogs/NE01538b.htm
+/nsw/bib/NP0000745.htm, /ref/nsw/biogs/NE01538b.htm
+
+/ref/nsw/bib/NP0000746.htm, /ref/nsw/biogs/NE01539b.htm
+/nsw/bib/NP0000746.htm, /ref/nsw/biogs/NE01539b.htm
+
+/ref/nsw/bib/NP0000747.htm, /ref/nsw/biogs/NE00019b.htm
+/nsw/bib/NP0000747.htm, /ref/nsw/biogs/NE00019b.htm
+
+/ref/nsw/bib/NP0000748.htm, /ref/nsw/biogs/NE01541b.htm
+/nsw/bib/NP0000748.htm, /ref/nsw/biogs/NE01541b.htm
+
+/ref/nsw/bib/NP0000749.htm, /ref/nsw/biogs/NE00028b.htm
+/nsw/bib/NP0000749.htm, /ref/nsw/biogs/NE00028b.htm
+
+/ref/nsw/bib/NP0000750.htm, /ref/nsw/biogs/NE01543b.htm
+/nsw/bib/NP0000750.htm, /ref/nsw/biogs/NE01543b.htm
+
+/ref/nsw/bib/NP0000751.htm, /ref/nsw/biogs/NE01544b.htm
+/nsw/bib/NP0000751.htm, /ref/nsw/biogs/NE01544b.htm
+
+/ref/nsw/bib/NP0000752.htm, /ref/nsw/biogs/NE01545b.htm
+/nsw/bib/NP0000752.htm, /ref/nsw/biogs/NE01545b.htm
+
+/ref/nsw/bib/NP0000753.htm, /ref/nsw/biogs/NE01540b.htm
+/nsw/bib/NP0000753.htm, /ref/nsw/biogs/NE01540b.htm
+
+/ref/nsw/bib/NP0000754.htm, /ref/nsw/biogs/NE01542b.htm
+/nsw/bib/NP0000754.htm, /ref/nsw/biogs/NE01542b.htm
+
+/ref/nsw/bib/NP0000755.htm, /ref/nsw/biogs/NE01546b.htm
+/nsw/bib/NP0000755.htm, /ref/nsw/biogs/NE01546b.htm
+
+/ref/nsw/bib/NP0000756.htm, /ref/nsw/biogs/NE00953b.htm
+/nsw/bib/NP0000756.htm, /ref/nsw/biogs/NE00953b.htm
+
+/ref/nsw/bib/NP0000760.htm, /ref/nsw/biogs/NE01548b.htm
+/nsw/bib/NP0000760.htm, /ref/nsw/biogs/NE01548b.htm
+
+/ref/nsw/bib/NP0000761.htm, /ref/nsw/biogs/NE01550b.htm
+/nsw/bib/NP0000761.htm, /ref/nsw/biogs/NE01550b.htm
+
+/ref/act/bib/AP0000021.htm, /ref/act/biogs/AE00007b.htm
+/act/bib/AP0000021.htm, /ref/act/biogs/AE00007b.htm
+
+/ref/act/bib/AP0000022.htm, /ref/act/biogs/AE00008b.htm
+/act/bib/AP0000022.htm, /ref/act/biogs/AE00008b.htm
+
+/ref/act/bib/AP0000023.htm, /ref/act/biogs/AE00009b.htm
+/act/bib/AP0000023.htm, /ref/act/biogs/AE00009b.htm
+
+/ref/act/bib/AP0000024.htm, /ref/act/biogs/AE00010b.htm
+/act/bib/AP0000024.htm, /ref/act/biogs/AE00010b.htm
+
+/ref/act/bib/AP0000026.htm, /ref/act/biogs/AE00012b.htm
+/act/bib/AP0000026.htm, /ref/act/biogs/AE00012b.htm
+
+/ref/act/bib/AP0000027.htm, /ref/act/biogs/AE00013b.htm
+/act/bib/AP0000027.htm, /ref/act/biogs/AE00013b.htm
+
+/ref/act/bib/AP0000028.htm, /ref/act/biogs/AE00014b.htm
+/act/bib/AP0000028.htm, /ref/act/biogs/AE00014b.htm
+
+/ref/act/bib/AP0000030.htm, /ref/act/biogs/AE00016b.htm
+/act/bib/AP0000030.htm, /ref/act/biogs/AE00016b.htm
+
+/ref/act/bib/AP0000031.htm, /ref/act/biogs/AE00025b.htm
+/act/bib/AP0000031.htm, /ref/act/biogs/AE00025b.htm
+
+/ref/act/bib/AP0000032.htm, /ref/act/biogs/AE00027b.htm
+/act/bib/AP0000032.htm, /ref/act/biogs/AE00027b.htm
+
+/ref/act/bib/AP0000034.htm, /ref/act/biogs/AE00025b.htm
+/act/bib/AP0000034.htm, /ref/act/biogs/AE00025b.htm
+
+/ref/act/bib/AP0000036.htm, /ref/act/biogs/AE00011b.htm
+/act/bib/AP0000036.htm, /ref/act/biogs/AE00011b.htm
+
+/ref/act/bib/AP0000037.htm, /ref/act/biogs/AE00014b.htm
+/act/bib/AP0000037.htm, /ref/act/biogs/AE00014b.htm
+
+/ref/act/bib/AP0000038.htm, /ref/act/biogs/AE00015b.htm
+/act/bib/AP0000038.htm, /ref/act/biogs/AE00015b.htm
+
+/ref/act/bib/AP0000047.htm, /ref/act/biogs/AE00078b.htm
+/act/bib/AP0000047.htm, /ref/act/biogs/AE00078b.htm
+
+/ref/act/bib/AP0000117.htm, /ref/act/biogs/AE00138b.htm
+/act/bib/AP0000117.htm, /ref/act/biogs/AE00138b.htm
+
+/ref/act/bib/AP0000118.htm, /ref/act/biogs/AE00140b.htm
+/act/bib/AP0000118.htm, /ref/act/biogs/AE00140b.htm
+
+/ref/act/bib/AP0000062.htm, /ref/act/biogs/AE00093b.htm
+/act/bib/AP0000062.htm, /ref/act/biogs/AE00093b.htm
+
+/ref/sa/bib/AP0000075.htm, /ref/sa/biogs/SE00278b.htm
+/sa/bib/AP0000075.htm, /ref/sa/biogs/SE00278b.htm
+
+/ref/sa/bib/AP0000076.htm, /ref/sa/biogs/SE00260b.htm
+/sa/bib/AP0000076.htm, /ref/sa/biogs/SE00260b.htm
+
+/ref/sa/bib/AP0000081.htm, /ref/sa/biogs/SE00275b.htm
+/sa/bib/AP0000081.htm, /ref/sa/biogs/SE00275b.htm
+
+/ref/sa/bib/AP0000082.htm, /ref/sa/biogs/SE00276b.htm
+/sa/bib/AP0000082.htm, /ref/sa/biogs/SE00276b.htm
+
+/ref/sa/bib/AP0000083.htm, /ref/sa/biogs/SE00259b.htm
+/sa/bib/AP0000083.htm, /ref/sa/biogs/SE00259b.htm
+
+/ref/sa/bib/AP0000085.htm, /ref/sa/biogs/SE00261b.htm
+/sa/bib/AP0000085.htm, /ref/sa/biogs/SE00261b.htm
+
+/ref/sa/bib/AP0000086.htm, /ref/sa/biogs/SE00262b.htm
+/sa/bib/AP0000086.htm, /ref/sa/biogs/SE00262b.htm
+
+/ref/sa/bib/AP0000087.htm, /ref/sa/biogs/SE01457b.htm
+/sa/bib/AP0000087.htm, /ref/sa/biogs/SE01457b.htm
+
+/ref/sa/bib/AP0000088.htm, /ref/sa/biogs/SE00265b.htm
+/sa/bib/AP0000088.htm, /ref/sa/biogs/SE00265b.htm
+
+/ref/sa/bib/AP0000089.htm, /ref/sa/biogs/SE00266b.htm
+/sa/bib/AP0000089.htm, /ref/sa/biogs/SE00266b.htm
+
+/ref/sa/bib/AP0000090.htm, /ref/sa/biogs/SE00267b.htm
+/sa/bib/AP0000090.htm, /ref/sa/biogs/SE00267b.htm
+
+/ref/sa/bib/AP0000092.htm, /ref/sa/biogs/SE00269b.htm
+/sa/bib/AP0000092.htm, /ref/sa/biogs/SE00269b.htm
+
+/ref/sa/bib/AP0000094.htm, /ref/sa/biogs/SE00271b.htm
+/sa/bib/AP0000094.htm, /ref/sa/biogs/SE00271b.htm
+
+/ref/sa/bib/AP0000095.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/AP0000095.htm, /ref/sa/biogs/SE00272b.htm
+
+/ref/sa/bib/AP0000097.htm, /ref/sa/biogs/SE00274b.htm
+/sa/bib/AP0000097.htm, /ref/sa/biogs/SE00274b.htm
+
+/ref/sa/bib/AP0000098.htm, /ref/sa/biogs/SE00277b.htm
+/sa/bib/AP0000098.htm, /ref/sa/biogs/SE00277b.htm
+
+/ref/sa/bib/AP0000099.htm, /ref/sa/biogs/SE00279b.htm
+/sa/bib/AP0000099.htm, /ref/sa/biogs/SE00279b.htm
+
+/ref/sa/bib/AP0000100.htm, /ref/sa/biogs/SE00280b.htm
+/sa/bib/AP0000100.htm, /ref/sa/biogs/SE00280b.htm
+
+/ref/sa/bib/AP0000101.htm, /ref/sa/biogs/SE00359b.htm
+/sa/bib/AP0000101.htm, /ref/sa/biogs/SE00359b.htm
+
+/ref/sa/bib/AP0000102.htm, /ref/sa/biogs/SE00360b.htm
+/sa/bib/AP0000102.htm, /ref/sa/biogs/SE00360b.htm
+
+/ref/sa/bib/AP0000213.htm, /ref/sa/biogs/SE01199b.htm
+/sa/bib/AP0000213.htm, /ref/sa/biogs/SE01199b.htm
+
+/ref/sa/bib/AP0000214.htm, /ref/sa/biogs/SE01197b.htm
+/sa/bib/AP0000214.htm, /ref/sa/biogs/SE01197b.htm
+
+/ref/sa/bib/AP0000384.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/AP0000384.htm, /ref/sa/biogs/SE00272b.htm
+
+#This redirect added by Cate O'Neill 6 Feb 2018
+
+/ref/tas/biogs/TE01014b.htm, /ref/tas/biogs/TE00059b.htm
+/guide/tas/TE01014, /ref/tas/biogs/TE00059b.htm
+/tas/biogs/TE01014b.htm, /ref/tas/biogs/TE00059b.htm
+
+#These redirects were added by Cate O'Neill 7 Feb 2018 (they are archival glossary term entities)
+
+/ref/vic/biogs/E000804b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000804, /resources/glossary-of-archival-terms/
+/vic/biogs/E000804b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000802b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000802, /resources/glossary-of-archival-terms/
+/vic/biogs/E000802b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000597b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000597, /resources/glossary-of-archival-terms/
+/vic/biogs/E000597b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000803b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000803, /resources/glossary-of-archival-terms/
+/vic/biogs/E000803b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000808b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000808, /resources/glossary-of-archival-terms/
+/vic/biogs/E000808b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000598b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000598, /resources/glossary-of-archival-terms/
+/vic/biogs/E000598b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000473b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000473, /resources/glossary-of-archival-terms/
+/vic/biogs/E000473b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000502b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000502, /resources/glossary-of-archival-terms/
+/vic/biogs/E000502b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000805b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000805, /resources/glossary-of-archival-terms/
+/vic/biogs/E000805b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000807b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000807, /resources/glossary-of-archival-terms/
+/vic/biogs/E000807b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000806b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000806, /resources/glossary-of-archival-terms/
+/vic/biogs/E000806b.htm, /resources/glossary-of-archival-terms/
+
+/ref/vic/biogs/E000501b.htm, /resources/glossary-of-archival-terms/
+/guide/vic/E000501, /resources/glossary-of-archival-terms/
+/vic/biogs/E000501b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE01122b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE01122, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE01122b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE01127b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE01127, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE01127b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE01124b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE01124, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE01124b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE01125b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE01125, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE01125b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE01123b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE01123, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE01123b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE00970b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE00970, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE00970b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE00999b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE00999, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE00999b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE01129b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE01129, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE01129b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nsw/biogs/NE01126b.htm, /resources/glossary-of-archival-terms/
+/guide/nsw/NE01126, /resources/glossary-of-archival-terms/
+/nsw/biogs/NE01126b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00251b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00251, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00251b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00420b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00420, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00420b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00448b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00448, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00448b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00447b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00447, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00447b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00444b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00444, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00444b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00446b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00446, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00446b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00442b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00442, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00442b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00443b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00443, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00443b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00445b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00445, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00445b.htm, /resources/glossary-of-archival-terms/
+
+/ref/qld/biogs/QE00479b.htm, /resources/glossary-of-archival-terms/
+/guide/qld/QE00479, /resources/glossary-of-archival-terms/
+/qld/biogs/QE00479b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE01110b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE01110, /resources/glossary-of-archival-terms/
+/sa/biogs/SE01110b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE01116b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE01116, /resources/glossary-of-archival-terms/
+/sa/biogs/SE01116b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00811b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00811, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00811b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00871b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00871, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00871b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00873b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00873, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00873b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00880b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00880, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00880b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00849b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00849, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00849b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00850b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00850, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00850b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00790b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00790, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00790b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00812b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00812, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00812b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00803b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00803, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00803b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00804b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00804, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00804b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00823b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00823, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00823b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00824b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00824, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00824b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00836b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00836, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00836b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE00828b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE00828, /resources/glossary-of-archival-terms/
+/sa/biogs/SE00828b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE01113b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE01113, /resources/glossary-of-archival-terms/
+/sa/biogs/SE01113b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE01115b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE01115, /resources/glossary-of-archival-terms/
+/sa/biogs/SE01115b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE01117b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE01117, /resources/glossary-of-archival-terms/
+/sa/biogs/SE01117b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE01114b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE01114, /resources/glossary-of-archival-terms/
+/sa/biogs/SE01114b.htm, /resources/glossary-of-archival-terms/
+
+/ref/sa/biogs/SE01111b.htm, /resources/glossary-of-archival-terms/
+/guide/sa/SE01111, /resources/glossary-of-archival-terms/
+/sa/biogs/SE01111b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00628b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00628, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00628b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00626b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00626, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00626b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00631b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00631, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00631b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00630b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00630, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00630b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00633b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00633, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00633b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00627b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00627, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00627b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00629b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00629, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00629b.htm, /resources/glossary-of-archival-terms/
+
+/ref/wa/biogs/WE00632b.htm, /resources/glossary-of-archival-terms/
+/guide/wa/WE00632, /resources/glossary-of-archival-terms/
+/wa/biogs/WE00632b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00244b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00244, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00244b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00250b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00250, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00250b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00131b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00131, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00131b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00247b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00247, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00247b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00251b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00251, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00251b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00147b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00147, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00147b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00148b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00148, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00148b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00249b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00249, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00249b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00245b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00245, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00245b.htm, /resources/glossary-of-archival-terms/
+
+/ref/nt/biogs/YE00248b.htm, /resources/glossary-of-archival-terms/
+/guide/nt/YE00248, /resources/glossary-of-archival-terms/
+/nt/biogs/YE00248b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00166b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00166, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00166b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00170b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00170, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00170b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00209b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00209, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00209b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00428b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00428, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00428b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00414b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00414, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00414b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00437b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00437, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00437b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00431b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00431, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00431b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00436b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00436, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00436b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00434b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00434, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00434b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00435b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00435, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00435b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00439b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00439, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00439b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00432b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00432, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00432b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00429b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00429, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00429b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00430b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00430, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00430b.htm, /resources/glossary-of-archival-terms/
+
+/ref/tas/biogs/TE00433b.htm, /resources/glossary-of-archival-terms/
+/guide/tas/TE00433, /resources/glossary-of-archival-terms/
+/tas/biogs/TE00433b.htm, /resources/glossary-of-archival-terms/
+
+/ref/act/biogs/AE00048b.htm, /resources/glossary-of-archival-terms/
+/guide/act/AE00048, /resources/glossary-of-archival-terms/
+/act/biogs/AE00048b.htm, /resources/glossary-of-archival-terms/
+
+/ref/act/biogs/AE00057b.htm, /resources/glossary-of-archival-terms/
+/guide/act/AE00057, /resources/glossary-of-archival-terms/
+/act/biogs/AE00057b.htm, /resources/glossary-of-archival-terms/
+
+/ref/australia/biogs/FE00045b.htm, /resources/glossary-of-archival-terms/
+/guide/australia/FE00045, /resources/glossary-of-archival-terms/
+/australia/biogs/FE00045b.htm, /resources/glossary-of-archival-terms/
+
+/ref/australia/biogs/FE00128b.htm, /resources/glossary-of-archival-terms/
+/guide/australia/FE00128, /resources/glossary-of-archival-terms/
+/australia/biogs/FE00128b.htm, /resources/glossary-of-archival-terms/
+
+#This redirect added by Cate O'Neill 7 Feb 2018
+
+/ref/tas/biogs/TE00273b.htm, /ref/tas/biogs/TE00004b.htm
+/guide/tas/TE00273, /ref/tas/biogs/TE00004b.htm
+/tas/biogs/TE00273b.htm, /ref/tas/biogs/TE00004b.htm
+
+#This redirect added by Kirsten Wright 7 Feb 2018 (last of the statutes)
+
+/ref/act/bib/AP0000061.htm, /ref/act/biogs/AE00211.htm
+/act/bib/AP0000061.htm, /ref/act/biogs/AE00211.htm
+
+
+#These redirects added by Cate O'Neill 13 Feb 2018 (the straightforward glossary term redirects)
+
+/ref/act/biogs/AE00053b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/act/AE00053, /resources/explaining-the-words-on-child-welfare-records/
+/act/biogs/AE00053b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/act/biogs/AE00053b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/act/AE00053, /resources/explaining-the-words-on-child-welfare-records/
+/act/biogs/AE00053b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/act/biogs/AE00055b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/act/AE00055, /resources/explaining-the-words-on-child-welfare-records/
+/act/biogs/AE00055b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/act/biogs/AE00059b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/act/AE00059, /resources/explaining-the-words-on-child-welfare-records/
+/act/biogs/AE00059b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/act/biogs/AE00059b.htm, /ref/act/biogs/AE00015b.htm
+/guide/act/AE00059, /ref/act/biogs/AE00015b.htm
+/act/biogs/AE00059b.htm, /ref/act/biogs/AE00015b.htm
+
+/ref/vic/biogs/E001034b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E001034, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E001034b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000838b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000838, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000838b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000836b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000836, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000836b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000811b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000811, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000811b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000810b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000810, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000810b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000793b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000793, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000793b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000664b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000664, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000664b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000663b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000663, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000663b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000617b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000617, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000617b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000616b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000616, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000616b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000615b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000615, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000615b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000610b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000610, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000610b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000612b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000612, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000612b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000614b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000614, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000614b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000608b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000608, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000608b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000609b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000609, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000609b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000606b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000606, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000606b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000607b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000607, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000607b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000602b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000602, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000602b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000518b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000518, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000518b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000476b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000476, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000476b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000448b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000448, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000448b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000449b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000449, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000449b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000369b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000369, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000369b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000447b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000447, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000447b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000217b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000217, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000217b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000220b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000220, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000220b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000300b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000300, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000300b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000301b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000301, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000301b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000302b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000302, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000302b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/vic/biogs/E000303b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/vic/E000303, /resources/explaining-the-words-on-child-welfare-records/
+/vic/biogs/E000303b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+
+/ref/australia/biogs/FE00093b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00093, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00093b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00123b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00123, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00123b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00102b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00102, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00102b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00034b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00034, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00034b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00033b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00033, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00033b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00032b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00032, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00032b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00015b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00015, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00015b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00012b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00012, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00012b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00016b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00016, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00016b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/australia/biogs/FE00017b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/australia/FE00017, /resources/explaining-the-words-on-child-welfare-records/
+/australia/biogs/FE00017b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01708b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01708, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01708b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01529b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01529, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01529b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01597b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01597, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01597b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01513b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01513, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01513b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01213b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01213, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01213b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01209b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01209, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01209b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01090b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01090, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01090b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01088b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01088, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01088b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01064b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01064, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01064b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01060b.htm, /ref/nsw/biogs/NE00039b.htm
+/guide/nsw/NE01060, /ref/nsw/biogs/NE00039b.htm
+/nsw/biogs/NE01060b.htm, /ref/nsw/biogs/NE00039b.htm 
+
+/ref/nsw/biogs/NE01057b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01057, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01057b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01050b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01050, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01050b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01049b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01049, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01049b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01046b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01046, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01046b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01026b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01026, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01026b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01020b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01020, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01020b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01019b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01019, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01019b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01018b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01018, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01018b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01011b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01011, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01011b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01010b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01010, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01010b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01006b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01006, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01006b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01007b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01007, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01007b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01002b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01002, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01002b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE01001b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE01001, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE01001b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00997b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00997, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00997b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00950b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00950, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00950b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00960b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00950, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00950b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00973b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00973, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00973b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00980b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00980, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00980b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00983b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00983, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00983b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00988b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00988, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00988b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00990b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00990, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00990b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/nsw/biogs/NE00991b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/nsw/NE00991, /resources/explaining-the-words-on-child-welfare-records/
+/nsw/biogs/NE00991b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+#This redirect was added by Nicola Laurent on 19 February 2018
+
+/ref/nsw/objects/ND0000531.htm, /ref/nsw/bib/NP0000774.htm
+/nsw/objects/ND0000531.htm, /ref/nsw/bib/NP0000774.htm
+
+#This redirect was added by Nicola Laurent on 23 February 2018
+
+/ref/nt/objects/YD0000059.htm, /ref/nt/bib/YP0000130.htm
+/nt/objects/YD0000059.htm, /ref/nt/bib/YP0000130.htm
+
+#These redirects were added by Nicola Laurent on 27 February 2018
+
+/ref/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049.htm
+/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049.htm
+
+/ref/nsw/objects/ND0000296.htm, /ref/nsw/bib/NP0000306.htm
+/nsw/objects/ND0000296.htm, /ref/nsw/bib/NP0000306.htm
+
+#These redirects were added by Nicola Laurent on 1 March 2018
+
+/ref/nsw/bib/NP0000839.htm, /ref/nsw/biogs/NE00399b.htm
+/nsw/bib/NP0000839.htm, /ref/nsw/biogs/NE00399b.htm
+
+/ref/nsw/objects/ND0000212.htm, /ref/nsw/bib/NP0000186.htm
+/nsw/objects/ND0000212.htm, /ref/nsw/bib/NP0000186.htm
+
+/ref/nsw/objects/ND0000150.htm, /ref/nsw/biogs/NE00362b.htm
+/nsw/objects/ND0000150.htm, /ref/nsw/biogs/NE00362b.htm
+
+#These redirects were added by Nicola Laurent on 5 March 2018
+
+/ref/nsw/bib/NP0000442.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000442.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000463.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000463.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000478.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000478.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000524.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000524.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000525.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000525.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000526.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000526.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000527.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000527.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000556.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000556.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000575.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000575.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000589.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000589.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000817.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000817.htm, /ref/nsw/bib/NP0000017.htm
+
+/ref/nsw/bib/NP0000828.htm, /ref/nsw/bib/NP0000017.htm
+/nsw/bib/NP0000828.htm, /ref/nsw/bib/NP0000017.htm
+
+#These redirects added by Cate O'Neill 6 March 2018
+
+/ref/qld/biogs/QE00756b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00756, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00756b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00788b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00788, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00788b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00742b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00742, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00742b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00584b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00584, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00584b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00583b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00583, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00583b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00578b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00578, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00578b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00441b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00441, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00441b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00421b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00421, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00421b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00418b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00418, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00418b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00396b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00396, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00396b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00308b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00308, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00308b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00297b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00297, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00297b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00292b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00292, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00292b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00287b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00287, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00287b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00286b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00286, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00286b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00282b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00282, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00282b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00285b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00285, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00285b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00267b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00267, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00267b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00273b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00273, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00273b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00276b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00276, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00276b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00278b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00278, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00278b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00279b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00279, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00279b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00280b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00280, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00280b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00231b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00231, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00231b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00234b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00234, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00234b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00235b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00235, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00235b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00236b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00236, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00236b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00237b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00237, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00237b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00239b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00239, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00239b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00245b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00245, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00245b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00246b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00246, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00246b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00249b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00249, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00249b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00255b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00255, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00255b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00256b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00256, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00256b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00257b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00257, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00257b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00260b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00260, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00260b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00261b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00261, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00261b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00262b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00262, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00262b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/qld/biogs/QE00266b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00266, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00266b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+#These redirects were added by Constance Thurley-Hart on March 7th 2018
+
+/ref/nsw/bib/NP0000262.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000262.htm, /nsw/biogs/NE00330b.htm
+
+/ref/nsw/bib/NP0000262.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000261.htm, /nsw/biogs/NE00330b.htm
+
+/ref/nsw/bib/NP0000309.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000309.htm, /nsw/biogs/NE00330b.htm
+
+/ref/nsw/bib/NP0000251.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000251.htm, /nsw/biogs/NE00330b.htm
+
+#These redirects were added by Kirsten Wright 9 March 2018 (WA ordinances) AND CORRECTED BY KIRSTEN ON 13 MARCH
+/ref/wa/bib/WP0000063.htm, /ref/wa/biogs/WE00392b.htm
+/wa/bib/WP0000063.htm, /ref/wa/biogs/WE00392b.htm
+
+/ref/wa/bib/WP0000064.htm, /ref/wa/biogs/WE00393b.htm
+/wa/bib/WP0000064.htm, /ref/wa/biogs/WE00393b.htm
+
+/ref/wa/bib/WP0000065.htm, /ref/wa/biogs/WE00394b.htm
+/wa/bib/WP0000065.htm, /ref/wa/biogs/WE00394b.htm
+
+/ref/wa/bib/WP0000066.htm, /ref/wa/biogs/WE00395b.htm
+/wa/bib/WP0000066.htm, /ref/wa/biogs/WE00395b.htm
+
+/ref/wa/bib/WP0000067.htm, /ref/wa/biogs/WE00396b.htm
+/wa/bib/WP0000067.htm, /ref/wa/biogs/WE00396b.htm
+
+/ref/wa/bib/WP0000044.htm, /ref/wa/biogs/WE01506b.htm
+/wa/bib/WP0000044.htm, /ref/wa/biogs/WE01506b.htm
+
+/ref/wa/bib/WP0000068.htm, /ref/wa/biogs/WE00397b.htm
+/wa/bib/WP0000068.htm, /ref/wa/biogs/WE00397b.htm
+
+/ref/wa/bib/WP0000069.htm, /ref/wa/biogs/WE00399b.htm
+/wa/bib/WP0000069.htm, /ref/wa/biogs/WE00399b.htm
+
+/ref/wa/bib/WP0000070.htm, /ref/wa/biogs/WE00400b.htm
+/wa/bib/WP0000070.htm, /ref/wa/biogs/WE00400b.htm
+
+/ref/wa/bib/WP0000071.htm, /ref/wa/biogs/WE00401b.htm
+/wa/bib/WP0000071.htm, /ref/wa/biogs/WE00401b.htm
+
+/ref/wa/bib/WP0000073.htm, /ref/wa/biogs/WE00402b.htm
+/wa/bib/WP0000073.htm, /ref/wa/biogs/WE00402b.htm
+
+/ref/wa/bib/WP0000074.htm, /ref/wa/biogs/WE00403b.htm
+/wa/bib/WP0000074.htm, /ref/wa/biogs/WE00403b.htm
+
+/ref/wa/bib/WP0000075.htm, /ref/wa/biogs/WE00404b.htm
+/wa/bib/WP0000075.htm, /ref/wa/biogs/WE00404b.htm
+
+/ref/wa/bib/WP0000076.htm, /ref/wa/biogs/WE00405b.htm
+/wa/bib/WP0000076.htm, /ref/wa/biogs/WE00405b.htm
+
+/ref/wa/bib/WP0000077.htm, /ref/wa/biogs/WE00406b.htm
+/wa/bib/WP0000077.htm, /ref/wa/biogs/WE00406b.htm
+
+/ref/wa/bib/WP0000078.htm, /ref/wa/biogs/WE00407b.htm
+/wa/bib/WP0000078.htm, /ref/wa/biogs/WE00407b.htm
+
+/ref/wa/bib/WP0000079.htm, /ref/wa/biogs/WE00408b.htm
+/wa/bib/WP0000079.htm, /ref/wa/biogs/WE00408b.htm
+
+/ref/wa/bib/WP0000080.htm, /ref/wa/biogs/WE00409b.htm
+/wa/bib/WP0000080.htm, /ref/wa/biogs/WE00409b.htm
+
+/ref/wa/bib/WP0000081.htm, /ref/wa/biogs/WE00410b.htm
+/wa/bib/WP0000081.htm, /ref/wa/biogs/WE00410b.htm
+
+/ref/wa/bib/WP0000082.htm, /ref/wa/biogs/WE00411b.htm
+/wa/bib/WP0000082.htm, /ref/wa/biogs/WE00411b.htm
+
+/ref/wa/bib/WP0000083.htm, /ref/wa/biogs/WE00415b.htm
+/wa/bib/WP0000083.htm, /ref/wa/biogs/WE00415b.htm
+
+/ref/wa/bib/WP0000084.htm, /ref/wa/biogs/WE00416b.htm
+/wa/bib/WP0000084.htm, /ref/wa/biogs/WE00416b.htm
+
+/ref/wa/bib/WP0000085.htm, /ref/wa/biogs/WE00417b.htm
+/wa/bib/WP0000085.htm, /ref/wa/biogs/WE00417b.htm
+
+/ref/wa/bib/WP0000086.htm, /ref/wa/biogs/WE00418b.htm
+/wa/bib/WP0000086.htm, /ref/wa/biogs/WE00418b.htm
+
+/ref/wa/bib/WP0000087.htm, /ref/wa/biogs/WE00419b.htm
+/wa/bib/WP0000087.htm, /ref/wa/biogs/WE00419b.htm
+
+/ref/wa/bib/WP0000088.htm, /ref/wa/biogs/WE00420b.htm
+/wa/bib/WP0000088.htm, /ref/wa/biogs/WE00420b.htm
+
+/ref/wa/bib/WP0000089.htm, /ref/wa/biogs/WE00421b.htm
+/wa/bib/WP0000089.htm, /ref/wa/biogs/WE00421b.htm
+
+/ref/wa/bib/WP0000090.htm, /ref/wa/biogs/WE00422b.htm
+/wa/bib/WP0000090.htm, /ref/wa/biogs/WE00422b.htm
+
+/ref/wa/bib/WP0000091.htm, /ref/wa/biogs/WE00423b.htm
+/wa/bib/WP0000091.htm, /ref/wa/biogs/WE00423b.htm
+
+/ref/wa/bib/WP0000092.htm, /ref/wa/biogs/WE00424b.htm
+/wa/bib/WP0000092.htm, /ref/wa/biogs/WE00424b.htm
+
+/ref/wa/bib/WP0000093.htm, /ref/wa/biogs/WE00425b.htm
+/wa/bib/WP0000093.htm, /ref/wa/biogs/WE00425b.htm
+
+/ref/wa/bib/WP0000095.htm, /ref/wa/biogs/WE00427b.htm
+/wa/bib/WP0000095.htm, /ref/wa/biogs/WE00427b.htm
+
+/ref/wa/bib/WP0000274.htm, /ref/wa/biogs/WE00607b.htm
+/wa/bib/WP0000274.htm, /ref/wa/biogs/WE00607b.htm
+
+/ref/wa/bib/WP0000275.htm, /ref/wa/biogs/WE00608b.htm
+/wa/bib/WP0000275.htm, /ref/wa/biogs/WE00608b.htm
+
+/ref/wa/bib/WP0000334.htm, /ref/wa/biogs/WE00661b.htm
+/wa/bib/WP0000334.htm, /ref/wa/biogs/WE00661b.htm
+
+/ref/wa/bib/WP0000335.htm, /ref/wa/biogs/WE00662b.htm
+/wa/bib/WP0000335.htm, /ref/wa/biogs/WE00662b.htm
+
+/ref/wa/bib/WP0000346.htm, /ref/wa/biogs/WE00666b.htm
+/wa/bib/WP0000346.htm, /ref/wa/biogs/WE00666b.htm
+
+/ref/wa/bib/WP0000349.htm, /ref/wa/biogs/WE00668b.htm
+/wa/bib/WP0000349.htm, /ref/wa/biogs/WE00668b.htm
+
+/ref/wa/bib/WP0000355.htm, /ref/wa/biogs/WE00669b.htm
+/wa/bib/WP0000355.htm, /ref/wa/biogs/WE00669b.htm
+
+/ref/wa/bib/WP0000358.htm, /ref/wa/biogs/WE00670b.htm
+/wa/bib/WP0000358.htm, /ref/wa/biogs/WE00670b.htm
+
+/ref/wa/bib/WP0000359.htm, /ref/wa/biogs/WE00671b.htm
+/wa/bib/WP0000359.htm, /ref/wa/biogs/WE00671b.htm
+
+/ref/wa/bib/WP0001067.htm, /ref/wa/biogs/WE01099b.htm
+/wa/bib/WP0001067.htm, /ref/wa/biogs/WE01099b.htm
+
+/ref/wa/bib/WP0001068.htm, /ref/wa/biogs/WE01097b.htm
+/wa/bib/WP0001068.htm, /ref/wa/biogs/WE01097b.htm
+
+/ref/wa/bib/WP0001070.htm, /ref/wa/biogs/WE01101b.htm
+/wa/bib/WP0001070.htm, /ref/wa/biogs/WE01101b.htm
+
+/ref/wa/bib/WP0000613.htm, /ref/wa/biogs/WE00823b.htm
+/wa/bib/WP0000613.htm, /ref/wa/biogs/WE00823b.htm
+
+/ref/wa/bib/WP0000663.htm, /ref/wa/biogs/WE00884b.htm
+/wa/bib/WP0000663.htm, /ref/wa/biogs/WE00884b.htm
+
+/ref/wa/bib/WP0000664.htm, /ref/wa/biogs/WE00885b.htm
+/wa/bib/WP0000664.htm, /ref/wa/biogs/WE00885b.htm
+
+/ref/wa/bib/WP0000665.htm, /ref/wa/biogs/WE00886b.htm
+/wa/bib/WP0000665.htm, /ref/wa/biogs/WE00886b.htm
+
+/ref/wa/bib/WP0000666.htm, /ref/wa/biogs/WE00887b.htm
+/wa/bib/WP0000666.htm, /ref/wa/biogs/WE00887b.htm
+
+/ref/wa/bib/WP0000667.htm, /ref/wa/biogs/WE00888b.htm
+/wa/bib/WP0000667.htm, /ref/wa/biogs/WE00888b.htm
+
+/ref/wa/bib/WP0000674.htm, /ref/wa/biogs/WE00898b.htm
+/wa/bib/WP0000674.htm, /ref/wa/biogs/WE00898b.htm
+
+/ref/wa/bib/WP0000719.htm, /ref/wa/biogs/WE00913b.htm
+/wa/bib/WP0000719.htm, /ref/wa/biogs/WE00913b.htm
+
+/ref/wa/bib/WP0000743.htm, /ref/wa/biogs/WE00922b.htm
+/wa/bib/WP0000743.htm, /ref/wa/biogs/WE00922b.htm
+
+/ref/wa/bib/WP0000744.htm, /ref/wa/biogs/WE00923b.htm
+/wa/bib/WP0000744.htm, /ref/wa/biogs/WE00923b.htm
+
+/ref/wa/bib/WP0000745.htm, /ref/wa/biogs/WE00925b.htm
+/wa/bib/WP0000745.htm, /ref/wa/biogs/WE00925b.htm
+
+/ref/wa/bib/WP0000746.htm, /ref/wa/biogs/WE00926b.htm
+/wa/bib/WP0000746.htm, /ref/wa/biogs/WE00926b.htm
+
+/ref/wa/bib/WP0000747.htm, /ref/wa/biogs/WE00927b.htm
+/wa/bib/WP0000747.htm, /ref/wa/biogs/WE00927b.htm
+
+/ref/wa/bib/WP0000841.htm, /ref/wa/biogs/WE00984b.htm
+/wa/bib/WP0000841.htm, /ref/wa/biogs/WE00984b.htm
+
+/ref/wa/bib/WP0000877.htm, /ref/wa/biogs/WE00995b.htm
+/wa/bib/WP0000877.htm, /ref/wa/biogs/WE00995b.htm
+
+/ref/wa/bib/WP0000885.htm, /ref/wa/biogs/WE00996b.htm
+/wa/bib/WP0000885.htm, /ref/wa/biogs/WE00996b.htm
+
+/ref/wa/bib/WP0000901.htm, /ref/wa/biogs/WE01006b.htm
+/wa/bib/WP0000901.htm, /ref/wa/biogs/WE01006b.htm
+
+/ref/wa/bib/WP0000906.htm, /ref/wa/biogs/WE01007b.htm
+/wa/bib/WP0000906.htm, /ref/wa/biogs/WE01007b.htm
+
+/ref/wa/bib/WP0000909.htm, /ref/wa/biogs/WE01011b.htm
+/wa/bib/WP0000909.htm, /ref/wa/biogs/WE01011b.htm
+
+/ref/wa/bib/WP0000953.htm, /ref/wa/biogs/WE01037b.htm
+/wa/bib/WP0000953.htm, /ref/wa/biogs/WE01037b.htm
+
+/ref/wa/bib/WP0000960.htm, /ref/wa/biogs/WE01039b.htm
+/wa/bib/WP0000960.htm, /ref/wa/biogs/WE01039b.htm
+
+/ref/wa/bib/WP0000961.htm, /ref/wa/biogs/WE01040b.htm
+/wa/bib/WP0000961.htm, /ref/wa/biogs/WE01040b.htm
+
+/ref/wa/bib/WP0000962.htm, /ref/wa/biogs/WE01041b.htm
+/wa/bib/WP0000962.htm, /ref/wa/biogs/WE01041b.htm
+
+/ref/wa/bib/WP0000963.htm, /ref/wa/biogs/WE01042b.htm
+/wa/bib/WP0000963.htm, /ref/wa/biogs/WE01042b.htm
+
+/ref/wa/bib/WP0000964.htm, /ref/wa/biogs/WE01043b.htm
+/wa/bib/WP0000964.htm, /ref/wa/biogs/WE01043b.htm
+
+/ref/wa/bib/WP0000965.htm, /ref/wa/biogs/WE01045b.htm
+/wa/bib/WP0000965.htm, /ref/wa/biogs/WE01045b.htm
+
+/ref/wa/bib/WP0000988.htm, /ref/wa/biogs/WE01063b.htm
+/wa/bib/WP0000988.htm, /ref/wa/biogs/WE01063b.htm
+
+/ref/wa/bib/WP0000989.htm, /ref/wa/biogs/WE01064b.htm
+/wa/bib/WP0000989.htm, /ref/wa/biogs/WE01064b.htm
+
+/ref/wa/bib/WP0000990.htm, /ref/wa/biogs/WE01065b.htm
+/wa/bib/WP0000990.htm, /ref/wa/biogs/WE01065b.htm
+
+/ref/wa/bib/WP0000991.htm, /ref/wa/biogs/WE01066b.htm
+/wa/bib/WP0000991.htm, /ref/wa/biogs/WE01066b.htm
+
+/ref/wa/bib/WP0000996.htm, /ref/wa/biogs/WE01067b.htm
+/wa/bib/WP0000996.htm, /ref/wa/biogs/WE01067b.htm
+
+/ref/wa/bib/WP0000998.htm, /ref/wa/biogs/WE01072b.htm
+/wa/bib/WP0000998.htm, /ref/wa/biogs/WE01072b.htm
+
+/ref/wa/bib/WP0001000.htm, /ref/wa/biogs/WE01073b.htm
+/wa/bib/WP0001000.htm, /ref/wa/biogs/WE01073b.htm
+
+/ref/wa/bib/WP0001001.htm, /ref/wa/biogs/WE01074b.htm
+/wa/bib/WP0001001.htm, /ref/wa/biogs/WE01074b.htm
+
+/ref/wa/bib/WP0001002.htm, /ref/wa/biogs/WE01075b.htm
+/wa/bib/WP0001002.htm, /ref/wa/biogs/WE01075b.htm
+
+/ref/wa/bib/WP0001003.htm, /ref/wa/biogs/WE01076b.htm
+/wa/bib/WP0001003.htm, /ref/wa/biogs/WE01076b.htm
+
+/ref/wa/bib/WP0001004.htm, /ref/wa/biogs/WE01077b.htm
+/wa/bib/WP0001004.htm, /ref/wa/biogs/WE01077b.htm
+
+/ref/wa/bib/WP0001058.htm, /ref/wa/biogs/WE01094b.htm
+/wa/bib/WP0001058.htm, /ref/wa/biogs/WE01094b.htm
+
+/ref/wa/bib/WP0001086.htm, /ref/wa/biogs/WE01107b.htm
+/wa/bib/WP0001086.htm, /ref/wa/biogs/WE01107b.htm
+
+/ref/wa/bib/WP0001134.htm, /ref/wa/biogs/WE01132b.htm
+/wa/bib/WP0001134.htm, /ref/wa/biogs/WE01132b.htm
+
+/ref/wa/bib/WP0001135.htm, /ref/wa/biogs/WE01133b.htm
+/wa/bib/WP0001135.htm, /ref/wa/biogs/WE01133b.htm
+
+/ref/wa/bib/WP0001350.htm, /ref/wa/biogs/WE01390b.htm
+/wa/bib/WP0001350.htm, /ref/wa/biogs/WE01390b.htm
+
+/ref/wa/bib/WP0000135.htm, /ref/wa/biogs/WE00487b.htm
+/wa/bib/WP0000135.htm, /ref/wa/biogs/WE00487b.htm
+
+/ref/wa/bib/WP0000185.htm, /ref/wa/biogs/WE00509b.htm
+/wa/bib/WP0000185.htm, /ref/wa/biogs/WE00509b.htm
+
+/ref/wa/bib/WP0000311.htm, /ref/wa/biogs/WE00649b.htm
+/wa/bib/WP0000311.htm, /ref/wa/biogs/WE00649b.htm
+
+/ref/wa/bib/WP0000312.htm, /ref/wa/biogs/WE00651b.htm
+/wa/bib/WP0000312.htm, /ref/wa/biogs/WE00651b.htm
+
+/ref/wa/bib/WP0000320.htm, /ref/wa/biogs/WE00652b.htm
+/wa/bib/WP0000320.htm, /ref/wa/biogs/WE00652b.htm
+
+/ref/wa/bib/WP0000321.htm, /ref/wa/biogs/WE00655b.htm
+/wa/bib/WP0000321.htm, /ref/wa/biogs/WE00655b.htm
+
+/ref/wa/bib/WP0000323.htm, /ref/wa/biogs/WE00656b.htm
+/wa/bib/WP0000323.htm, /ref/wa/biogs/WE00656b.htm
+
+/ref/wa/bib/WP0000329.htm, /ref/wa/biogs/WE00657b.htm
+/wa/bib/WP0000329.htm, /ref/wa/biogs/WE00657b.htm
+
+/ref/wa/bib/WP0000333.htm, /ref/wa/biogs/WE00660b.htm
+/wa/bib/WP0000333.htm, /ref/wa/biogs/WE00660b.htm
+
+/ref/wa/bib/WP0000992.htm, /ref/wa/biogs/WE00888b.htm
+/wa/bib/WP0000992.htm, /ref/wa/biogs/WE00888b.htm
+
+/ref/wa/bib/WP0001335.htm, /ref/wa/biogs/WE01506b.htm
+/wa/bib/WP0001335.htm, /ref/wa/biogs/WE01506b.htm
+
+/ref/wa/bib/WP0000072.htm, /ref/wa/biogs/WE01506b.htm
+/wa/bib/WP0000072.htm, /ref/wa/biogs/WE01506b.htm
+
+/ref/bib/WP0000094.htm, /ref/wa/biogs/WE00426b.htm
+/wa/bib/WP0000094.htm, /ref/wa/biogs/WE00426b.htm
+
+/ref/wa/bib/WP0000190.htm, /ref/wa/biogs/WE00780b.htm
+/wa/bib/WP0000190.htm, /ref/wa/biogs/WE00780b.htm
+
+/ref/wa/objects/WD0000066.htm, /ref/wa/biogs/WE00780b.htm
+/wa/objects/WD0000066.htm, /ref/wa/biogs/WE00780b.htm
+
+/ref/wa/bib/WP0000189.htm, /ref/wa/biogs/WE00780b.htm
+/wa/bib/WP0000189.htm, /ref/wa/biogs/WE00780b.htm
+
+#These redirects added by Cate O'Neill 9 March 2018
+
+/ref/sa/biogs/SE00903b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00903, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00903b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00902b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00902, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00902b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00901b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00901, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00901b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00900b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00900, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00900b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00899b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00899, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00899b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00894b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00894, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00894b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00893b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00893, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00893b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00890b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00890, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00890b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00889b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00889, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00889b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00888b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00888, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00888b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00887b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00887, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00887b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00879b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00879, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00879b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00876b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00876, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00876b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00875b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00875, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00875b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00870b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00870, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00870b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00869b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00869, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00869b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00868b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00868, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00868b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00861b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00861, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00861b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00860b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00860, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00860b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00852b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00852, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00852b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00848b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00848, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00848b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00847b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00847, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00847b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00846b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00846, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00846b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00845b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00845, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00845b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00844b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00844, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00844b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00841b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00841, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00841b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00833b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00833, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00833b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00832b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00832, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00832b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00831b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00831, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00831b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00827b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00827, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00827b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00826b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00826, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00826b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00822b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00822, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00822b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00818b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00818, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00818b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00816b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00816, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00816b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00810b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00810, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00810b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00806b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00806, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00806b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00800b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00800, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00800b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00798b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00798, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00798b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00797b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00797, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00797b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00794b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00794, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00794b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00792b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00792, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00792b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00789b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00789, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00789b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00788b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00788, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00788b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+#These redirects were added by Constance Thurley-Hart 13 March 2018
+
+ref/sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
+sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
+
+#These redirects added by Cate O'Neill 16 March 2018
+
+/ref/wa/bib/WP0000869.htm, /ref/wa/biogs/WE00865b.htm
+/wa/bib/WP0000869.htm, /ref/wa/biogs/WE00865b.htm
+
+/ref/wa/bib/WP0000867.htm, /ref/wa/biogs/WE00865b.htm
+/wa/bib/WP0000867.htm, /ref/wa/biogs/WE00865b.htm
+
+/ref/wa/bib/WP0000303.htm, /ref/wa/biogs/WE00865b.htm
+/wa/bib/WP0000303.htm, /ref/wa/biogs/WE00865b.htm
+
+/ref/wa/bib/WP0000868.htm, /ref/wa/biogs/WE00865b.htm
+/wa/bib/WP0000868.htm, /ref/wa/biogs/WE00865b.htm
+
+#These redirects added by Cate O'Neill 16 March 2018
+
+/ref/sa/biogs/SE00949b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00949, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00949b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00948b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00948, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00948b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00947b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00947, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00947b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00946b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00946, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00946b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00945b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00945, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00945b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00944b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00944, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00944b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00943b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00943, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00943b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00942b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00942, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00942b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00941b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00941, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00941b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00940b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00940, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00940b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00939b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00939, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00939b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00938b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00938, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00938b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00937b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00937, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00937b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00936b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00936, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00936b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00935b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00935, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00935b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00934b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00934, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00934b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00933b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00933, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00933b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00932b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00932, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00932b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00931b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00931, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00931b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00930b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00930, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00930b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00929b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00929, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00929b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00928b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00928, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00928b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00927b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00927, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00927b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00926b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00926, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00926b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00925b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00925, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00925b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00924b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00924, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00924b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00923b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00923, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00923b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00922b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00922, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00922b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00921b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00921, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00921b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00920b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00920, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00920b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00919b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00919, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00919b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00918b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00918, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00918b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00917b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00917, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00917b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00916b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00916, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00916b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00915b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00915, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00915b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00914b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00914, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00914b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00913b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00913, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00913b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00912b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00912, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00912b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00909b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00909, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00909b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00908b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00908, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00908b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00910b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00910, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00910b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00911b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00911, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00911b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00906b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00906, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00906b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+#These redirects added by Cate O'Neill 29 March 2018
+
+/ref/sa/biogs/SE01000b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01000, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01000b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00999b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00999, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00999b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00998b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00998, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00998b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00997b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00997, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00997b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00996b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00996, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00996b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00995b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00995, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00995b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00994b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00994, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00994b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00993b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00993, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00993b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00992b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00992, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00992b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00991b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00991, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00991b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00990b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00990, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00990b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00989b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00989, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00989b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00988b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00988, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00988b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00987b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00987, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00987b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00986b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00986, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00986b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00985b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00985, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00985b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00984b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00984, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00984b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00983b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00983, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00983b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00982b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00982, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00982b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00981b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00981, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00981b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00980b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00980, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00980b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00979b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00979, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00979b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00978b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00978, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00978b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00977b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00977, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00977b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00976b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00976, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00976b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00975b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00975, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00975b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00974b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00974, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00974b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00972b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00972, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00972b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00971b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00971, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00971b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00970b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00970, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00970b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00969b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00969, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00969b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00968b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00968, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00968b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00967b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00967, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00967b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00964b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00964, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00964b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00965b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00965, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00965b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00966b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00966, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00966b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00963b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00963, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00963b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00962b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00962, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00962b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00961b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00961, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00961b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00959b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00959, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00959b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00958b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00958, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00958b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00957b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00957, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00957b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00956b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00956, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00956b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00955b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00955, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00955b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00954b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00954, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00954b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00953b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00953, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00953b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00952b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00952, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00952b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00951b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00951, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00951b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE00950b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE00950, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE00950b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+#These redirects were added by Nicola Laurent on 9 April 2018
+/ref/qld/objects/QD000010.htm, /ref/qld/biogs/QE00331b.htm
+/qld/objects/QD0000010.htm, /ref/qld/biogs/QE00331b.htm
+
+#This redirect was added by Nicola Laurent on 11 April 2018
+/ref/qld/objects/QD000001.htm, /ref/qld/biogs/QE00009b.htm
+/qld/objects/QD0000001.htm, /ref/qld/biogs/QE00009b.htm
+
+/ref/qld/objects/QD000022.htm, /ref/qld/biogs/QE00879b.htm
+/qld/objects/QD0000022.htm, /ref/qld/biogs/QE00879b.htm
+
+/ref/qld/objects/QD000031.htm, /ref/qld/biogs/QE00192b.htm
+/qld/objects/QD0000031.htm, /ref/qld/biogs/QE00192b.htm
+
+/ref/qld/objects/QD000032.htm, /ref/qld/biogs/QE00056b.htm
+/qld/objects/QD0000032.htm, /ref/qld/biogs/QE00056b.htm
+
+/ref/qld/objects/QD000036.htm, /ref/qld/biogs/QE00083b.htm
+/qld/objects/QD0000036.htm, /ref/qld/biogs/QE00083b.htm
+
+#These redirects were added by Nicola Laurent on 12 April 2018
+/ref/qld/objects/QD000039.htm, /ref/qld/biogs/QE00192b.htm
+/qld/objects/QD0000039.htm, /ref/qld/biogs/QE00192b.htm
+
+/ref/qld/objects/QD000040.htm, /ref/qld/biogs/QE00146b.htm
+/qld/objects/QD0000040.htm, /ref/qld/biogs/QE00146b.htm
+
+/ref/qld/objects/QD000042.htm, /ref/qld/biogs/QE00146b.htm
+/qld/objects/QD0000042.htm, /ref/qld/biogs/QE00146b.htm
+
+/ref/qld/objects/QD000045.htm, /ref/qld/biogs/QE00336b.htm
+/qld/objects/QD0000045.htm, /ref/qld/biogs/QE00336b.htm
+
+#These redirects were added by Nicola Laurent on 13 April 2018
+/ref/qld/objects/QD000053.htm, /ref/qld/biogs/QE00452b.htm
+/qld/objects/QD0000053.htm, /ref/qld/biogs/QE00452b.htm
+
+/ref/qld/objects/QD000058.htm, /ref/qld/biogs/QE00455b.htm
+/qld/objects/QD0000058.htm, /ref/qld/biogs/QE00455b.htm
+
+/ref/qld/objects/QD000061.htm, /ref/qld/biogs/QE00458b.htm
+/qld/objects/QD0000061.htm, /ref/qld/biogs/QE00458b.htm
+
+/ref/qld/objects/QD000063.htm, /ref/qld/biogs/QE00458b.htm
+/qld/objects/QD0000063.htm, /ref/qld/biogs/QE00458b.htm
+
+/ref/qld/objects/QD000066.htm, /ref/qld/biogs/QE00508b.htm
+/qld/objects/QD0000066.htm, /ref/qld/biogs/QE00508b.htm
+
+/ref/qld/objects/QD000069.htm, /ref/qld/biogs/QE00463b.htm
+/qld/objects/QD0000069.htm, /ref/qld/biogs/QE00463b.htm
+
+/ref/qld/objects/QD000073.htm, /ref/qld/biogs/QE00492b.htm
+/qld/objects/QD0000073.htm, /ref/qld/biogs/QE00492b.htm
+
+/ref/qld/objects/QD000074.htm, /ref/qld/biogs/QE00492b.htm
+/qld/objects/QD0000074.htm, /ref/qld/biogs/QE00492b.htm
+
+/ref/qld/objects/QD000079.htm, /ref/qld/biogs/QE00528b.htm
+/qld/objects/QD0000079.htm, /ref/qld/biogs/QE00528b.htm
+
+#These redirects were added by Nicola Laurent on 17 April 2018
+/ref/qld/objects/QD000088.htm, /ref/qld/biogs/QE00454b.htm
+/qld/objects/QD0000088.htm, /ref/qld/biogs/QE00454b.htm
+
+/ref/qld/objects/QD000094.htm, /ref/qld/biogs/QE00528b.htm
+/qld/objects/QD0000094.htm, /ref/qld/biogs/QE00528b.htm
+
+/ref/qld/objects/QD000096.htm, /ref/qld/biogs/QE00528b.htm
+/qld/objects/QD0000096.htm, /ref/qld/biogs/QE00528b.htm
+
+#These redirects were added by Nicola Laurent on 24 April 2018
+/ref/qld/objects/QD000099.htm, /ref/qld/biogs/QE00528b.htm
+/qld/objects/QD0000099.htm, /ref/qld/biogs/QE00528b.htm
+
+/ref/qld/objects/QD000110.htm, /ref/qld/biogs/QE00589b.htm
+/qld/objects/QD0000110.htm, /ref/qld/biogs/QE00589b.htm
+
+/ref/qld/objects/QD000119.htm, /ref/qld/biogs/QE00589b.htm
+/qld/objects/QD0000119.htm, /ref/qld/biogs/QE00589b.htm
+
+/ref/qld/objects/QD000141.htm, /ref/qld/biogs/QE00117b.htm
+/qld/objects/QD0000141.htm, /ref/qld/biogs/QE00117b.htm
+
+/ref/qld/objects/QD000211.htm, /ref/qld/biogs/QE00802b.htm
+/qld/objects/QD0000211.htm, /ref/qld/biogs/QE00802b.htm
+
+#These redirects were added by Constance Thurley-Hart on 24 April 2018 (these are correcting redirects added on 7 March 2018, 2nd line didn't have /ref in 2nd part)
+
+/ref/nsw/bib/NP0000262.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000261.htm, /ref/nsw/biogs/NE00330b.htm
+
+/ref/nsw/bib/NP0000309.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000309.htm, /ref/nsw/biogs/NE00330b.htm
+
+/ref/nsw/bib/NP0000251.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000251.htm, /ref/nsw/biogs/NE00330b.htm
+
+/ref/nsw/bib/NP0000261.htm, /ref/nsw/biogs/NE00330b.htm
+/nsw/bib/NP0000261.htm, /ref/nsw/biogs/NE00330b.htm
+
+#These redirects were added by Nicola Laurent on 30 April 2018
+
+/ref/qld/objects/QD000156.htm, /ref/qld/biogs/QE00072b.htm
+/qld/objects/QD0000156.htm, /ref/qld/biogs/QE00072b.htm
+
+/ref/qld/objects/QD000186.htm, /ref/qld/objects/QD0000182.htm
+/qld/objects/QD0000186.htm, /ref/qld/objects/QD0000182.htm
+
+#These redirects were added by Nicola Laurent on 1 May 2018
+/ref/qld/objects/QD000149.htm, /ref/qld/biogs/QE00632b.htm
+/qld/objects/QD0000149.htm, /ref/qld/biogs/QE00632b.htm
+
+/ref/qld/objects/QD000176.htm, /ref/qld/biogs/QE00660b.htm
+/qld/objects/QD0000176.htm, /ref/qld/biogs/QE00660b.htm
+
+#These redirects were added by Kirsten Wright on 7 May 2018 - more pubresource legislation / statutes
+/ref/vic/bib/P00000808.htm, /ref/vic/biogs/E000772b.htm
+/vic/bib/P00000808.htm, /ref/vic/biogs/E000772b.htm
+
+/ref/vic/bib/P00000809.htm, /ref/vic/biogs/E000771b.htm
+/vic/bib/P00000809.htm, /ref/vic/biogs/E000771b.htm
+
+/ref/sa/bib/SP0000075.htm, /ref/sa/biogs/SE00278b.htm
+/sa/bib/SP0000075.htm, /ref/sa/biogs/SE00278b.htm
+
+/ref/sa/bib/SP0000076.htm, /ref/sa/biogs/SE00260b.htm
+/sa/bib/SP0000076.htm, /ref/sa/biogs/SE00260b.htm
+
+/ref/sa/bib/SP0000081.htm, /ref/sa/biogs/SE00275b.htm
+/sa/bib/SP0000081.htm, /ref/sa/biogs/SE00275b.htm
+
+/ref/sa/bib/SP0000082.htm, /ref/sa/biogs/SE00276b.htm
+/sa/bib/SP0000082.htm, /ref/sa/biogs/SE00276b.htm
+
+/ref/sa/bib/SP0000083.htm, /ref/sa/biogs/SE00259b.htm
+/sa/bib/SP0000083.htm, /ref/sa/biogs/SE00259b.htm
+
+/ref/sa/bib/SP0000085.htm, /ref/sa/biogs/SE00261b.htm
+/sa/bib/SP0000085.htm, /ref/sa/biogs/SE00261b.htm
+
+/ref/sa/bib/SP0000086.htm, /ref/sa/biogs/SE00262b.htm
+/sa/bib/SP0000086.htm, /ref/sa/biogs/SE00262b.htm
+
+/ref/sa/bib/SP0000087.htm, /ref/sa/biogs/SE01457b.htm
+/sa/bib/SP0000087.htm, /ref/sa/biogs/SE01457b.htm
+
+/ref/sa/bib/SP0000088.htm, /ref/sa/biogs/SE00265b.htm
+/sa/bib/SP0000088.htm, /ref/sa/biogs/SE00265b.htm
+
+/ref/sa/bib/SP0000089.htm, /ref/sa/biogs/SE00266b.htm
+/sa/bib/SP0000089.htm, /ref/sa/biogs/SE00266b.htm
+
+/ref/sa/bib/SP0000090.htm, /ref/sa/biogs/SE00267b.htm
+/sa/bib/SP0000090.htm, /ref/sa/biogs/SE00267b.htm
+
+/ref/sa/bib/SP0000092.htm, /ref/sa/biogs/SE00269b.htm
+/sa/bib/SP0000092.htm, /ref/sa/biogs/SE00269b.htm
+
+/ref/sa/bib/SP0000094.htm, /ref/sa/biogs/SE00271b.htm
+/sa/bib/SP0000094.htm, /ref/sa/biogs/SE00271b.htm
+
+/ref/sa/bib/SP0000095.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/SP0000095.htm, /ref/sa/biogs/SE00272b.htm
+
+/ref/sa/bib/SP0000097.htm, /ref/sa/biogs/SE00274b.htm
+/sa/bib/SP0000097.htm, /ref/sa/biogs/SE00274b.htm
+
+/ref/sa/bib/SP0000098.htm, /ref/sa/biogs/SE00277b.htm
+/sa/bib/SP0000098.htm, /ref/sa/biogs/SE00277b.htm
+
+/ref/sa/bib/SP0000099.htm, /ref/sa/biogs/SE00279b.htm
+/sa/bib/SP0000099.htm, /ref/sa/biogs/SE00279b.htm
+
+/ref/sa/bib/SP0000100.htm, /ref/sa/biogs/SE00280b.htm
+/sa/bib/SP0000100.htm, /ref/sa/biogs/SE00280b.htm
+
+/ref/sa/bib/SP0000101.htm, /ref/sa/biogs/SE00359b.htm
+/sa/bib/SP0000101.htm, /ref/sa/biogs/SE00359b.htm
+
+/ref/sa/bib/SP0000102.htm, /ref/sa/biogs/SE00360b.htm
+/sa/bib/SP0000102.htm, /ref/sa/biogs/SE00360b.htm
+
+/ref/sa/bib/SP0000213.htm, /ref/sa/biogs/SE01199b.htm
+/sa/bib/SP0000213.htm, /ref/sa/biogs/SE01199b.htm
+
+/ref/sa/bib/SP0000214.htm, /ref/sa/biogs/SE01197b.htm
+/sa/bib/SP0000214.htm, /ref/sa/biogs/SE01197b.htm
+
+/ref/sa/bib/SP0000384.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/SP0000384.htm, /ref/sa/biogs/SE00272b.htm
+
+#This redirect was added by Nicola Laurent on 11 May 2018
+
+/ref/qld/objects/QD000227.htm, /ref/qld/biogs/QE00860b.htm
+/qld/objects/QD0000227.htm, /ref/qld/biogs/QE00860b.htm
+
+#These redirects were added by Nicola Laurent on 15 May 2018
+
+/ref/sa/objects/SD000071.htm, /ref/sa/objects/SD0000189.htm
+/sa/objects/SD0000071.htm, /ref/sa/objects/SD0000189.htm
+
+/ref/sa/objects/SD000023.htm, /ref/sa/objects/SD0000119.htm
+/sa/objects/SD0000023.htm, /ref/sa/objects/SD0000119.htm
+
+/ref/sa/objects/SD000020.htm, /ref/sa/objects/SD0000227.htm
+/sa/objects/SD0000020.htm, /ref/sa/objects/SD0000227.htm
+
+/ref/sa/objects/SD000068.htm, /ref/sa/biogs/SE00021b.htm
+/sa/objects/SD0000068.htm, /ref/sa/biogs/SE00021b.htm
+
+#These redirects were added by Constance Thurley-Hart on 16th May 2018
+
+/ref/vic/bib/P00000490.htm, /ref/vic/biogs/E000107b.htm
+/vic/bib/P00000490.htm, /ref/vic/biogs/E000107b.htm
+
+/ref/vic/bib/P00000488.htm, /ref/vic/biogs/E000107b.htm
+/vic/bib/P00000488.htm, /ref/vic/biogs/E000107b.htm
