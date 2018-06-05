@@ -4792,3 +4792,137 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 
 /ref/vic/bib/P00000488.htm, /ref/vic/biogs/E000107b.htm
 /vic/bib/P00000488.htm, /ref/vic/biogs/E000107b.htm
+
+#These redirects added by Cate O'Neill 4 June 2018
+
+/ref/sa/biogs/SE01033b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01033, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01033b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01032b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01032, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01032b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01031b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01031, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01031b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01030b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01030, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01030b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01029b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01029, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01029b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01028b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01028, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01028b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01027b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01027, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01027b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01026b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01026, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01026b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01025b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01025, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01025b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01024b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01024, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01024b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01023b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01023, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01023b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01022b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01022, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01022b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01021b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01021, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01021b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01020b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01020, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01020b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01019b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01019, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01019b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01018b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01018, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01018b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01017b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01017, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01017b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01016b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01016, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01016b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01015b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01015, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01015b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01014b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01014, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01014b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01013b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01013, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01013b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01012b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01012, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01012b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01011b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01011, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01011b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01010b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01010, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01010b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01009b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01009, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01009b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01001b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01001, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01001b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01002b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01002, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01002b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01003b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01003, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01003b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01004b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01004, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01004b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01005b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01005, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01005b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01006b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01006, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01006b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01007b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01007, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01007b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+/ref/sa/biogs/SE01008b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/sa/SE01008, /resources/explaining-the-words-on-child-welfare-records/
+/sa/biogs/SE01008b.htm, /resources/explaining-the-words-on-child-welfare-records/
