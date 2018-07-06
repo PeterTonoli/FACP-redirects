@@ -5125,3 +5125,18 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 /ref/sa/biogs/SE01085b.htm, /resources/explaining-the-words-on-child-welfare-records/
 /guide/sa/SE01085, /resources/explaining-the-words-on-child-welfare-records/
 /sa/biogs/SE01085b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+#These redirects were added by Constance Thurley-Hart on 6th July 2018
+
+/ref/sa/objects/SD0000005, /ref/sa/objects/SD0000167.htm
+/sa/objects/SD0000005, /ref/sa/objects/SD0000167.htm
+
+
+/ref/sa/objects/SD0000004, /ref/sa/objects/SD0000170.htm
+/sa/objects/SD0000004, /ref/sa/objects/SD0000170.htm
+
+/ref/sa/objects/SD0000006, /ref/sa/objects/SD0000169.htm
+/sa/objects/SD0000006, /ref/sa/objects/SD0000169.htm
+
+
+

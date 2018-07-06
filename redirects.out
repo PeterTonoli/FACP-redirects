@@ -3762,3 +3762,10 @@
   RedirectMatch permanent ^/ref/sa/biogs/SE01085b.htm$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/guide/sa/SE01085$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/sa/biogs/SE01085b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  #These redirects were added by Constance Thurley-Hart on 6th July 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000005$ /ref/sa/objects/SD0000167.htm
+  RedirectMatch permanent ^/sa/objects/SD0000005$ /ref/sa/objects/SD0000167.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000004$ /ref/sa/objects/SD0000170.htm
+  RedirectMatch permanent ^/sa/objects/SD0000004$ /ref/sa/objects/SD0000170.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000006$ /ref/sa/objects/SD0000169.htm
+  RedirectMatch permanent ^/sa/objects/SD0000006$ /ref/sa/objects/SD0000169.htm
