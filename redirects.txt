@@ -5131,12 +5131,25 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 /ref/sa/objects/SD0000005, /ref/sa/objects/SD0000167.htm
 /sa/objects/SD0000005, /ref/sa/objects/SD0000167.htm
 
-
 /ref/sa/objects/SD0000004, /ref/sa/objects/SD0000170.htm
 /sa/objects/SD0000004, /ref/sa/objects/SD0000170.htm
 
 /ref/sa/objects/SD0000006, /ref/sa/objects/SD0000169.htm
 /sa/objects/SD0000006, /ref/sa/objects/SD0000169.htm
 
+#These redirects added by Kirsten Wright on 13 July 2018 (including fixing typos)
+
+/ref/qld/biogs/QE00706b.htm, /ref/qld/biogs/QE00941b.htm
+/guide/qld/QE00706, /ref/qld/biogs/QE00941b.htm
+/qld/biogs/QE00706b.htm, /ref/qld/biogs/QE00941b.htm
+
+/ref/sa/objects/SD0000005.htm, /ref/sa/objects/SD0000167.htm
+/sa/objects/SD0000005.htm, /ref/sa/objects/SD0000167.htm
+
+/ref/sa/objects/SD0000004.htm, /ref/sa/objects/SD0000170.htm
+/sa/objects/SD0000004.htm, /ref/sa/objects/SD0000170.htm
+
+/ref/sa/objects/SD0000006.htm, /ref/sa/objects/SD0000169.htm
+/sa/objects/SD0000006.htm, /ref/sa/objects/SD0000169.htm
 
 
