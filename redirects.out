@@ -3779,3 +3779,39 @@
   RedirectMatch permanent ^/sa/objects/SD0000004.htm$ /ref/sa/objects/SD0000170.htm
   RedirectMatch permanent ^/ref/sa/objects/SD0000006.htm$ /ref/sa/objects/SD0000169.htm
   RedirectMatch permanent ^/sa/objects/SD0000006.htm$ /ref/sa/objects/SD0000169.htm
+  #This redirect added by Nicola Laurent on 18 July 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000325.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/sa/objects/SD0000325.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  #This redirect added by Nicola Laurent on 19 July 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD000366.htm$ /ref/sa/biogs/SE001400b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000366.htm$ /ref/sa/biogs/SE001400b.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD000367.htm$ /ref/sa/biogs/SE001400b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000367.htm$ /ref/sa/biogs/SE001400b.htm
+  #These redirects added by Cate O'Neill on 7 AUgust 2018
+  RedirectMatch permanent ^/ref/tas/biogs/TE00582b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00582$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00582b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/tas/biogs/TE00533b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00533$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00533b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/tas/biogs/TE00532b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00532$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00532b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/tas/biogs/TE00277b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00277$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00277b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/tas/biogs/TE00185b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00185$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00185b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/tas/biogs/TE00183b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00183$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00183b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/tas/biogs/TE00160b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00160$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00160b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/tas/biogs/TE00153b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/guide/tas/TE00153$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/tas/biogs/TE00153b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  #These redirects were added by Constance Thurley-Hart on 9 August 2018
+  RedirectMatch permanent ^ref/act/objects/AD0000020.htm$ ref/nsw/biogs/NE00411b.htm
+  RedirectMatch permanent ^/act/objects/AD0000020.htm$ ref/nsw/biogs/NE00411b.htm
