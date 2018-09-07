@@ -4011,3 +4011,4 @@
   RedirectMatch permanent ^/resources/rad2-grants/records-significant-to-care-leavers/$ /resources/radgrants/records-significant-to-care-leavers/
   RedirectMatch permanent ^/resources/rad2-grants/rad2-successful-applicants-2016-17/$ /resources/radgrants/rad2-successful-applicants-2016-17/
   RedirectMatch permanent ^/resources/rad2-grants/previous-successful-applicants/$ /resources/radgrants/previous-successful-applicants/
+  RedirectMatch permanent ^/resources/rad2-grants$ /resources/radgrants/
