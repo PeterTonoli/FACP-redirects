@@ -4006,3 +4006,8 @@
   RedirectMatch permanent ^/nt/biogs/YE00157b.htm$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/ref/nt/biogs/YE00159b.htm$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/nt/biogs/YE00159b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  #These redirects were added by Kirsten Wright, 7 September 2018 (preparation for RAD grants)
+  RedirectMatch permanent ^/resources/rad2-grants/$ /resources/radgrants/
+  RedirectMatch permanent ^/resources/rad2-grants/records-significant-to-care-leavers/$ /resources/radgrants/records-significant-to-care-leavers/
+  RedirectMatch permanent ^/resources/rad2-grants/rad2-successful-applicants-2016-17/$ /resources/radgrants/rad2-successful-applicants-2016-17/
+  RedirectMatch permanent ^/resources/rad2-grants/previous-successful-applicants/$ /resources/radgrants/previous-successful-applicants/
