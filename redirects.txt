@@ -5499,5 +5499,6 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 /resources/rad2-grants, /resources/radgrants/
 
 
-
-
+#These redirects were added by Constance Thurley-Hart, 11 September 2018
+/ref/wa/biogs/WE00146.htm, /ref/wa/biogs/WE01334b.htm
+/wa/biogs/WE00146.htm, /ref/wa/biogs/WE01334b.htm
