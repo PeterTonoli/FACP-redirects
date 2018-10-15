@@ -5502,3 +5502,22 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 #These redirects were added by Constance Thurley-Hart, 11 September 2018
 /ref/wa/biogs/WE00146.htm, /ref/wa/biogs/WE01334b.htm
 /wa/biogs/WE00146.htm, /ref/wa/biogs/WE01334b.htm
+
+#These redirects were added by Constance Thurley-Hart, 15 October 2018
+#The first three pages all should redirect to the home page, I don't know if this is correct procedure for that kind of redirect.
+
+/ref/qld/bib/QP0000034.htm, /
+/qld/bib/QP0000034.htm, /
+
+/ref/nsw/bib/NP0000018.htm, /
+/nsw/bib/NP0000018.htm, /
+
+/ref/sa/bib/SP0000070.htm, /
+/sa/bib/SP0000070.htm, /
+
+/ref/wa/biogs/WP0000826.htm, /ref/wa/biogs/WE00517b.htm
+/wa/biogs/WP0000826.htm, /wa/biogs/WE00517b.htm
+
+/ref/wa/bib/WP0000505.htm, /ref/wa/biogs/WE00710b.htm
+/wa/bib/WP0000505.htm, /wa/biogs/WE00710b.htm
+

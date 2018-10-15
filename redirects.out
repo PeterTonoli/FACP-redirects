@@ -4015,3 +4015,15 @@
   #These redirects were added by Constance Thurley-Hart, 11 September 2018
   RedirectMatch permanent ^/ref/wa/biogs/WE00146.htm$ /ref/wa/biogs/WE01334b.htm
   RedirectMatch permanent ^/wa/biogs/WE00146.htm$ /ref/wa/biogs/WE01334b.htm
+  #These redirects were added by Constance Thurley-Hart, 15 October 2018
+  #The first three pages all should redirect to the home page, I don't know if this is correct procedure for that kind of redirect.
+  RedirectMatch permanent ^/ref/qld/bib/QP0000034.htm$ /
+  RedirectMatch permanent ^/qld/bib/QP0000034.htm$ /
+  RedirectMatch permanent ^/ref/nsw/bib/NP0000018.htm$ /
+  RedirectMatch permanent ^/nsw/bib/NP0000018.htm$ /
+  RedirectMatch permanent ^/ref/sa/bib/SP0000070.htm$ /
+  RedirectMatch permanent ^/sa/bib/SP0000070.htm$ /
+  RedirectMatch permanent ^/ref/wa/biogs/WP0000826.htm$ /ref/wa/biogs/WE00517b.htm
+  RedirectMatch permanent ^/wa/biogs/WP0000826.htm$ /wa/biogs/WE00517b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0000505.htm$ /ref/wa/biogs/WE00710b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000505.htm$ /wa/biogs/WE00710b.htm
