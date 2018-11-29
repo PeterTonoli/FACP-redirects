@@ -5504,20 +5504,43 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 /wa/biogs/WE00146.htm, /ref/wa/biogs/WE01334b.htm
 
 #These redirects were added by Constance Thurley-Hart, 15 October 2018
-#The first three pages all should redirect to the home page, I don't know if this is correct procedure for that kind of redirect.
-
-/ref/qld/bib/QP0000034.htm, /
-/qld/bib/QP0000034.htm, /
-
-/ref/nsw/bib/NP0000018.htm, /
-/nsw/bib/NP0000018.htm, /
-
-/ref/sa/bib/SP0000070.htm, /
-/sa/bib/SP0000070.htm, /
 
 /ref/wa/biogs/WP0000826.htm, /ref/wa/biogs/WE00517b.htm
-/wa/biogs/WP0000826.htm, /wa/biogs/WE00517b.htm
+/wa/biogs/WP0000826.htm, /ref/wa/biogs/WE00517b.htm
 
 /ref/wa/bib/WP0000505.htm, /ref/wa/biogs/WE00710b.htm
-/wa/bib/WP0000505.htm, /wa/biogs/WE00710b.htm
+/wa/bib/WP0000505.htm, /ref/wa/biogs/WE00710b.htm
 
+#These redirects were added by Nicola Laurent on 17 October 2018
+
+/ref/sa/objects/SD0000159.htm, /ref/sa/objects/SD0000160.htm
+/sa/objects/SD0000159.htm, /ref/sa/objects/SD0000160.htm
+
+/ref/sa/objects/SD0000129.htm, /ref/sa/objects/SD0000130.htm
+/sa/objects/SD0000129.htm, /ref/sa/objects/SD0000130.htm
+
+/ref/sa/objects/SD0000159.htm, /ref/sa/objects/SD0000130.htm
+/sa/objects/SD0000159.htm, /ref/sa/objects/SD0000130.htm
+
+/ref/sa/objects/SD0000139.htm, /ref/sa/biogs/SE01179b.htm
+/sa/objects/SD0000139.htm, /ref/sa/biogs/SE01179b.htm
+
+#These redirects were added by Kirsten Wright on 19 October 2018
+/ref/nsw/biogs/NE00853b.htm, /ref/nsw/biogs/NE01725b.htm
+/guide/nsw/NE00853, /ref/nsw/biogs/NE01725b.htm
+/nsw/biogs/NE00853b.htm, /ref/nsw/biogs/NE01725b.htm
+
+#This redirect was added by Nicola Laurent on 19 October 2018
+/ref/sa/objects/SD0000416.htm, /ref/sa/objects/SD0000009.htm
+/sa/objects/SD0000416.htm, /ref/sa/objects/SD0000009.htm
+
+#This redirect was added by Nicola Laurent on 30 October 2018
+/ref/wa/bib/WP0000623.htm, /ref/wa/bib/WP0000001.htm
+/wa/bib/WP0000623.htm, /ref/wa/bib/WP0000001.htm
+
+#These redirects were added by Nicola Laurent on 2 November 2018
+/ref/sa/objects/SD0000145.htm, /ref/sa/biogs/SE00014b.htm
+/sa/objects/SD0000145.htm, /ref/sa/biogs/SE00014b.htm
+
+/ref/sa/objects/SD0000016.htm, /ref/sa/biogs/SE00079b.htm
+/sa/objects/SD0000016.htm, /ref/sa/biogs/SE00079b.htm
