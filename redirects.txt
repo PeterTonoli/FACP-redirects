@@ -5519,9 +5519,6 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 /ref/sa/objects/SD0000129.htm, /ref/sa/objects/SD0000130.htm
 /sa/objects/SD0000129.htm, /ref/sa/objects/SD0000130.htm
 
-/ref/sa/objects/SD0000159.htm, /ref/sa/objects/SD0000130.htm
-/sa/objects/SD0000159.htm, /ref/sa/objects/SD0000130.htm
-
 /ref/sa/objects/SD0000139.htm, /ref/sa/biogs/SE01179b.htm
 /sa/objects/SD0000139.htm, /ref/sa/biogs/SE01179b.htm
 
@@ -5544,3 +5541,58 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 /ref/sa/objects/SD0000016.htm, /ref/sa/biogs/SE00079b.htm
 /sa/objects/SD0000016.htm, /ref/sa/biogs/SE00079b.htm
+
+#These redirects were added by Nicola Laurent on 30 November 2018
+/ref/sa/objects/SD0000086.htm, /ref/sa/biogs/SE00022b.htm
+/sa/objects/SD0000086.htm, /ref/sa/biogs/SE00022b.htm
+
+/ref/sa/objects/SD0000122.htm, /ref/sa/objects/SD0000121.htm
+/sa/objects/SD0000122.htm, /ref/sa/objects/SD0000121.htm
+
+#This redirect added by Cate O'Neill on 13 December 2018
+/ref/qld/biogs/QE00838b.htm, /ref/qld/biogs/QE00044b.htm
+/guide/qld/QE00838, /ref/qld/biogs/QE00044b.htm
+/qld/biogs/QE00838b.htm, /ref/qld/biogs/QE00044b.htm
+
+#This redirect was added by Constance Thurley-Hart on 14 December 2018
+/ref/australia/objects/FD0000025.htm, ref/australia/biogs/FE00101b.htm
+/australia/objects/FD0000025.htm, ref/australia/biogs/FE00101b.htm
+
+#This redirect was added by Nicola Laurent on 14 December 2018
+/ref/sa/objects/SD0000128.htm, /ref/sa/objects/SD0000130.htm
+/sa/objects/SD0000128.htm, /ref/sa/objects/SD0000130.htm
+
+#These redirects were added by Constance Thurley-Hart on 18 December 2018
+/ref/nsw/objects/ND0000284.htm, /ref/nsw/biogs/NE00181b.htm
+/nsw/objects/ND0000284.htm, /ref/nsw/biogs/NE00181b.htm
+
+/ref/nsw/objects/ND0000287.htm, /ref/nsw/biogs/NE00181b.htm
+/nsw/objects/ND0000287.htm, /ref/nsw/biogs/NE00181b.htm
+
+/ref/nsw/objects/ND0000288.htm, /ref/nsw/biogs/NE00181b.htm
+/nsw/objects/ND0000288.htm, /ref/nsw/biogs/NE00181b.htm
+
+/ref/nsw/objects/ND0000290.htm, /ref/nsw/biogs/NE00181b.htm
+/nsw/objects/ND0000290.htm, /ref/nsw/biogs/NE00181b.htm
+
+#These redirects were added by Nicola Lauret on 20 December 2018
+/ref/wa/biogs/WE01348b.htm, /ref/wa/biogs/WE00059b.htm
+/guide/wa/WE01348, /ref/wa/biogs/WE00059b.htm
+/wa/biogs/WE01348b.htm, /ref/wa/biogs/WE00059b.htm
+
+/ref/wa/biogs/WE01439b.htm, /ref/wa/biogs/WE01438b.htm
+/guide/wa/WE01439, /ref/wa/biogs/WE01438b.htm
+/wa/biogs/WE01439b.htm, /ref/wa/biogs/WE01438b.htm
+
+#These redirects were added by Constance Thurley-Hart on 20 December 2018
+
+/ref/nsw/objects/ND0000527.htm, /ref/nsw/biogs/NE00427b.htm
+/nsw/objects/ND0000527.htm, /ref/nsw/biogs/NE00427b.htm
+
+#These redirects were added by Cate O'Neill on 21 December 2018
+
+/ref/sa/objects/SD0000124.htm, /ref/sa/biogs/SE00125b.htm
+/sa/objects/SD0000124.htm, /ref/sa/biogs/SE00125b.htm
+
+/ref/vic/objects/D00000453.htm, /ref/vic/biogs/E000339b.htm
+/vic/objects/D00000453.htm, /ref/vic/biogs/E000339b.htm
