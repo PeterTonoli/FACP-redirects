@@ -4088,14 +4088,14 @@
   RedirectMatch permanent ^/ref/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049b.htm
   RedirectMatch permanent ^/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049b.htm
   #These redirects were added by constance Thurley-Hart on 10 January 2019
-  RedirectMatch permanent ^/ref/vic/objects/D00000038$ /ref/vic/biogs/E000007b.htm
-  RedirectMatch permanent ^/vic/objects/D00000038$ /ref/vic/biogs/E000007b.htm
-  RedirectMatch permanent ^/ref/vic/objects/D00000044$ /ref/vic/biogs/E000077b.htm
-  RedirectMatch permanent ^/vic/objects/D00000044$ /ref/vic/biogs/E000077b.htm
-  RedirectMatch permanent ^/ref/vic/objects/D00000069$ /ref/vic/biogs/E000014b.htm
-  RedirectMatch permanent ^/vic/objects/D00000069$ /ref/vic/biogs/E000014b.htm
-  RedirectMatch permanent ^/ref/vic/objects/D00000114$ /ref/vic/biogs/E000265b.htm
-  RedirectMatch permanent ^/vic/objects/D00000114$ /ref/vic/biogs/E000265b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000038.htm$ /ref/vic/biogs/E000007b.htm
+  RedirectMatch permanent ^/vic/objects/D00000038.htm$ /ref/vic/biogs/E000007b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000044.htm$ /ref/vic/biogs/E000077b.htm
+  RedirectMatch permanent ^/vic/objects/D00000044.htm$ /ref/vic/biogs/E000077b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000069.htm$ /ref/vic/biogs/E000014b.htm
+  RedirectMatch permanent ^/vic/objects/D00000069.htm$ /ref/vic/biogs/E000014b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000114.htm$ /ref/vic/biogs/E000265b.htm
+  RedirectMatch permanent ^/vic/objects/D00000114.htm$ /ref/vic/biogs/E000265b.htm
   #This redirect was added by Nicola Laurent on 14 January 2019
   RedirectMatch permanent ^/ref/wa/biogs/WE01470b.htm$ /ref/wa/biogs/WE00173b.htm
   RedirectMatch permanent ^/guide/wa/WE01470$ /ref/wa/biogs/WE00173b.htm
@@ -4108,18 +4108,18 @@
   RedirectMatch permanent ^/guide/qld/QE00754$ /ref/qld/biogs/QE00751b.htm
   RedirectMatch permanent ^/qld/biogs/QE00754b.htm$ /ref/qld/biogs/QE00751b.htm
   #This redirect was added by Constance Thurley-Hart on 14 January 2019
-  RedirectMatch permanent ^/ref/vic/objects/D00000356$ /ref/vic/objects/D00000233
-  RedirectMatch permanent ^/vic/objects/D00000356$ /ref/vic/objects/D00000233
+  RedirectMatch permanent ^/ref/vic/objects/D00000356.htm$ /ref/vic/objects/D00000233
+  RedirectMatch permanent ^/vic/objects/D00000356.htm$ /ref/vic/objects/D00000233
   #This redirect was added by Nicola Laurent on 15 January 2019
   RedirectMatch permanent ^/ref/sa/objects/SD0000326.htm$ /ref/sa/objects/SD0000327.htm
   RedirectMatch permanent ^/sa/objects/SD0000326.htm$ /ref/sa/objects/SD0000327.htm
   #These redirects were added by Constance Thurley-Hart on 16 January 2019
-  RedirectMatch permanent ^/ref/vic/objects/D00000443$ /ref/vic/biogs/E000045b.htm
-  RedirectMatch permanent ^/vic/objects/D00000443$ /ref/vic/biogs/E000045b.htm
-  RedirectMatch permanent ^/ref/vic/objects/D00000444$ /ref/vic/biogs/E000045b.htm
-  RedirectMatch permanent ^/vic/objects/D00000444$ /ref/vic/biogs/E000045b.htm
-  RedirectMatch permanent ^/ref/vic/objects/D00000445$ /ref/vic/biogs/E000045b.htm
-  RedirectMatch permanent ^/vic/objects/D00000445$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000443.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/vic/objects/D00000443.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000444.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/vic/objects/D00000444.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000445.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/vic/objects/D00000445.htm$ /ref/vic/biogs/E000045b.htm
   #These redirects were added by Nicola Laurent on 17 January 2019
   RedirectMatch permanent ^/ref/sa/objects/SD0000289.htm$ /ref/sa/objects/SD0000087.htm
   RedirectMatch permanent ^/sa/objects/SD0000289.htm$ /ref/sa/objects/SD0000087.htm

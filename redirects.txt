@@ -5608,17 +5608,17 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 /nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049b.htm
 
 #These redirects were added by constance Thurley-Hart on 10 January 2019
-/ref/vic/objects/D00000038, /ref/vic/biogs/E000007b.htm
-/vic/objects/D00000038, /ref/vic/biogs/E000007b.htm
+/ref/vic/objects/D00000038.htm, /ref/vic/biogs/E000007b.htm
+/vic/objects/D00000038.htm, /ref/vic/biogs/E000007b.htm
 
-/ref/vic/objects/D00000044, /ref/vic/biogs/E000077b.htm
-/vic/objects/D00000044, /ref/vic/biogs/E000077b.htm
+/ref/vic/objects/D00000044.htm, /ref/vic/biogs/E000077b.htm
+/vic/objects/D00000044.htm, /ref/vic/biogs/E000077b.htm
 
-/ref/vic/objects/D00000069, /ref/vic/biogs/E000014b.htm
-/vic/objects/D00000069, /ref/vic/biogs/E000014b.htm
+/ref/vic/objects/D00000069.htm, /ref/vic/biogs/E000014b.htm
+/vic/objects/D00000069.htm, /ref/vic/biogs/E000014b.htm
 
-/ref/vic/objects/D00000114, /ref/vic/biogs/E000265b.htm
-/vic/objects/D00000114, /ref/vic/biogs/E000265b.htm
+/ref/vic/objects/D00000114.htm, /ref/vic/biogs/E000265b.htm
+/vic/objects/D00000114.htm, /ref/vic/biogs/E000265b.htm
 
 #This redirect was added by Nicola Laurent on 14 January 2019
 /ref/wa/biogs/WE01470b.htm, /ref/wa/biogs/WE00173b.htm
@@ -5636,8 +5636,8 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 #This redirect was added by Constance Thurley-Hart on 14 January 2019
 
-/ref/vic/objects/D00000356, /ref/vic/objects/D00000233
-/vic/objects/D00000356, /ref/vic/objects/D00000233
+/ref/vic/objects/D00000356.htm, /ref/vic/objects/D00000233
+/vic/objects/D00000356.htm, /ref/vic/objects/D00000233
 
 #This redirect was added by Nicola Laurent on 15 January 2019
 /ref/sa/objects/SD0000326.htm, /ref/sa/objects/SD0000327.htm
@@ -5645,14 +5645,14 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 #These redirects were added by Constance Thurley-Hart on 16 January 2019
 
-/ref/vic/objects/D00000443, /ref/vic/biogs/E000045b.htm
-/vic/objects/D00000443, /ref/vic/biogs/E000045b.htm
+/ref/vic/objects/D00000443.htm, /ref/vic/biogs/E000045b.htm
+/vic/objects/D00000443.htm, /ref/vic/biogs/E000045b.htm
 
-/ref/vic/objects/D00000444, /ref/vic/biogs/E000045b.htm
-/vic/objects/D00000444, /ref/vic/biogs/E000045b.htm
+/ref/vic/objects/D00000444.htm, /ref/vic/biogs/E000045b.htm
+/vic/objects/D00000444.htm, /ref/vic/biogs/E000045b.htm
 
-/ref/vic/objects/D00000445, /ref/vic/biogs/E000045b.htm
-/vic/objects/D00000445, /ref/vic/biogs/E000045b.htm
+/ref/vic/objects/D00000445.htm, /ref/vic/biogs/E000045b.htm
+/vic/objects/D00000445.htm, /ref/vic/biogs/E000045b.htm
 
 #These redirects were added by Nicola Laurent on 17 January 2019
 
