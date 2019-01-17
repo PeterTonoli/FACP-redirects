@@ -3472,8 +3472,8 @@ ref/vic/objects/D00000467.htm, ref/vic/objects/D00000466.htm
 
 #These redirects were added by Nicola Laurent on 27 February 2018
 
-/ref/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049.htm
-/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049.htm
+/ref/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049b.htm
+/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049b.htm
 
 /ref/nsw/objects/ND0000296.htm, /ref/nsw/bib/NP0000306.htm
 /nsw/objects/ND0000296.htm, /ref/nsw/bib/NP0000306.htm
@@ -5596,3 +5596,74 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 /ref/vic/objects/D00000453.htm, /ref/vic/biogs/E000339b.htm
 /vic/objects/D00000453.htm, /ref/vic/biogs/E000339b.htm
+
+#This redirect was added by Constance Thurley-Hart on 3 January 2019
+
+/ref/nsw/objects/ND0000069.htm, /ref/nsw/biogs/NE00497b.htm
+/nsw/objects/ND0000069.htm, /ref/nsw/biogs/NE00497b.htm
+
+#This redirects were added by Nicola Laurent on 8 January 2019
+
+/ref/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049b.htm
+/nt/objects/YD0000039.htm, /ref/nt/biogs/YE00049b.htm
+
+#These redirects were added by constance Thurley-Hart on 10 January 2019
+/ref/vic/objects/D00000038, /ref/vic/biogs/E000007b.htm
+/vic/objects/D00000038, /ref/vic/biogs/E000007b.htm
+
+/ref/vic/objects/D00000044, /ref/vic/biogs/E000077b.htm
+/vic/objects/D00000044, /ref/vic/biogs/E000077b.htm
+
+/ref/vic/objects/D00000069, /ref/vic/biogs/E000014b.htm
+/vic/objects/D00000069, /ref/vic/biogs/E000014b.htm
+
+/ref/vic/objects/D00000114, /ref/vic/biogs/E000265b.htm
+/vic/objects/D00000114, /ref/vic/biogs/E000265b.htm
+
+#This redirect was added by Nicola Laurent on 14 January 2019
+/ref/wa/biogs/WE01470b.htm, /ref/wa/biogs/WE00173b.htm
+/guide/wa/WE01470, /ref/wa/biogs/WE00173b.htm
+/wa/biogs/WE01470b.htm, /ref/wa/biogs/WE00173b.htm
+
+#These redirects were added by Kirsten Wright on 14 January 2019
+/ref/qld/biogs/QE00752b.htm, /ref/qld/biogs/QE00751b.htm
+/guide/qld/QE00752, /ref/qld/biogs/QE00751b.htm
+/qld/biogs/QE00752b.htm, /ref/qld/biogs/QE00751b.htm
+
+/ref/qld/biogs/QE00754b.htm, /ref/qld/biogs/QE00751b.htm
+/guide/qld/QE00754, /ref/qld/biogs/QE00751b.htm
+/qld/biogs/QE00754b.htm, /ref/qld/biogs/QE00751b.htm
+
+#This redirect was added by Constance Thurley-Hart on 14 January 2019
+
+/ref/vic/objects/D00000356, /ref/vic/objects/D00000233
+/vic/objects/D00000356, /ref/vic/objects/D00000233
+
+#This redirect was added by Nicola Laurent on 15 January 2019
+/ref/sa/objects/SD0000326.htm, /ref/sa/objects/SD0000327.htm
+/sa/objects/SD0000326.htm, /ref/sa/objects/SD0000327.htm
+
+#These redirects were added by Constance Thurley-Hart on 16 January 2019
+
+/ref/vic/objects/D00000443, /ref/vic/biogs/E000045b.htm
+/vic/objects/D00000443, /ref/vic/biogs/E000045b.htm
+
+/ref/vic/objects/D00000444, /ref/vic/biogs/E000045b.htm
+/vic/objects/D00000444, /ref/vic/biogs/E000045b.htm
+
+/ref/vic/objects/D00000445, /ref/vic/biogs/E000045b.htm
+/vic/objects/D00000445, /ref/vic/biogs/E000045b.htm
+
+#These redirects were added by Nicola Laurent on 17 January 2019
+
+/ref/sa/objects/SD0000289.htm, /ref/sa/objects/SD0000087.htm
+/sa/objects/SD0000289.htm, /ref/sa/objects/SD0000087.htm
+
+/ref/sa/objects/SD0000288.htm, /ref/sa/objects/SD0000087.htm
+/sa/objects/SD0000288.htm, /ref/sa/objects/SD0000087.htm
+
+/ref/sa/objects/SD0000290.htm, /ref/sa/objects/SD0000087.htm
+/sa/objects/SD0000290.htm, /ref/sa/objects/SD0000087.htm
+
+/ref/sa/objects/SD0000110.htm, /ref/sa/objects/SD0000109.htm
+/sa/objects/SD0000110.htm, /ref/sa/objects/SD0000109.htm
