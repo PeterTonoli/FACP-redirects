@@ -5636,8 +5636,8 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 #This redirect was added by Constance Thurley-Hart on 14 January 2019
 
-/ref/vic/objects/D00000356.htm, /ref/vic/objects/D00000233
-/vic/objects/D00000356.htm, /ref/vic/objects/D00000233
+/ref/vic/objects/D00000356.htm, /ref/vic/objects/D00000223.htm
+/vic/objects/D00000356.htm, /ref/vic/objects/D00000223.htm
 
 #This redirect was added by Nicola Laurent on 15 January 2019
 /ref/sa/objects/SD0000326.htm, /ref/sa/objects/SD0000327.htm
@@ -5667,3 +5667,23 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 /ref/sa/objects/SD0000110.htm, /ref/sa/objects/SD0000109.htm
 /sa/objects/SD0000110.htm, /ref/sa/objects/SD0000109.htm
+
+#These redirects were added by Constance Thurley-Hart on 23 January 2019
+
+/ref/tas/objects/TD0000012.htm, ref/tas/objects/TD0000247.htm
+/tas/objects/TD0000012.htm, ref/tas/objects/TD0000247.htm
+
+/ref/tas/objects/TD0000028.htm, ref/tas/biogs/TE00025b.htm
+/tas/objects/TD0000028.htm, ref/tas/biogs/TE00025b.htm
+
+/ref/tas/objects/TD0000037.htm, ref/tas/biogs/TE00368b.htm
+/tas/objects/TD0000037.htm, ref/tas/biogs/TE00368b.htm
+
+/ref/tas/objects/TD0000040.htm, ref/tas/biogs/TE00368b.htm
+/tas/objects/TD0000040.htm, ref/tas/biogs/TE00368b.htm
+
+/ref/tas/objects/TD0000043.htm, ref/tas/biogs/TE00033b.htm
+/tas/objects/TD0000043.htm, ref/tas/biogs/TE00033b.htm
+
+/ref/tas/objects/TD0000069.htm, ref/tas/biogs/TE00038b.htm
+/tas/objects/TD0000069.htm, ref/tas/biogs/TE00038b.htm

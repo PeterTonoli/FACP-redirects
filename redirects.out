@@ -4108,8 +4108,8 @@
   RedirectMatch permanent ^/guide/qld/QE00754$ /ref/qld/biogs/QE00751b.htm
   RedirectMatch permanent ^/qld/biogs/QE00754b.htm$ /ref/qld/biogs/QE00751b.htm
   #This redirect was added by Constance Thurley-Hart on 14 January 2019
-  RedirectMatch permanent ^/ref/vic/objects/D00000356.htm$ /ref/vic/objects/D00000233
-  RedirectMatch permanent ^/vic/objects/D00000356.htm$ /ref/vic/objects/D00000233
+  RedirectMatch permanent ^/ref/vic/objects/D00000356.htm$ /ref/vic/objects/D00000223.htm
+  RedirectMatch permanent ^/vic/objects/D00000356.htm$ /ref/vic/objects/D00000223.htm
   #This redirect was added by Nicola Laurent on 15 January 2019
   RedirectMatch permanent ^/ref/sa/objects/SD0000326.htm$ /ref/sa/objects/SD0000327.htm
   RedirectMatch permanent ^/sa/objects/SD0000326.htm$ /ref/sa/objects/SD0000327.htm
@@ -4129,3 +4129,16 @@
   RedirectMatch permanent ^/sa/objects/SD0000290.htm$ /ref/sa/objects/SD0000087.htm
   RedirectMatch permanent ^/ref/sa/objects/SD0000110.htm$ /ref/sa/objects/SD0000109.htm
   RedirectMatch permanent ^/sa/objects/SD0000110.htm$ /ref/sa/objects/SD0000109.htm
+  #These redirects were added by Constance Thurley-Hart on 23 January 2019
+  RedirectMatch permanent ^/ref/tas/objects/TD0000012.htm$ ref/tas/objects/TD0000247.htm
+  RedirectMatch permanent ^/tas/objects/TD0000012.htm$ ref/tas/objects/TD0000247.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000028.htm$ ref/tas/biogs/TE00025b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000028.htm$ ref/tas/biogs/TE00025b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000037.htm$ ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000037.htm$ ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000040.htm$ ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000040.htm$ ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000043.htm$ ref/tas/biogs/TE00033b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000043.htm$ ref/tas/biogs/TE00033b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000069.htm$ ref/tas/biogs/TE00038b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000069.htm$ ref/tas/biogs/TE00038b.htm
