@@ -5670,20 +5670,20 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 #These redirects were added by Constance Thurley-Hart on 23 January 2019
 
-/ref/tas/objects/TD0000012.htm, ref/tas/objects/TD0000247.htm
-/tas/objects/TD0000012.htm, ref/tas/objects/TD0000247.htm
+/ref/tas/objects/TD0000012.htm, /ref/tas/objects/TD0000247.htm
+/tas/objects/TD0000012.htm, /ref/tas/objects/TD0000247.htm
 
-/ref/tas/objects/TD0000028.htm, ref/tas/biogs/TE00025b.htm
-/tas/objects/TD0000028.htm, ref/tas/biogs/TE00025b.htm
+/ref/tas/objects/TD0000028.htm, /ref/tas/biogs/TE00025b.htm
+/tas/objects/TD0000028.htm, /ref/tas/biogs/TE00025b.htm
 
-/ref/tas/objects/TD0000037.htm, ref/tas/biogs/TE00368b.htm
-/tas/objects/TD0000037.htm, ref/tas/biogs/TE00368b.htm
+/ref/tas/objects/TD0000037.htm, /ref/tas/biogs/TE00368b.htm
+/tas/objects/TD0000037.htm, /ref/tas/biogs/TE00368b.htm
 
-/ref/tas/objects/TD0000040.htm, ref/tas/biogs/TE00368b.htm
-/tas/objects/TD0000040.htm, ref/tas/biogs/TE00368b.htm
+/ref/tas/objects/TD0000040.htm, /ref/tas/biogs/TE00368b.htm
+/tas/objects/TD0000040.htm, /ref/tas/biogs/TE00368b.htm
 
-/ref/tas/objects/TD0000043.htm, ref/tas/biogs/TE00033b.htm
-/tas/objects/TD0000043.htm, ref/tas/biogs/TE00033b.htm
+/ref/tas/objects/TD0000043.htm, /ref/tas/biogs/TE00033b.htm
+/tas/objects/TD0000043.htm, /ref/tas/biogs/TE00033b.htm
 
-/ref/tas/objects/TD0000069.htm, ref/tas/biogs/TE00038b.htm
-/tas/objects/TD0000069.htm, ref/tas/biogs/TE00038b.htm
+/ref/tas/objects/TD0000069.htm, /ref/tas/biogs/TE00038b.htm
+/tas/objects/TD0000069.htm, /ref/tas/biogs/TE00038b.htm
