@@ -5687,3 +5687,92 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 
 /ref/tas/objects/TD0000069.htm, /ref/tas/biogs/TE00038b.htm
 /tas/objects/TD0000069.htm, /ref/tas/biogs/TE00038b.htm
+
+#This redirect was added by Nicola Laurent on 30 January 2019
+
+/ref/tas/objects/TD0000197.htm, /ref/tas/biogs/TE00164b.htm
+/tas/objects/TD0000197.htm, /ref/tas/biogs/TE00164b.htm
+
+#This redirect was added by Constance Thurley-Hart on 1 February 2019
+
+/ref/tas/objects/TD0000207.htm, /ref/tas/biogs/TE00205b.htm
+/tas/objects/TD0000207.htm, /ref/tas/biogs/TE00205b.htm
+
+#Redirects added by Cate O'Neill 8 February 2019
+
+/ref/wa/biogs/WE01013b.htm, /ref/wa/biogs/WE00999b.htm
+/guide/wa/WE01013, /ref/wa/biogs/WE00999b.htm
+/wa/biogs/WE01013b.htm, /ref/wa/biogs/WE00999b.htm
+
+/ref/wa/biogs/WE00053b.htm, /ref/wa/biogs/WE00473b.htm
+/guide/wa/WE00053, /ref/wa/biogs/WE00473b.htm
+/wa/biogs/WE00053b.htm, /ref/wa/biogs/WE00473b.htm
+
+/ref/wa/biogs/WE00461b.htm, /ref/wa/biogs/WE01541b.htm
+/guide/wa/WE00461, /ref/wa/biogs/WE01541b.htm
+/wa/biogs/WE00461b.htm, /ref/wa/biogs/WE01541b.htm
+
+/ref/wa/biogs/WE00468b.htm, /ref/wa/biogs/WE01541b.htm
+/guide/wa/WE00468, /ref/wa/biogs/WE01541b.htm
+/wa/biogs/WE00468b.htm, /ref/wa/biogs/WE01541b.htm
+
+/ref/wa/biogs/WE00483b.htm, /ref/wa/biogs/WE00440b.htm
+/guide/wa/WE00483, /ref/wa/biogs/WE00440b.htm
+/wa/biogs/WE00483b.htm, /ref/wa/biogs/WE00440b.htm
+
+/ref/wa/biogs/WE00667b.htm, /ref/wa/biogs/WE00657b.htm
+/guide/wa/WE00667, /ref/wa/biogs/WE00657b.htm
+/wa/biogs/WE00667b.htm, /ref/wa/biogs/WE00657b.htm
+
+/ref/wa/biogs/WE00991b.htm, /ref/wa/biogs/WE00990b.htm
+/guide/wa/WE00991, /ref/wa/biogs/WE00990b.htm
+/wa/biogs/WE00991b.htm, /ref/wa/biogs/WE00990b.htm
+
+/ref/wa/biogs/WE01058b.htm, /ref/wa/biogs/WE00990b.htm
+/guide/wa/WE01058, /ref/wa/biogs/WE00990b.htm
+/wa/biogs/WE01058b.htm, /ref/wa/biogs/WE00990b.htm
+
+/ref/wa/biogs/WE01093b.htm, /ref/wa/biogs/WE00990b.htm
+/guide/wa/WE01093, /ref/wa/biogs/WE00990b.htm
+/wa/biogs/WE01093b.htm, /ref/wa/biogs/WE00990b.htm
+
+#This redirect was added by Constance Thurley-Hart on 11 February 2019
+
+/ref/nsw/bib/NP0001074.htm, /ref/nsw/bib/NP0000214.htm
+/nsw/bib/NP0001074.htm, /ref/nsw/bib/NP0000214.htm
+
+#Redirects added by Cate O'Neill on 12 February 2019
+
+/ref/tas/biogs/TE00147b.htm, /ref/tas/biogs/TE00074b.htm
+/guide/tas/TE00147, /ref/tas/biogs/TE00074b.htm
+/tas/biogs/TE00147b.htm, /ref/tas/biogs/TE00074b.htm
+
+/ref/tas/biogs/TE00013b.htm, /ref/tas/biogs/TE00004b.htm
+/guide/tas/TE00013, /ref/tas/biogs/TE00004b.htm
+/tas/biogs/TE00013b.htm, /ref/tas/biogs/TE00004b.htm
+
+/ref/tas/biogs/TE00152b.htm, /ref/tas/biogs/TE00007b.htm
+/guide/tas/TE00152, /ref/tas/biogs/TE00007b.htm
+/tas/biogs/TE00152b.htm, /ref/tas/biogs/TE00007b.htm
+
+/ref/tas/biogs/TE00197b.htm, /ref/tas/biogs/TE00023b.htm
+/guide/tas/TE00197, /ref/tas/biogs/TE00023b.htm
+/tas/biogs/TE00197b.htm, /ref/tas/biogs/TE00023b.htm
+
+/ref/tas/biogs/TE00215b.htm, /ref/tas/biogs/TE00023b.htm
+/guide/tas/TE00215, /ref/tas/biogs/TE00023b.htm
+/tas/biogs/TE00215b.htm, /ref/tas/biogs/TE00023b.htm
+
+/ref/tas/biogs/TE00221b.htm, /ref/tas/biogs/TE00023b.htm
+/guide/tas/TE00221, /ref/tas/biogs/TE00023b.htm
+/tas/biogs/TE00221b.htm, /ref/tas/biogs/TE00023b.htm
+
+/ref/tas/biogs/TE00227b.htm, /ref/tas/biogs/TE00023b.htm
+/guide/tas/TE00227, /ref/tas/biogs/TE00023b.htm
+/tas/biogs/TE00227b.htm, /ref/tas/biogs/TE00023b.htm
+
+#This redirect was added by Constance Thurley-Hart on 12 February 2019
+
+/ref/tas/biogs/TE00789b.htm, /ref/tas/biogs/TE00785b.htm
+/guide/tas/TE00789, /ref/tas/biogs/TE00785b.htm
+/tas/biogs/TE00789b.htm, /ref/tas/biogs/TE00785b.htm
