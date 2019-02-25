@@ -1210,7 +1210,7 @@
 
 # These pub redirects were added by Nicola Laurent on 13 March 2015
 
-/ref/sa/bib/SP0000093.htm, /ref/sa/biogs/SE00270b.htm
+/ref/sa/objects/SD0000050.htm, /ref/sa/biogs/SE00270b.htm
 /sa/bib/SP0000093.htm, /sa/biogs/SE00270b.htm
 
 /ref/sa/bib/SP0000096.htm, /ref/sa/biogs/SE00273b.htm
@@ -1494,14 +1494,17 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 #These redirects were added by Nicola Laurent on 6 March 2017
 /ref/wa/bib/WP0000210.htm, /ref/wa/biogs/WE00492b.htm
 /wa/bib/WP0000210.htm, /ref/wa/biogs/WE00492b.htm
+
 /nsw/bib/NP0000210.htm, /ref/nsw/biogs/NE00248b.htm
-/ref/nsw/bib/NP0000210.htm, /ref/nsw/biogs/NE00248b.htm
+/ref/wa/bib/WP0000061.htm, /ref/nsw/biogs/NE00248b.htm
+
 /wa/bib/WP0000061.htm, /ref/wa/biogs/WE00122b.htm
 /ref/wa/bib/WP0000061.htm, /ref/wa/biogs/WE00122b.htm
 
 #These redirects were added by Nicola Laurent on 7 March 2017
 /act/bib/AP0000010.htm, /ref/act/biogs/AE00024b.htm
 /ref/act/bib/AP0000010.htm, /ref/act/biogs/AE00024b.htm
+
 /act/bib/AP0000011.htm, /ref/act/biogs/AE00024b.htm
 /ref/act/bib/AP0000011.htm, /ref/act/biogs/AE00024b.htm
 
@@ -1512,10 +1515,13 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 #These redirects were added by Nicola Laurent on 15 March 2017
 /tas/bib/TP0000730.htm, /ref/tas/bib/TP0000589.htm
 /ref/tas/bib/TP0000730.htm, /ref/tas/bib/TP0000589.htm
+
 /nsw/bib/NP0000712.htm, /ref/nsw/bib/NP0000459.htm
 /ref/nsw/bib/NP0000712.htm, /ref/nsw/bib/NP0000459.htm
+
 /nsw/bib/NP0000711.htm, /ref/nsw/bib/NP0000459.htm
 /ref/nsw/bib/NP0000711.htm, /ref/nsw/bib/NP0000459.htm
+
 /nsw/bib/NP0000713.htm, /ref/nsw/bib/NP0000459.htm
 /ref/nsw/bib/NP0000713.htm, /ref/nsw/bib/NP0000459.htm
 
@@ -1960,139 +1966,139 @@ These dobject redirects were added by Nicola Laurent on 13 April 2015.
 
 #These redirects were added by Nicola Laurent 30 January 2018
 
-ref/nsw/objects/ND0000198.htm, /ref/nsw/bib/NP0000164.htm
+/ref/nsw/objects/ND0000198.htm, /ref/nsw/bib/NP0000164.htm
 /nsw/objects/ND0000198.htm, /ref/nsw/bib/NP0000164.htm
 
-ref/nsw/objects/ND0000211.htm, /ref/nsw/bib/NP0000185.htm
+/ref/nsw/objects/ND0000211.htm, /ref/nsw/bib/NP0000185.htm
 /nsw/objects/ND0000211.htm, /ref/nsw/bib/NP0000185.htm
 
-ref/nsw/objects/ND0000348.htm, /ref/nsw/bib/NP0000429.htm
+/ref/nsw/objects/ND0000348.htm, /ref/nsw/bib/NP0000429.htm
 /nsw/objects/ND0000348.htm, /ref/nsw/bib/NP0000429.htm
 
-ref/tas/objects/TD0000017.htm, /ref/tas/objects/TD0000016.htm
+/ref/tas/objects/TD0000017.htm, /ref/tas/objects/TD0000016.htm
 /tas/objects/TD0000017.htm, /ref/tas/objects/TD0000016.htm
 
 #These redirects were added by Nicola Laurent 31 January 2018
 
-ref/nsw/objects/ND0000247.htm, /ref/nsw/bib/NP0000245.htm
+/ref/nsw/objects/ND0000247.htm, /ref/nsw/bib/NP0000245.htm
 /nsw/objects/ND0000247.htm, /ref/nsw/bib/NP0000245.htm
 
-ref/wa/objects/WD0000148.htm, /ref/wa/bib/WP0000272.htm
+/ref/wa/objects/WD0000148.htm, /ref/wa/bib/WP0000272.htm
 /wa/objects/WD0000148.htm, /ref/wa/bib/WP0000272.htm
 
-ref/wa/objects/WD0000116.htm, /ref/wa/bib/WP0000252.htm
+/ref/wa/objects/WD0000116.htm, /ref/wa/bib/WP0000252.htm
 /wa/objects/WD0000116.htm, /ref/wa/bib/WP0000252.htm
 
-ref/wa/objects/WD0000115.htm, /ref/wa/bib/WP0000252.htm
+/ref/wa/objects/WD0000115.htm, /ref/wa/bib/WP0000252.htm
 /wa/objects/WD0000115.htm, /ref/wa/bib/WP0000252.htm
 
-ref/wa/objects/WD0000114.htm, /ref/wa/bib/WP0000252.htm
+/ref/wa/objects/WD0000114.htm, /ref/wa/bib/WP0000252.htm
 /wa/objects/WD0000114.htm, /ref/wa/bib/WP0000252.htm
 
-ref/wa/objects/WD0000079.htm, /ref/wa/bib/WP0001531.htm
+/ref/wa/objects/WD0000079.htm, /ref/wa/bib/WP0001531.htm
 /wa/objects/WD0000079.htm, /ref/wa/bib/WP0001531.htm
 
-ref/wa/objects/WD0000078.htm, /ref/wa/bib/WP0001532.htm
+/ref/wa/objects/WD0000078.htm, /ref/wa/bib/WP0001532.htm
 /wa/objects/WD0000078.htm, /ref/wa/bib/WP0001532.htm
 
 #These redirects were added by Nicola Laurent 1 February 2018
 
-ref/wa/objects/WD0000063.htm, /ref/wa/bib/WP0001533.htm
+/ref/wa/objects/WD0000063.htm, /ref/wa/bib/WP0001533.htm
 /wa/objects/WD0000063.htm, /wa/bib/WP0001533.htm
 
-ref/wa/objects/WD0000064.htm, /ref/wa/bib/WP0001534.htm
+/ref/wa/objects/WD0000064.htm, /ref/wa/bib/WP0001534.htm
 /wa/objects/WD0000064.htm, /ref/wa/bib/WP0001534.htm
 
-ref/wa/objects/WD0000065.htm, /ref/wa/bib/WP0000187.htm
+/ref/wa/objects/WD0000065.htm, /ref/wa/bib/WP0000187.htm
 /wa/objects/WD0000065.htm, /ref/wa/bib/WP0000187.htm
 
-ref/wa/objects/WD0000069.htm, /ref/wa/bib/WP0001535.htm
+/ref/wa/objects/WD0000069.htm, /ref/wa/bib/WP0001535.htm
 /wa/objects/WD0000069.htm, /ref/wa/bib/WP0001535.htm
 
-ref/wa/objects/WD0000071.htm, /ref/wa/bib/WP0001536.htm
+/ref/wa/objects/WD0000071.htm, /ref/wa/bib/WP0001536.htm
 /wa/objects/WD0000071.htm, /ref/wa/bib/WP0001536.htm
 
-ref/wa/objects/WD0000072.htm, /ref/wa/bib/WP0001537.htm
+/ref/wa/objects/WD0000072.htm, /ref/wa/bib/WP0001537.htm
 /wa/objects/WD0000072.htm, /ref/wa/bib/WP0001537.htm
 
-ref/wa/objects/WD0000073.htm, /ref/wa/bib/WP0001538.htm
+/ref/wa/objects/WD0000073.htm, /ref/wa/bib/WP0001538.htm
 /wa/objects/WD0000073.htm, /ref/wa/bib/WP0001538.htm
 
-ref/wa/objects/WD0000074.htm, /ref/wa/bib/WP0001538.htm
+/ref/wa/objects/WD0000074.htm, /ref/wa/bib/WP0001538.htm
 /wa/objects/WD0000074.htm, /ref/wa/bib/WP0001538.htm
 
-ref/wa/objects/WD0000075.htm, /ref/wa/bib/WP0001539.htm
+/ref/wa/objects/WD0000075.htm, /ref/wa/bib/WP0001539.htm
 /wa/objects/WD0000075.htm, /ref/wa/bib/WP0001539.htm
 
-ref/wa/objects/WD0000076.htm, /ref/wa/bib/WP0001540.htm
+/ref/wa/objects/WD0000076.htm, /ref/wa/bib/WP0001540.htm
 /wa/objects/WD0000076.htm, /ref/wa/bib/WP0001540.htm
 
-ref/wa/objects/WD0000077.htm, /ref/wa/bib/WP0001541.htm
+/ref/wa/objects/WD0000077.htm, /ref/wa/bib/WP0001541.htm
 /wa/objects/WD0000077.htm, /ref/wa/bib/WP0001541.htm
 
-/ref/vic/bib/P00000405.htm, ref/vic/objects/D00000152.htm
+/ref/vic/bib/P00000405.htm, /ref/vic/objects/D00000152.htm
 /vic/bib/P00000405.htm, /ref/vic/objects/D00000152.htm
 
-/ref/vic/bib/P00000399.htm, ref/vic/objects/D00000153.htm
+/ref/vic/bib/P00000399.htm, /ref/vic/objects/D00000153.htm
 /vic/bib/P00000399.htm, /ref/vic/objects/D00000153.htm
 
-/ref/vic/bib/P00000400.htm, ref/vic/objects/D00000154.htm
+/ref/vic/bib/P00000400.htm, /ref/vic/objects/D00000154.htm
 /vic/bib/P00000400.htm, /ref/vic/objects/D00000154.htm
 
-/ref/vic/bib/P00000401.htm, ref/vic/objects/D00000155.htm
+/ref/vic/bib/P00000401.htm, /ref/vic/objects/D00000155.htm
 /vic/bib/P00000401.htm, /ref/vic/objects/D00000155.htm
 
-/ref/vic/bib/P00000403.htm, ref/vic/objects/D00000157.htm
+/ref/vic/bib/P00000403.htm, /ref/vic/objects/D00000157.htm
 /vic/bib/P00000403.htm, /ref/vic/objects/D00000157.htm
 
-/ref/vic/bib/P00000404.htm, ref/vic/objects/D00000158.htm
+/ref/vic/bib/P00000404.htm, /ref/vic/objects/D00000158.htm
 /vic/bib/P00000404.htm, /ref/vic/objects/D00000158.htm
 
-/ref/vic/bib/P00000790.htm, ref/vic/objects/D00000376.htm
+/ref/vic/bib/P00000790.htm, /ref/vic/objects/D00000376.htm
 /vic/bib/P00000790.htm, /ref/vic/objects/D00000376.htm
 
 #These redirects were added by Nicola Laurent 2 February 2018
 
-/ref/vic/bib/P00000792.htm, ref/vic/objects/D00000388.htm
+/ref/vic/bib/P00000792.htm, /ref/vic/objects/D00000388.htm
 /vic/bib/P00000792.htm, /vic/objects/D00000388.htm
 
-/ref/vic/bib/P00000798.htm, ref/vic/objects/D00000391.htm
+/ref/vic/bib/P00000798.htm, /ref/vic/objects/D00000391.htm
 /vic/bib/P00000798.htm, /ref/vic/objects/D00000391.htm
 
-/ref/vic/bib/P00000799.htm, ref/vic/objects/D00000392.htm
+/ref/vic/bib/P00000799.htm, /ref/vic/objects/D00000392.htm
 /vic/bib/P00000799.htm, /ref/vic/objects/D00000392.htm
 
 ref/vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
 /vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
 
-/ref/vic/bib/P00000803.htm, ref/vic/objects/D00000396.htm
+/ref/vic/bib/P00000803.htm, /ref/vic/objects/D00000396.htm
 /vic/bib/P00000803.htm, /ref/vic/objects/D00000396.htm
 
-/ref/vic/bib/P00000815.htm, ref/vic/objects/D00000402.htm
+/ref/vic/bib/P00000815.htm, /ref/vic/objects/D00000402.htm
 /vic/bib/P00000815.htm, /ref/vic/objects/D00000402.htm
 
-/ref/vic/bib/P00000818.htm, ref/vic/objects/D00000407.htm
+/ref/vic/bib/P00000818.htm, /ref/vic/objects/D00000407.htm
 /vic/bib/P00000818.htm, /ref/vic/objects/D00000407.htm
 
-/ref/vic/bib/P00000835.htm, ref/vic/biogs/E000355b.htm
+/ref/vic/bib/P00000835.htm, /ref/vic/biogs/E000355b.htm
 /vic/bib/P00000835.htm, /ref/vic/biogs/E000355b.htm
 
-ref/vic/objects/D00000428.htm, /ref/vic/biogs/E000355b.htm
+/ref/vic/objects/D00000428.htm, /ref/vic/biogs/E000355b.htm
 /vic/objects/D00000428.htm, /ref/vic/biogs/E000355b.htm
 
-/ref/vic/bib/P00000838.htm, ref/vic/objects/D00000431.htm
+/ref/vic/bib/P00000838.htm, /ref/vic/objects/D00000431.htm
 /vic/bib/P00000838.htm, /ref/vic/objects/D00000431.htm
 
-/ref/vic/bib/P00000844.htm, ref/vic/objects/D00000433.htm
+/ref/vic/bib/P00000844.htm, /ref/vic/objects/D00000433.htm
 /vic/bib/P00000844.htm, /ref/vic/objects/D00000433.htm
 
-ref/vic/objects/D00000434.htm, /ref/vic/bib/P00000845.htm
+/ref/vic/objects/D00000434.htm, /ref/vic/bib/P00000845.htm
 /vic/objects/D00000434.htm, /ref/vic/bib/P00000845.htm
 
-/ref/vic/bib/P00000847.htm, ref/vic/objects/D00000436.htm
+/ref/vic/bib/P00000847.htm, /ref/vic/objects/D00000436.htm
 /vic/bib/P00000847.htm, /ref/vic/objects/D00000436.htm
 
-ref/vic/objects/D00000467.htm, ref/vic/objects/D00000466.htm
+/ref/vic/objects/D00000467.htm, /ref/vic/objects/D00000466.htm
 /vic/objects/D00000467.htm, /ref/vic/objects/D00000466.htm
 
 #These redirects were added by Kirsten Wright 5 February 2018, as part of removing statutes as pubresources work
@@ -2696,74 +2702,74 @@ ref/vic/objects/D00000467.htm, ref/vic/objects/D00000466.htm
 /ref/act/bib/AP0000062.htm, /ref/act/biogs/AE00093b.htm
 /act/bib/AP0000062.htm, /ref/act/biogs/AE00093b.htm
 
-/ref/sa/bib/AP0000075.htm, /ref/sa/biogs/SE00278b.htm
+/ref/sa/bib/SP0000075.htm, /ref/sa/biogs/SE00278b.htm
 /sa/bib/AP0000075.htm, /ref/sa/biogs/SE00278b.htm
 
-/ref/sa/bib/AP0000076.htm, /ref/sa/biogs/SE00260b.htm
-/sa/bib/AP0000076.htm, /ref/sa/biogs/SE00260b.htm
+/ref/sa/bib/SP0000076.htm, /ref/sa/biogs/SE00260b.htm
+/sa/bib/SP0000076.htm, /ref/sa/biogs/SE00260b.htm
 
-/ref/sa/bib/AP0000081.htm, /ref/sa/biogs/SE00275b.htm
-/sa/bib/AP0000081.htm, /ref/sa/biogs/SE00275b.htm
+/ref/sa/bib/SP0000081.htm, /ref/sa/biogs/SE00275b.htm
+/sa/bib/SP0000081.htm, /ref/sa/biogs/SE00275b.htm
 
-/ref/sa/bib/AP0000082.htm, /ref/sa/biogs/SE00276b.htm
-/sa/bib/AP0000082.htm, /ref/sa/biogs/SE00276b.htm
+/ref/sa/bib/SP0000082.htm, /ref/sa/biogs/SE00276b.htm
+/sa/bib/SP0000082.htm, /ref/sa/biogs/SE00276b.htm
 
-/ref/sa/bib/AP0000083.htm, /ref/sa/biogs/SE00259b.htm
-/sa/bib/AP0000083.htm, /ref/sa/biogs/SE00259b.htm
+/ref/sa/bib/SP0000083.htm, /ref/sa/biogs/SE00259b.htm
+/sa/bib/SP0000083.htm, /ref/sa/biogs/SE00259b.htm
 
-/ref/sa/bib/AP0000085.htm, /ref/sa/biogs/SE00261b.htm
-/sa/bib/AP0000085.htm, /ref/sa/biogs/SE00261b.htm
+/ref/sa/bib/SP0000085.htm, /ref/sa/biogs/SE00261b.htm
+/sa/bib/SP0000085.htm, /ref/sa/biogs/SE00261b.htm
 
-/ref/sa/bib/AP0000086.htm, /ref/sa/biogs/SE00262b.htm
-/sa/bib/AP0000086.htm, /ref/sa/biogs/SE00262b.htm
+/ref/sa/bib/SP0000086.htm, /ref/sa/biogs/SE00262b.htm
+/sa/bib/SP0000086.htm, /ref/sa/biogs/SE00262b.htm
 
-/ref/sa/bib/AP0000087.htm, /ref/sa/biogs/SE01457b.htm
-/sa/bib/AP0000087.htm, /ref/sa/biogs/SE01457b.htm
+/ref/sa/bib/SP0000087.htm, /ref/sa/biogs/SE01457b.htm
+/sa/bib/SP0000087.htm, /ref/sa/biogs/SE01457b.htm
 
-/ref/sa/bib/AP0000088.htm, /ref/sa/biogs/SE00265b.htm
-/sa/bib/AP0000088.htm, /ref/sa/biogs/SE00265b.htm
+/ref/sa/bib/SP0000088.htm, /ref/sa/biogs/SE00265b.htm
+/sa/bib/SP0000088.htm, /ref/sa/biogs/SE00265b.htm
 
-/ref/sa/bib/AP0000089.htm, /ref/sa/biogs/SE00266b.htm
-/sa/bib/AP0000089.htm, /ref/sa/biogs/SE00266b.htm
+/ref/sa/bib/SP0000089.htm, /ref/sa/biogs/SE00266b.htm
+/sa/bib/SP0000089.htm, /ref/sa/biogs/SE00266b.htm
 
-/ref/sa/bib/AP0000090.htm, /ref/sa/biogs/SE00267b.htm
-/sa/bib/AP0000090.htm, /ref/sa/biogs/SE00267b.htm
+/ref/sa/bib/SP0000090.htm, /ref/sa/biogs/SE00267b.htm
+/sa/bib/SP0000090.htm, /ref/sa/biogs/SE00267b.htm
 
-/ref/sa/bib/AP0000092.htm, /ref/sa/biogs/SE00269b.htm
-/sa/bib/AP0000092.htm, /ref/sa/biogs/SE00269b.htm
+/ref/sa/bib/SP0000092.htm, /ref/sa/biogs/SE00269b.htm
+/sa/bib/sP0000092.htm, /ref/sa/biogs/SE00269b.htm
 
-/ref/sa/bib/AP0000094.htm, /ref/sa/biogs/SE00271b.htm
-/sa/bib/AP0000094.htm, /ref/sa/biogs/SE00271b.htm
+/ref/sa/bib/SP0000094.htm, /ref/sa/biogs/SE00271b.htm
+/sa/bib/SP0000094.htm, /ref/sa/biogs/SE00271b.htm
 
-/ref/sa/bib/AP0000095.htm, /ref/sa/biogs/SE00272b.htm
-/sa/bib/AP0000095.htm, /ref/sa/biogs/SE00272b.htm
+/ref/sa/bib/SP0000095.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/SP0000095.htm, /ref/sa/biogs/SE00272b.htm
 
-/ref/sa/bib/AP0000097.htm, /ref/sa/biogs/SE00274b.htm
-/sa/bib/AP0000097.htm, /ref/sa/biogs/SE00274b.htm
+/ref/sa/bib/SP0000097.htm, /ref/sa/biogs/SE00274b.htm
+/sa/bib/SP0000097.htm, /ref/sa/biogs/SE00274b.htm
 
-/ref/sa/bib/AP0000098.htm, /ref/sa/biogs/SE00277b.htm
-/sa/bib/AP0000098.htm, /ref/sa/biogs/SE00277b.htm
+/ref/sa/bib/SP0000098.htm, /ref/sa/biogs/SE00277b.htm
+/sa/bib/SP0000098.htm, /ref/sa/biogs/SE00277b.htm
 
-/ref/sa/bib/AP0000099.htm, /ref/sa/biogs/SE00279b.htm
-/sa/bib/AP0000099.htm, /ref/sa/biogs/SE00279b.htm
+/ref/sa/bib/SP0000099.htm, /ref/sa/biogs/SE00279b.htm
+/sa/bib/SP0000099.htm, /ref/sa/biogs/SE00279b.htm
 
-/ref/sa/bib/AP0000100.htm, /ref/sa/biogs/SE00280b.htm
-/sa/bib/AP0000100.htm, /ref/sa/biogs/SE00280b.htm
+/ref/sa/bib/SP0000100.htm, /ref/sa/biogs/SE00280b.htm
+/sa/bib/SP0000100.htm, /ref/sa/biogs/SE00280b.htm
 
-/ref/sa/bib/AP0000101.htm, /ref/sa/biogs/SE00359b.htm
-/sa/bib/AP0000101.htm, /ref/sa/biogs/SE00359b.htm
+/ref/sa/bib/SP0000101.htm, /ref/sa/biogs/SE00359b.htm
+/sa/bib/SP0000101.htm, /ref/sa/biogs/SE00359b.htm
 
-/ref/sa/bib/AP0000102.htm, /ref/sa/biogs/SE00360b.htm
-/sa/bib/AP0000102.htm, /ref/sa/biogs/SE00360b.htm
+/ref/sa/bib/SP0000102.htm, /ref/sa/biogs/SE00360b.htm
+/sa/bib/SP0000102.htm, /ref/sa/biogs/SE00360b.htm
 
-/ref/sa/bib/AP0000213.htm, /ref/sa/biogs/SE01199b.htm
-/sa/bib/AP0000213.htm, /ref/sa/biogs/SE01199b.htm
+/ref/sa/bib/SP0000213.htm, /ref/sa/biogs/SE01199b.htm
+/sa/bib/SP0000213.htm, /ref/sa/biogs/SE01199b.htm
 
-/ref/sa/bib/AP0000214.htm, /ref/sa/biogs/SE01197b.htm
-/sa/bib/AP0000214.htm, /ref/sa/biogs/SE01197b.htm
+/ref/sa/bib/SP0000214.htm, /ref/sa/biogs/SE01197b.htm
+/sa/bib/sP0000214.htm, /ref/sa/biogs/SE01197b.htm
 
-/ref/sa/bib/AP0000384.htm, /ref/sa/biogs/SE00272b.htm
-/sa/bib/AP0000384.htm, /ref/sa/biogs/SE00272b.htm
+/ref/sa/bib/SP0000384.htm, /ref/sa/biogs/SE00272b.htm
+/sa/bib/SP0000384.htm, /ref/sa/biogs/SE00272b.htm
 
 #This redirect added by Cate O'Neill 6 Feb 2018
 
@@ -3137,8 +3143,8 @@ ref/vic/objects/D00000467.htm, ref/vic/objects/D00000466.htm
 
 #This redirect added by Kirsten Wright 7 Feb 2018 (last of the statutes)
 
-/ref/act/bib/AP0000061.htm, /ref/act/biogs/AE00211.htm
-/act/bib/AP0000061.htm, /ref/act/biogs/AE00211.htm
+/ref/act/bib/AP0000061.htm, /ref/act/biogs/AE00211b.htm
+/act/bib/AP0000061.htm, /ref/act/biogs/AE00211b.htm
 
 
 #These redirects added by Cate O'Neill 13 Feb 2018 (the straightforward glossary term redirects)
@@ -4182,8 +4188,8 @@ ref/vic/objects/D00000467.htm, ref/vic/objects/D00000466.htm
 
 #These redirects were added by Constance Thurley-Hart 13 March 2018
 
-ref/sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
-sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
+/ref/sa/objects/ND0000459.htm, /ref/nsw/objects/ND0000459.htm
+/sa/objects/ND0000459.htm, /ref/nsw/objects/ND0000459.htm
 
 #These redirects added by Cate O'Neill 16 March 2018
 
@@ -4572,90 +4578,90 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 /sa/biogs/SE00950b.htm, /resources/explaining-the-words-on-child-welfare-records/
 
 #These redirects were added by Nicola Laurent on 9 April 2018
-/ref/qld/objects/QD000010.htm, /ref/qld/biogs/QE00331b.htm
+/ref/qld/objects/QD0000010.htm, /ref/qld/biogs/QE00331b.htm
 /qld/objects/QD0000010.htm, /ref/qld/biogs/QE00331b.htm
 
 #This redirect was added by Nicola Laurent on 11 April 2018
-/ref/qld/objects/QD000001.htm, /ref/qld/biogs/QE00009b.htm
+/ref/qld/objects/QD0000001.htm, /ref/qld/biogs/QE00009b.htm
 /qld/objects/QD0000001.htm, /ref/qld/biogs/QE00009b.htm
 
-/ref/qld/objects/QD000022.htm, /ref/qld/biogs/QE00879b.htm
+/ref/qld/objects/QD0000022.htm, /ref/qld/biogs/QE00879b.htm
 /qld/objects/QD0000022.htm, /ref/qld/biogs/QE00879b.htm
 
-/ref/qld/objects/QD000031.htm, /ref/qld/biogs/QE00192b.htm
+/ref/qld/objects/QD0000031.htm, /ref/qld/biogs/QE00192b.htm
 /qld/objects/QD0000031.htm, /ref/qld/biogs/QE00192b.htm
 
-/ref/qld/objects/QD000032.htm, /ref/qld/biogs/QE00056b.htm
+/ref/qld/objects/QD0000032.htm, /ref/qld/biogs/QE00056b.htm
 /qld/objects/QD0000032.htm, /ref/qld/biogs/QE00056b.htm
 
-/ref/qld/objects/QD000036.htm, /ref/qld/biogs/QE00083b.htm
+/ref/qld/objects/QD0000036.htm, /ref/qld/biogs/QE00083b.htm
 /qld/objects/QD0000036.htm, /ref/qld/biogs/QE00083b.htm
 
 #These redirects were added by Nicola Laurent on 12 April 2018
-/ref/qld/objects/QD000039.htm, /ref/qld/biogs/QE00192b.htm
+/ref/qld/objects/QD0000039.htm, /ref/qld/biogs/QE00192b.htm
 /qld/objects/QD0000039.htm, /ref/qld/biogs/QE00192b.htm
 
-/ref/qld/objects/QD000040.htm, /ref/qld/biogs/QE00146b.htm
+/ref/qld/objects/QD0000040.htm, /ref/qld/biogs/QE00146b.htm
 /qld/objects/QD0000040.htm, /ref/qld/biogs/QE00146b.htm
 
-/ref/qld/objects/QD000042.htm, /ref/qld/biogs/QE00146b.htm
+/ref/qld/objects/QD0000042.htm, /ref/qld/biogs/QE00146b.htm
 /qld/objects/QD0000042.htm, /ref/qld/biogs/QE00146b.htm
 
-/ref/qld/objects/QD000045.htm, /ref/qld/biogs/QE00336b.htm
+/ref/qld/objects/QD0000045.htm, /ref/qld/biogs/QE00336b.htm
 /qld/objects/QD0000045.htm, /ref/qld/biogs/QE00336b.htm
 
 #These redirects were added by Nicola Laurent on 13 April 2018
-/ref/qld/objects/QD000053.htm, /ref/qld/biogs/QE00452b.htm
+/ref/qld/objects/QD0000053.htm, /ref/qld/biogs/QE00452b.htm
 /qld/objects/QD0000053.htm, /ref/qld/biogs/QE00452b.htm
 
-/ref/qld/objects/QD000058.htm, /ref/qld/biogs/QE00455b.htm
+/ref/qld/objects/QD0000058.htm, /ref/qld/biogs/QE00455b.htm
 /qld/objects/QD0000058.htm, /ref/qld/biogs/QE00455b.htm
 
-/ref/qld/objects/QD000061.htm, /ref/qld/biogs/QE00458b.htm
+/ref/qld/objects/QD0000061.htm, /ref/qld/biogs/QE00458b.htm
 /qld/objects/QD0000061.htm, /ref/qld/biogs/QE00458b.htm
 
-/ref/qld/objects/QD000063.htm, /ref/qld/biogs/QE00458b.htm
+/ref/qld/objects/QD0000063.htm, /ref/qld/biogs/QE00458b.htm
 /qld/objects/QD0000063.htm, /ref/qld/biogs/QE00458b.htm
 
-/ref/qld/objects/QD000066.htm, /ref/qld/biogs/QE00508b.htm
+/ref/qld/objects/QD0000066.htm, /ref/qld/biogs/QE00508b.htm
 /qld/objects/QD0000066.htm, /ref/qld/biogs/QE00508b.htm
 
-/ref/qld/objects/QD000069.htm, /ref/qld/biogs/QE00463b.htm
+/ref/qld/objects/QD0000069.htm, /ref/qld/biogs/QE00463b.htm
 /qld/objects/QD0000069.htm, /ref/qld/biogs/QE00463b.htm
 
-/ref/qld/objects/QD000073.htm, /ref/qld/biogs/QE00492b.htm
+/ref/qld/objects/QD0000073.htm, /ref/qld/biogs/QE00492b.htm
 /qld/objects/QD0000073.htm, /ref/qld/biogs/QE00492b.htm
 
-/ref/qld/objects/QD000074.htm, /ref/qld/biogs/QE00492b.htm
+/ref/qld/objects/QD0000074.htm, /ref/qld/biogs/QE00492b.htm
 /qld/objects/QD0000074.htm, /ref/qld/biogs/QE00492b.htm
 
-/ref/qld/objects/QD000079.htm, /ref/qld/biogs/QE00528b.htm
+/ref/qld/objects/QD0000079.htm, /ref/qld/biogs/QE00528b.htm
 /qld/objects/QD0000079.htm, /ref/qld/biogs/QE00528b.htm
 
 #These redirects were added by Nicola Laurent on 17 April 2018
-/ref/qld/objects/QD000088.htm, /ref/qld/biogs/QE00454b.htm
+/ref/qld/objects/QD0000088.htm, /ref/qld/biogs/QE00454b.htm
 /qld/objects/QD0000088.htm, /ref/qld/biogs/QE00454b.htm
 
-/ref/qld/objects/QD000094.htm, /ref/qld/biogs/QE00528b.htm
+/ref/qld/objects/QD0000094.htm, /ref/qld/biogs/QE00528b.htm
 /qld/objects/QD0000094.htm, /ref/qld/biogs/QE00528b.htm
 
-/ref/qld/objects/QD000096.htm, /ref/qld/biogs/QE00528b.htm
+/ref/qld/objects/QD0000096.htm, /ref/qld/biogs/QE00528b.htm
 /qld/objects/QD0000096.htm, /ref/qld/biogs/QE00528b.htm
 
 #These redirects were added by Nicola Laurent on 24 April 2018
-/ref/qld/objects/QD000099.htm, /ref/qld/biogs/QE00528b.htm
+/ref/qld/objects/QD0000099.htm, /ref/qld/biogs/QE00528b.htm
 /qld/objects/QD0000099.htm, /ref/qld/biogs/QE00528b.htm
 
-/ref/qld/objects/QD000110.htm, /ref/qld/biogs/QE00589b.htm
+/ref/qld/objects/QD0000110.htm, /ref/qld/biogs/QE00589b.htm
 /qld/objects/QD0000110.htm, /ref/qld/biogs/QE00589b.htm
 
-/ref/qld/objects/QD000119.htm, /ref/qld/biogs/QE00589b.htm
+/ref/qld/objects/QD0000119.htm, /ref/qld/biogs/QE00589b.htm
 /qld/objects/QD0000119.htm, /ref/qld/biogs/QE00589b.htm
 
-/ref/qld/objects/QD000141.htm, /ref/qld/biogs/QE00117b.htm
+/ref/qld/objects/QD0000141.htm, /ref/qld/biogs/QE00117b.htm
 /qld/objects/QD0000141.htm, /ref/qld/biogs/QE00117b.htm
 
-/ref/qld/objects/QD000211.htm, /ref/qld/biogs/QE00802b.htm
+/ref/qld/objects/QD0000211.htm, /ref/qld/biogs/QE00802b.htm
 /qld/objects/QD0000211.htm, /ref/qld/biogs/QE00802b.htm
 
 #These redirects were added by Constance Thurley-Hart on 24 April 2018 (these are correcting redirects added on 7 March 2018, 2nd line didn't have /ref in 2nd part)
@@ -4674,17 +4680,17 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 
 #These redirects were added by Nicola Laurent on 30 April 2018
 
-/ref/qld/objects/QD000156.htm, /ref/qld/biogs/QE00072b.htm
+/ref/qld/objects/QD0000156.htm, /ref/qld/biogs/QE00072b.htm
 /qld/objects/QD0000156.htm, /ref/qld/biogs/QE00072b.htm
 
-/ref/qld/objects/QD000186.htm, /ref/qld/objects/QD0000182.htm
+/ref/qld/objects/QD0000186.htm, /ref/qld/objects/QD0000182.htm
 /qld/objects/QD0000186.htm, /ref/qld/objects/QD0000182.htm
 
 #These redirects were added by Nicola Laurent on 1 May 2018
-/ref/qld/objects/QD000149.htm, /ref/qld/biogs/QE00632b.htm
+/ref/qld/objects/QD0000149.htm, /ref/qld/biogs/QE00632b.htm
 /qld/objects/QD0000149.htm, /ref/qld/biogs/QE00632b.htm
 
-/ref/qld/objects/QD000176.htm, /ref/qld/biogs/QE00660b.htm
+/ref/qld/objects/QD0000176.htm, /ref/qld/biogs/QE00660b.htm
 /qld/objects/QD0000176.htm, /ref/qld/biogs/QE00660b.htm
 
 #These redirects were added by Kirsten Wright on 7 May 2018 - more pubresource legislation / statutes
@@ -4765,7 +4771,7 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 
 #This redirect was added by Nicola Laurent on 11 May 2018
 
-/ref/qld/objects/QD000227.htm, /ref/qld/biogs/QE00860b.htm
+/ref/qld/objects/QD0000227.htm, /ref/qld/biogs/QE00860b.htm
 /qld/objects/QD0000227.htm, /ref/qld/biogs/QE00860b.htm
 
 
@@ -4923,22 +4929,22 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 
 #These redirects were added by Cate on 22 June 2018 (they had typos, originally added 15 June 2018)
 
-/ref/sa/objects/SD000071.htm, /ref/sa/objects/SD000189.htm
+/ref/sa/objects/SD000071.htm, /ref/sa/objects/SD0000189.htm
 /sa/objects/SD0000071.htm, /ref/sa/objects/SD000189.htm
 
-/ref/sa/objects/SD000023.htm, /ref/sa/objects/SD000119.htm
+/ref/sa/objects/SD000023.htm, /ref/sa/objects/SD0000119.htm
 /sa/objects/SD0000023.htm, /ref/sa/objects/SD000119.htm
 
-/ref/sa/objects/SD000020.htm, /ref/sa/objects/SD000227.htm
+/ref/sa/objects/SD000020.htm, /ref/sa/objects/SD0000227.htm
 /sa/objects/SD0000020.htm, /ref/sa/objects/SD000227.htm
 
-/ref/sa/objects/SD000068.htm, /ref/sa/biogs/SE000021b.htm
+/ref/sa/objects/SD000068.htm, /ref/sa/biogs/SE00021b.htm
 /sa/objects/SD0000068.htm, /ref/sa/biogs/SE000021b.htm
 
 #This redirect was added by Constance Thurley-Hart on 26 June 2018
 
-/ref/vic/objects/D00000463.htm, ref/vic/biogs/E001088b.htm
-/vic/objects/D00000463.htm, ref/vic/biogs/E001088b.htm
+/ref/vic/objects/D00000463.htm, /ref/vic/biogs/E001088b.htm
+/vic/objects/D00000463.htm, /ref/vic/biogs/E001088b.htm
 
 #These redirects added by Cate O'Neill 26 June 2018
 
@@ -5159,10 +5165,10 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 
 #This redirect added by Nicola Laurent on 19 July 2018
 
-/ref/sa/objects/SD000366.htm, /ref/sa/biogs/SE001400b.htm
+/ref/sa/objects/SD0000366.htm, /ref/sa/biogs/SE001400b.htm
 /sa/objects/SD0000366.htm, /ref/sa/biogs/SE001400b.htm
 
-/ref/sa/objects/SD000367.htm, /ref/sa/biogs/SE001400b.htm
+/ref/sa/objects/SD0000367.htm, /ref/sa/biogs/SE001400b.htm
 /sa/objects/SD0000367.htm, /ref/sa/biogs/SE001400b.htm
 
 #These redirects added by Cate O'Neill on 7 AUgust 2018
@@ -5201,8 +5207,8 @@ sa/objects/ND0000459.htm, ref/nsw/objects/ND0000459.htm
 
 #These redirects were added by Constance Thurley-Hart on 9 August 2018
 
-ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
-/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
+/ref/act/objects/AD0000020.htm, /ref/nsw/biogs/NE00411b.htm
+/act/objects/AD0000020.htm, /ref/nsw/biogs/NE00411b.htm
 
 #These redirects were added by Constance Thurley-Hart on 24 August 2018
 
@@ -5776,3 +5782,162 @@ ref/act/objects/AD0000020.htm, ref/nsw/biogs/NE00411b.htm
 /ref/tas/biogs/TE00789b.htm, /ref/tas/biogs/TE00785b.htm
 /guide/tas/TE00789, /ref/tas/biogs/TE00785b.htm
 /tas/biogs/TE00789b.htm, /ref/tas/biogs/TE00785b.htm
+
+#Redirects added by Cate O'Neill on 13 February 2019
+
+/ref/tas/biogs/TE00229b.htm, /ref/tas/biogs/TE01024b.htm
+/guide/tas/TE00229, /ref/tas/biogs/TE01024b.htm
+/tas/biogs/TE00229b.htm, /ref/tas/biogs/TE01024b.htm
+
+/ref/tas/biogs/TE00529b.htm, /ref/tas/biogs/TE00572b.htm
+/guide/tas/TE00529, /ref/tas/biogs/TE00572b.htm
+/tas/biogs/TE00529b.htm, /ref/tas/biogs/TE00572b.htm
+
+/ref/tas/biogs/TE00537b.htm, /ref/tas/biogs/TE00064b.htm
+/guide/tas/TE00537, /ref/tas/biogs/TE00064b.htm
+/tas/biogs/TE00537b.htm, /ref/tas/biogs/TE00064b.htm
+
+/ref/tas/biogs/TE00538b.htm, /ref/tas/biogs/TE00064b.htm
+/guide/tas/TE00538, /ref/tas/biogs/TE00064b.htm
+/tas/biogs/TE00538b.htm, /ref/tas/biogs/TE00064b.htm
+
+/ref/tas/biogs/TE00565b.htm, /ref/tas/biogs/TE00564b.htm
+/guide/tas/TE00565, /ref/tas/biogs/TE00564b.htm
+/tas/biogs/TE00565b.htm, /ref/tas/biogs/TE00564b.htm
+
+/ref/tas/biogs/TE00680b.htm, /ref/tas/biogs/TE00678b.htm
+/guide/tas/TE00680, /ref/tas/biogs/TE00678b.htm
+/tas/biogs/TE00680b.htm, /ref/tas/biogs/TE00678b.htm
+
+/ref/tas/biogs/TE01026b.htm, /ref/tas/biogs/TE00095b.htm
+/guide/tas/TE01026, /ref/tas/biogs/TE00095b.htm
+/tas/biogs/TE01026b.htm, /ref/tas/biogs/TE00095b.htm
+
+/ref/tas/biogs/TE00154b.htm, /ref/tas/biogs/TE00059b.htm
+/guide/tas/TE00154, /ref/tas/biogs/TE00059b.htm
+/tas/biogs/TE00154b.htm, /ref/tas/biogs/TE00059b.htm
+
+/ref/tas/biogs/TE00208b.htm, /ref/tas/biogs/TE00072b.htm
+/guide/tas/TE00208, /ref/tas/biogs/TE00072b.htm
+/tas/biogs/TE00208b.htm, /ref/tas/biogs/TE00072b.htm
+
+/ref/tas/biogs/TE00394b.htm, /ref/tas/biogs/TE00385b.htm
+/guide/tas/TE00394, /ref/tas/biogs/TE00385b.htm
+/tas/biogs/TE00394b.htm, /ref/tas/biogs/TE00385b.htm
+
+/ref/tas/biogs/TE00619b.htm, /ref/tas/biogs/TE00004b.htm
+/guide/tas/TE00619, /ref/tas/biogs/TE00004b.htm
+/tas/biogs/TE00619b.htm, /ref/tas/biogs/TE00004b.htm
+
+/ref/tas/biogs/TE00620b.htm, /ref/tas/biogs/TE00004b.htm
+/guide/tas/TE00620, /ref/tas/biogs/TE00004b.htm
+/tas/biogs/TE00620b.htm, /ref/tas/biogs/TE00004b.htm
+
+/ref/tas/biogs/TE00231b.htm, /ref/tas/biogs/TE00731b.htm
+/guide/tas/TE00231, /ref/tas/biogs/TE00731b.htm
+/tas/biogs/TE00231b.htm, /ref/tas/biogs/TE00731b.htm
+
+/ref/tas/biogs/TE00535b.htm, /ref/tas/biogs/TE00317b.htm
+/guide/tas/TE00535, /ref/tas/biogs/TE00317b.htm
+/tas/biogs/TE00535b.htm, /ref/tas/biogs/TE00317b.htm
+
+/ref/tas/biogs/TE00355b.htm, /ref/tas/biogs/TE00354b.htm
+/guide/tas/TE00355, /ref/tas/biogs/TE00354b.htm
+/tas/biogs/TE00355b.htm, /ref/tas/biogs/TE00354b.htm
+
+/ref/tas/biogs/TE00226b.htm, /ref/tas/biogs/TE00074b.htm
+/guide/tas/TE00226, /ref/tas/biogs/TE00074b.htm
+/tas/biogs/TE00226b.htm, /ref/tas/biogs/TE00074b.htm
+
+/ref/tas/biogs/TE00186b.htm, /ref/tas/biogs/TE00014b.htm
+/guide/tas/TE00186, /ref/tas/biogs/TE00014b.htm
+/tas/biogs/TE00186b.htm, /ref/tas/biogs/TE00014b.htm
+
+/ref/tas/biogs/TE00187b.htm, /ref/tas/biogs/TE00015b.htm
+/guide/tas/TE00187, /ref/tas/biogs/TE00015b.htm
+/tas/biogs/TE00187b.htm, /ref/tas/biogs/TE00015b.htm
+
+/ref/tas/biogs/TE00521b.htm, /ref/tas/biogs/TE00020b.htm
+/guide/tas/TE00521, /ref/tas/biogs/TE00020b.htm
+/tas/biogs/TE00521b.htm, /ref/tas/biogs/TE00020b.htm
+
+/ref/qld/biogs/QE00521b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/guide/qld/QE00521, /resources/explaining-the-words-on-child-welfare-records/
+/qld/biogs/QE00521b.htm, /resources/explaining-the-words-on-child-welfare-records/
+
+#These redirects were added by Nicola Laurent on 14 February 2019
+/ref/tas/biogs/TE00737b.htm, /contact/tasmania/
+/guide/tas/TE00737, /contact/tasmania/
+/tas/biogs/TE00737b.htm, /contact/tasmania/
+
+/ref/tas/biogs/TE00736b.htm, /contact/tasmania/
+/guide/tas/TE00736, /contact/tasmania/
+/tas/biogs/TE00736b.htm, /contact/tasmania/
+
+#This redirect was added by Constance Thurley-Hart on 15 February 2019
+
+/ref/qld/objects/QD0000175.htm, /ref/qld/objects/QD0000025.htm
+/qld/objects/QD0000175.htm, /ref/qld/objects/QD0000025.htm
+
+#These redirects were added by Constance Thurley-Hart on 19 February 2019
+
+/ref/wa/objects/WD0000006.htm, /ref/wa/biogs/WE00261b.htm
+/wa/objects/WD0000006.htm, /ref/wa/biogs/WE00261b.htm
+
+/ref/wa/objects/WD0000054.htm, /ref/wa/biogs/WE00499b.htm
+/wa/objects/WD0000054.htm, /ref/wa/biogs/WE00499b.htm
+
+/ref/wa/objects/WD0000086.htm, /ref/wa/biogs/WE00553b.htm
+/wa/objects/WD0000086.htm, /ref/wa/biogs/WE00553b.htm
+
+/ref/wa/objects/WD0000098.htm, /ref/wa/bib/WP0000235.htm
+/wa/objects/WD0000098.htm, /ref/wa/bib/WP0000235.htm
+
+#These redirects were added by Constance Thurley-Hart on 21 February 2019
+
+/ref/wa/objects/WD0000138.htm, /ref/wa/biogs/WE00553b.htm
+/wa/objects/WD0000138.htm, /ref/wa/biogs/WE00553b.htm
+
+/ref/wa/objects/WD0000175.htm, /ref/wa/biogs/WE00483b.htm
+/wa/objects/WD0000175.htm, /ref/wa/biogs/WE00483b.htm
+
+/ref/wa/objects/WD0000200.htm, /ref/wa/objects/WD0000199.htm
+/wa/objects/WD0000200.htm, /ref/wa/objects/WD0000199.htm
+
+/ref/wa/objects/WD0000262.htm, /ref/wa/biogs/WE00272b.htm
+/wa/objects/WD0000262.htm, /ref/wa/biogs/WE00272b.htm
+
+/ref/wa/objects/WD0000294.htm, /ref/wa/biogs/WE00568b.htm
+/wa/objects/WD0000294.htm, /ref/wa/biogs/WE00568b.htm
+
+/ref/wa/objects/WD0000360.htm, /ref/wa/biogs/WE00605b.htm
+/wa/objects/WD0000360.htm, /ref/wa/biogs/WE00605b.htm
+
+#These redirects were added by Constance Thurley-Hart on 25 February 2019
+
+/ref/wa/objects/WD0000368.htm, /ref/wa/biogs/WE00645b.htm
+/wa/objects/WD0000368.htm, /ref/wa/biogs/WE00645b.htm
+
+/ref/wa/objects/WD0000400.htm, /ref/wa/biogs/WE00023b.htm
+/wa/objects/WD0000400.htm, /ref/wa/biogs/WE00023b.htm
+
+/ref/wa/objects/WD0000408.htm, /ref/wa/biogs/WE00386b.htm
+/wa/objects/WD0000408.htm, /ref/wa/biogs/WE00386b.htm
+
+/ref/wa/objects/WD0000409.htm, /ref/wa/biogs/WE00386b.htm
+/wa/objects/WD0000409.htm, /ref/wa/biogs/WE00386b.htm
+
+/ref/wa/objects/WD0000669.htm, /ref/wa/biogs/WE01259b.htm
+/wa/objects/WD0000669.htm, /ref/wa/biogs/WE01259b.htm
+
+/ref/wa/objects/WD0000670.htm, /ref/wa/biogs/WE01262b.htm
+/wa/objects/WD0000670.htm, /ref/wa/biogs/WE01262b.htm
+
+/ref/wa/objects/WD0000717.htm, /ref/wa/biogs/WE00064b.htm
+/wa/objects/WD0000717.htm, /ref/wa/biogs/WE00064b.htm
+
+/ref/wa/objects/WD0000721.htm, /ref/wa/biogs/WE01298b.htm
+/wa/objects/WD0000721.htm, /ref/wa/biogs/WE01298b.htm
+
+/ref/wa/objects/WD0000722.htm, /ref/wa/biogs/WE01299b.htm
+/wa/objects/WD0000722.htm, /ref/wa/biogs/WE01299b.htm
