@@ -2579,8 +2579,8 @@
   RedirectMatch permanent ^/ref/nt/objects/YD0000059.htm$ /ref/nt/bib/YP0000130.htm
   RedirectMatch permanent ^/nt/objects/YD0000059.htm$ /ref/nt/bib/YP0000130.htm
   #These redirects were added by Nicola Laurent on 27 February 2018
-  RedirectMatch permanent ^/ref/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049.htm
-  RedirectMatch permanent ^/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049.htm
+  RedirectMatch permanent ^/ref/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049b.htm
+  RedirectMatch permanent ^/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049b.htm
   RedirectMatch permanent ^/ref/nsw/objects/ND0000296.htm$ /ref/nsw/bib/NP0000306.htm
   RedirectMatch permanent ^/nsw/objects/ND0000296.htm$ /ref/nsw/bib/NP0000306.htm
   #These redirects were added by Nicola Laurent on 1 March 2018
@@ -4012,3 +4012,196 @@
   RedirectMatch permanent ^/resources/rad2-grants/rad2-successful-applicants-2016-17/$ /resources/radgrants/rad2-successful-applicants-2016-17/
   RedirectMatch permanent ^/resources/rad2-grants/previous-successful-applicants/$ /resources/radgrants/previous-successful-applicants/
   RedirectMatch permanent ^/resources/rad2-grants$ /resources/radgrants/
+  #These redirects were added by Constance Thurley-Hart, 11 September 2018
+  RedirectMatch permanent ^/ref/wa/biogs/WE00146.htm$ /ref/wa/biogs/WE01334b.htm
+  RedirectMatch permanent ^/wa/biogs/WE00146.htm$ /ref/wa/biogs/WE01334b.htm
+  #These redirects were added by Constance Thurley-Hart, 15 October 2018
+  RedirectMatch permanent ^/ref/wa/biogs/WP0000826.htm$ /ref/wa/biogs/WE00517b.htm
+  RedirectMatch permanent ^/wa/biogs/WP0000826.htm$ /ref/wa/biogs/WE00517b.htm
+  RedirectMatch permanent ^/ref/wa/bib/WP0000505.htm$ /ref/wa/biogs/WE00710b.htm
+  RedirectMatch permanent ^/wa/bib/WP0000505.htm$ /ref/wa/biogs/WE00710b.htm
+  #These redirects were added by Nicola Laurent on 17 October 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000159.htm$ /ref/sa/objects/SD0000160.htm
+  RedirectMatch permanent ^/sa/objects/SD0000159.htm$ /ref/sa/objects/SD0000160.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000129.htm$ /ref/sa/objects/SD0000130.htm
+  RedirectMatch permanent ^/sa/objects/SD0000129.htm$ /ref/sa/objects/SD0000130.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000139.htm$ /ref/sa/biogs/SE01179b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000139.htm$ /ref/sa/biogs/SE01179b.htm
+  #These redirects were added by Kirsten Wright on 19 October 2018
+  RedirectMatch permanent ^/ref/nsw/biogs/NE00853b.htm$ /ref/nsw/biogs/NE01725b.htm
+  RedirectMatch permanent ^/guide/nsw/NE00853$ /ref/nsw/biogs/NE01725b.htm
+  RedirectMatch permanent ^/nsw/biogs/NE00853b.htm$ /ref/nsw/biogs/NE01725b.htm
+  #This redirect was added by Nicola Laurent on 19 October 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000416.htm$ /ref/sa/objects/SD0000009.htm
+  RedirectMatch permanent ^/sa/objects/SD0000416.htm$ /ref/sa/objects/SD0000009.htm
+  #This redirect was added by Nicola Laurent on 30 October 2018
+  RedirectMatch permanent ^/ref/wa/bib/WP0000623.htm$ /ref/wa/bib/WP0000001.htm
+  RedirectMatch permanent ^/wa/bib/WP0000623.htm$ /ref/wa/bib/WP0000001.htm
+  #These redirects were added by Nicola Laurent on 2 November 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000145.htm$ /ref/sa/biogs/SE00014b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000145.htm$ /ref/sa/biogs/SE00014b.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000016.htm$ /ref/sa/biogs/SE00079b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000016.htm$ /ref/sa/biogs/SE00079b.htm
+  #These redirects were added by Nicola Laurent on 30 November 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000086.htm$ /ref/sa/biogs/SE00022b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000086.htm$ /ref/sa/biogs/SE00022b.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000122.htm$ /ref/sa/objects/SD0000121.htm
+  RedirectMatch permanent ^/sa/objects/SD0000122.htm$ /ref/sa/objects/SD0000121.htm
+  #This redirect added by Cate O'Neill on 13 December 2018
+  RedirectMatch permanent ^/ref/qld/biogs/QE00838b.htm$ /ref/qld/biogs/QE00044b.htm
+  RedirectMatch permanent ^/guide/qld/QE00838$ /ref/qld/biogs/QE00044b.htm
+  RedirectMatch permanent ^/qld/biogs/QE00838b.htm$ /ref/qld/biogs/QE00044b.htm
+  #This redirect was added by Constance Thurley-Hart on 14 December 2018
+  RedirectMatch permanent ^/ref/australia/objects/FD0000025.htm$ ref/australia/biogs/FE00101b.htm
+  RedirectMatch permanent ^/australia/objects/FD0000025.htm$ ref/australia/biogs/FE00101b.htm
+  #This redirect was added by Nicola Laurent on 14 December 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000128.htm$ /ref/sa/objects/SD0000130.htm
+  RedirectMatch permanent ^/sa/objects/SD0000128.htm$ /ref/sa/objects/SD0000130.htm
+  #These redirects were added by Constance Thurley-Hart on 18 December 2018
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000284.htm$ /ref/nsw/biogs/NE00181b.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000284.htm$ /ref/nsw/biogs/NE00181b.htm
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000287.htm$ /ref/nsw/biogs/NE00181b.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000287.htm$ /ref/nsw/biogs/NE00181b.htm
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000288.htm$ /ref/nsw/biogs/NE00181b.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000288.htm$ /ref/nsw/biogs/NE00181b.htm
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000290.htm$ /ref/nsw/biogs/NE00181b.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000290.htm$ /ref/nsw/biogs/NE00181b.htm
+  #These redirects were added by Nicola Lauret on 20 December 2018
+  RedirectMatch permanent ^/ref/wa/biogs/WE01348b.htm$ /ref/wa/biogs/WE00059b.htm
+  RedirectMatch permanent ^/guide/wa/WE01348$ /ref/wa/biogs/WE00059b.htm
+  RedirectMatch permanent ^/wa/biogs/WE01348b.htm$ /ref/wa/biogs/WE00059b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE01439b.htm$ /ref/wa/biogs/WE01438b.htm
+  RedirectMatch permanent ^/guide/wa/WE01439$ /ref/wa/biogs/WE01438b.htm
+  RedirectMatch permanent ^/wa/biogs/WE01439b.htm$ /ref/wa/biogs/WE01438b.htm
+  #These redirects were added by Constance Thurley-Hart on 20 December 2018
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000527.htm$ /ref/nsw/biogs/NE00427b.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000527.htm$ /ref/nsw/biogs/NE00427b.htm
+  #These redirects were added by Cate O'Neill on 21 December 2018
+  RedirectMatch permanent ^/ref/sa/objects/SD0000124.htm$ /ref/sa/biogs/SE00125b.htm
+  RedirectMatch permanent ^/sa/objects/SD0000124.htm$ /ref/sa/biogs/SE00125b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000453.htm$ /ref/vic/biogs/E000339b.htm
+  RedirectMatch permanent ^/vic/objects/D00000453.htm$ /ref/vic/biogs/E000339b.htm
+  #This redirect was added by Constance Thurley-Hart on 3 January 2019
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000069.htm$ /ref/nsw/biogs/NE00497b.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000069.htm$ /ref/nsw/biogs/NE00497b.htm
+  #This redirects were added by Nicola Laurent on 8 January 2019
+  RedirectMatch permanent ^/ref/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049b.htm
+  RedirectMatch permanent ^/nt/objects/YD0000039.htm$ /ref/nt/biogs/YE00049b.htm
+  #These redirects were added by constance Thurley-Hart on 10 January 2019
+  RedirectMatch permanent ^/ref/vic/objects/D00000038.htm$ /ref/vic/biogs/E000007b.htm
+  RedirectMatch permanent ^/vic/objects/D00000038.htm$ /ref/vic/biogs/E000007b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000044.htm$ /ref/vic/biogs/E000077b.htm
+  RedirectMatch permanent ^/vic/objects/D00000044.htm$ /ref/vic/biogs/E000077b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000069.htm$ /ref/vic/biogs/E000014b.htm
+  RedirectMatch permanent ^/vic/objects/D00000069.htm$ /ref/vic/biogs/E000014b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000114.htm$ /ref/vic/biogs/E000265b.htm
+  RedirectMatch permanent ^/vic/objects/D00000114.htm$ /ref/vic/biogs/E000265b.htm
+  #This redirect was added by Nicola Laurent on 14 January 2019
+  RedirectMatch permanent ^/ref/wa/biogs/WE01470b.htm$ /ref/wa/biogs/WE00173b.htm
+  RedirectMatch permanent ^/guide/wa/WE01470$ /ref/wa/biogs/WE00173b.htm
+  RedirectMatch permanent ^/wa/biogs/WE01470b.htm$ /ref/wa/biogs/WE00173b.htm
+  #These redirects were added by Kirsten Wright on 14 January 2019
+  RedirectMatch permanent ^/ref/qld/biogs/QE00752b.htm$ /ref/qld/biogs/QE00751b.htm
+  RedirectMatch permanent ^/guide/qld/QE00752$ /ref/qld/biogs/QE00751b.htm
+  RedirectMatch permanent ^/qld/biogs/QE00752b.htm$ /ref/qld/biogs/QE00751b.htm
+  RedirectMatch permanent ^/ref/qld/biogs/QE00754b.htm$ /ref/qld/biogs/QE00751b.htm
+  RedirectMatch permanent ^/guide/qld/QE00754$ /ref/qld/biogs/QE00751b.htm
+  RedirectMatch permanent ^/qld/biogs/QE00754b.htm$ /ref/qld/biogs/QE00751b.htm
+  #This redirect was added by Constance Thurley-Hart on 14 January 2019
+  RedirectMatch permanent ^/ref/vic/objects/D00000356.htm$ /ref/vic/objects/D00000223.htm
+  RedirectMatch permanent ^/vic/objects/D00000356.htm$ /ref/vic/objects/D00000223.htm
+  #This redirect was added by Nicola Laurent on 15 January 2019
+  RedirectMatch permanent ^/ref/sa/objects/SD0000326.htm$ /ref/sa/objects/SD0000327.htm
+  RedirectMatch permanent ^/sa/objects/SD0000326.htm$ /ref/sa/objects/SD0000327.htm
+  #These redirects were added by Constance Thurley-Hart on 16 January 2019
+  RedirectMatch permanent ^/ref/vic/objects/D00000443.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/vic/objects/D00000443.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000444.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/vic/objects/D00000444.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/ref/vic/objects/D00000445.htm$ /ref/vic/biogs/E000045b.htm
+  RedirectMatch permanent ^/vic/objects/D00000445.htm$ /ref/vic/biogs/E000045b.htm
+  #These redirects were added by Nicola Laurent on 17 January 2019
+  RedirectMatch permanent ^/ref/sa/objects/SD0000289.htm$ /ref/sa/objects/SD0000087.htm
+  RedirectMatch permanent ^/sa/objects/SD0000289.htm$ /ref/sa/objects/SD0000087.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000288.htm$ /ref/sa/objects/SD0000087.htm
+  RedirectMatch permanent ^/sa/objects/SD0000288.htm$ /ref/sa/objects/SD0000087.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000290.htm$ /ref/sa/objects/SD0000087.htm
+  RedirectMatch permanent ^/sa/objects/SD0000290.htm$ /ref/sa/objects/SD0000087.htm
+  RedirectMatch permanent ^/ref/sa/objects/SD0000110.htm$ /ref/sa/objects/SD0000109.htm
+  RedirectMatch permanent ^/sa/objects/SD0000110.htm$ /ref/sa/objects/SD0000109.htm
+  #These redirects were added by Constance Thurley-Hart on 23 January 2019
+  RedirectMatch permanent ^/ref/tas/objects/TD0000012.htm$ /ref/tas/objects/TD0000247.htm
+  RedirectMatch permanent ^/tas/objects/TD0000012.htm$ /ref/tas/objects/TD0000247.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000028.htm$ /ref/tas/biogs/TE00025b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000028.htm$ /ref/tas/biogs/TE00025b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000037.htm$ /ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000037.htm$ /ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000040.htm$ /ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000040.htm$ /ref/tas/biogs/TE00368b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000043.htm$ /ref/tas/biogs/TE00033b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000043.htm$ /ref/tas/biogs/TE00033b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000069.htm$ /ref/tas/biogs/TE00038b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000069.htm$ /ref/tas/biogs/TE00038b.htm
+  #This redirect was added by Nicola Laurent on 30 January 2019
+  RedirectMatch permanent ^/ref/tas/objects/TD0000197.htm$ /ref/tas/biogs/TE00164b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000197.htm$ /ref/tas/biogs/TE00164b.htm
+  #This redirect was added by Constance Thurley-Hart on 1 February 2019
+  RedirectMatch permanent ^/ref/tas/objects/TD0000207.htm$ /ref/tas/biogs/TE00205b.htm
+  RedirectMatch permanent ^/tas/objects/TD0000207.htm$ /ref/tas/biogs/TE00205b.htm
+  #Redirects added by Cate O'Neill 8 February 2019
+  RedirectMatch permanent ^/ref/wa/biogs/WE01013b.htm$ /ref/wa/biogs/WE00999b.htm
+  RedirectMatch permanent ^/guide/wa/WE01013$ /ref/wa/biogs/WE00999b.htm
+  RedirectMatch permanent ^/wa/biogs/WE01013b.htm$ /ref/wa/biogs/WE00999b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE00053b.htm$ /ref/wa/biogs/WE00473b.htm
+  RedirectMatch permanent ^/guide/wa/WE00053$ /ref/wa/biogs/WE00473b.htm
+  RedirectMatch permanent ^/wa/biogs/WE00053b.htm$ /ref/wa/biogs/WE00473b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE00461b.htm$ /ref/wa/biogs/WE01541b.htm
+  RedirectMatch permanent ^/guide/wa/WE00461$ /ref/wa/biogs/WE01541b.htm
+  RedirectMatch permanent ^/wa/biogs/WE00461b.htm$ /ref/wa/biogs/WE01541b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE00468b.htm$ /ref/wa/biogs/WE01541b.htm
+  RedirectMatch permanent ^/guide/wa/WE00468$ /ref/wa/biogs/WE01541b.htm
+  RedirectMatch permanent ^/wa/biogs/WE00468b.htm$ /ref/wa/biogs/WE01541b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE00483b.htm$ /ref/wa/biogs/WE00440b.htm
+  RedirectMatch permanent ^/guide/wa/WE00483$ /ref/wa/biogs/WE00440b.htm
+  RedirectMatch permanent ^/wa/biogs/WE00483b.htm$ /ref/wa/biogs/WE00440b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE00667b.htm$ /ref/wa/biogs/WE00657b.htm
+  RedirectMatch permanent ^/guide/wa/WE00667$ /ref/wa/biogs/WE00657b.htm
+  RedirectMatch permanent ^/wa/biogs/WE00667b.htm$ /ref/wa/biogs/WE00657b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE00991b.htm$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/guide/wa/WE00991$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/wa/biogs/WE00991b.htm$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE01058b.htm$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/guide/wa/WE01058$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/wa/biogs/WE01058b.htm$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/ref/wa/biogs/WE01093b.htm$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/guide/wa/WE01093$ /ref/wa/biogs/WE00990b.htm
+  RedirectMatch permanent ^/wa/biogs/WE01093b.htm$ /ref/wa/biogs/WE00990b.htm
+  #This redirect was added by Constance Thurley-Hart on 11 February 2019
+  RedirectMatch permanent ^/ref/nsw/bib/NP0001074.htm$ /ref/nsw/bib/NP0000214.htm
+  RedirectMatch permanent ^/nsw/bib/NP0001074.htm$ /ref/nsw/bib/NP0000214.htm
+  #Redirects added by Cate O'Neill on 12 February 2019
+  RedirectMatch permanent ^/ref/tas/biogs/TE00147b.htm$ /ref/tas/biogs/TE00074b.htm
+  RedirectMatch permanent ^/guide/tas/TE00147$ /ref/tas/biogs/TE00074b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00147b.htm$ /ref/tas/biogs/TE00074b.htm
+  RedirectMatch permanent ^/ref/tas/biogs/TE00013b.htm$ /ref/tas/biogs/TE00004b.htm
+  RedirectMatch permanent ^/guide/tas/TE00013$ /ref/tas/biogs/TE00004b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00013b.htm$ /ref/tas/biogs/TE00004b.htm
+  RedirectMatch permanent ^/ref/tas/biogs/TE00152b.htm$ /ref/tas/biogs/TE00007b.htm
+  RedirectMatch permanent ^/guide/tas/TE00152$ /ref/tas/biogs/TE00007b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00152b.htm$ /ref/tas/biogs/TE00007b.htm
+  RedirectMatch permanent ^/ref/tas/biogs/TE00197b.htm$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/guide/tas/TE00197$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00197b.htm$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/ref/tas/biogs/TE00215b.htm$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/guide/tas/TE00215$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00215b.htm$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/ref/tas/biogs/TE00221b.htm$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/guide/tas/TE00221$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00221b.htm$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/ref/tas/biogs/TE00227b.htm$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/guide/tas/TE00227$ /ref/tas/biogs/TE00023b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00227b.htm$ /ref/tas/biogs/TE00023b.htm
+  #This redirect was added by Constance Thurley-Hart on 12 February 2019
+  RedirectMatch permanent ^/ref/tas/biogs/TE00789b.htm$ /ref/tas/biogs/TE00785b.htm
+  RedirectMatch permanent ^/guide/tas/TE00789$ /ref/tas/biogs/TE00785b.htm
+  RedirectMatch permanent ^/tas/biogs/TE00789b.htm$ /ref/tas/biogs/TE00785b.htm
