@@ -4317,3 +4317,6 @@
   RedirectMatch permanent ^/wa/objects/WD0000721.htm$ /ref/wa/biogs/WE01298b.htm
   RedirectMatch permanent ^/ref/wa/objects/WD0000722.htm$ /ref/wa/biogs/WE01299b.htm
   RedirectMatch permanent ^/wa/objects/WD0000722.htm$ /ref/wa/biogs/WE01299b.htm
+  #This redirect was added by Constance Thurley-Hart on 26 February 2019
+  RedirectMatch permanent ^/ref/wa/objects/WD0001028.htm$ /ref/wa/biogs/WE00901b.htm
+  RedirectMatch permanent ^/wa/objects/WD0001028.htm$ /ref/wa/biogs/WE00901b.htm

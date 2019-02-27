@@ -5941,3 +5941,8 @@ ref/vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
 
 /ref/wa/objects/WD0000722.htm, /ref/wa/biogs/WE01299b.htm
 /wa/objects/WD0000722.htm, /ref/wa/biogs/WE01299b.htm
+
+#This redirect was added by Constance Thurley-Hart on 26 February 2019
+
+/ref/wa/objects/WD0001028.htm, /ref/wa/biogs/WE00901b.htm
+/wa/objects/WD0001028.htm, /ref/wa/biogs/WE00901b.htm
