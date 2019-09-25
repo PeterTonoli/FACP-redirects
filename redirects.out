@@ -3056,9 +3056,9 @@
   RedirectMatch permanent ^/ref/sa/biogs/SE00806b.htm$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/guide/sa/SE00806$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/sa/biogs/SE00806b.htm$ /resources/explaining-the-words-on-child-welfare-records/
-  RedirectMatch permanent ^/ref/sa/biogs/SE00800b.htm$ /resources/explaining-the-words-on-child-welfare-records/
-  RedirectMatch permanent ^/guide/sa/SE00800$ /resources/explaining-the-words-on-child-welfare-records/
-  RedirectMatch permanent ^/sa/biogs/SE00800b.htm$ /resources/explaining-the-words-on-child-welfare-records/
+  RedirectMatch permanent ^/ref/sa/biogs/SE00800b.htm$ /resources/explaining-the-different-models-of-care/
+  RedirectMatch permanent ^/guide/sa/SE00800$ /resources/explaining-the-different-models-of-care/
+  RedirectMatch permanent ^/sa/biogs/SE00800b.htm$ /resources/explaining-the-different-models-of-care/
   RedirectMatch permanent ^/ref/sa/biogs/SE00798b.htm$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/guide/sa/SE00798$ /resources/explaining-the-words-on-child-welfare-records/
   RedirectMatch permanent ^/sa/biogs/SE00798b.htm$ /resources/explaining-the-words-on-child-welfare-records/
@@ -4146,8 +4146,8 @@
   RedirectMatch permanent ^/ref/tas/objects/TD0000197.htm$ /ref/tas/biogs/TE00164b.htm
   RedirectMatch permanent ^/tas/objects/TD0000197.htm$ /ref/tas/biogs/TE00164b.htm
   #This redirect was added by Constance Thurley-Hart on 1 February 2019
-  RedirectMatch permanent ^/ref/tas/objects/TD0000207.htm$ /ref/tas/biogs/TE00205b.htm
-  RedirectMatch permanent ^/tas/objects/TD0000207.htm$ /ref/tas/biogs/TE00205b.htm
+  RedirectMatch permanent ^/ref/tas/objects/TD0000207.htm$ /ref/tas/objects/TE00205.htm
+  RedirectMatch permanent ^/tas/objects/TD0000207.htm$ /ref/tas/objects/TE00205.htm
   #Redirects added by Cate O'Neill 8 February 2019
   RedirectMatch permanent ^/ref/wa/biogs/WE01013b.htm$ /ref/wa/biogs/WE00999b.htm
   RedirectMatch permanent ^/guide/wa/WE01013$ /ref/wa/biogs/WE00999b.htm
@@ -4320,3 +4320,9 @@
   #This redirect was added by Constance Thurley-Hart on 26 February 2019
   RedirectMatch permanent ^/ref/wa/objects/WD0001028.htm$ /ref/wa/biogs/WE00901b.htm
   RedirectMatch permanent ^/wa/objects/WD0001028.htm$ /ref/wa/biogs/WE00901b.htm
+  #This redirect was added by Cate O'Neill on 12 APril 2019
+  RedirectMatch permanent ^/ref/nsw/objects/ND0000757.htm$ /ref/nsw/objects/ND0000325.htm
+  RedirectMatch permanent ^/nsw/objects/ND0000757.htm$ /ref/nsw/objects/ND0000325.htm
+  #This redirect was added by Nicola Laurent on 25 September 2019
+  RedirectMatch permanent ^/ref/vic/objects/D00000551.htm$ /ref/vic/biogs/E000229b.htm
+  RedirectMatch permanent ^/vic/objects/D00000551.htm$ /ref/vic/biogs/E000229b.htm
