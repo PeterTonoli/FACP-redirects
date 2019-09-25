@@ -4158,9 +4158,9 @@ ref/vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
 /guide/sa/SE00806, /resources/explaining-the-words-on-child-welfare-records/
 /sa/biogs/SE00806b.htm, /resources/explaining-the-words-on-child-welfare-records/
 
-/ref/sa/biogs/SE00800b.htm, /resources/explaining-the-words-on-child-welfare-records/
-/guide/sa/SE00800, /resources/explaining-the-words-on-child-welfare-records/
-/sa/biogs/SE00800b.htm, /resources/explaining-the-words-on-child-welfare-records/
+/ref/sa/biogs/SE00800b.htm, /resources/explaining-the-different-models-of-care/
+/guide/sa/SE00800, /resources/explaining-the-different-models-of-care/
+/sa/biogs/SE00800b.htm, /resources/explaining-the-different-models-of-care/
 
 /ref/sa/biogs/SE00798b.htm, /resources/explaining-the-words-on-child-welfare-records/
 /guide/sa/SE00798, /resources/explaining-the-words-on-child-welfare-records/
@@ -5701,8 +5701,8 @@ ref/vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
 
 #This redirect was added by Constance Thurley-Hart on 1 February 2019
 
-/ref/tas/objects/TD0000207.htm, /ref/tas/biogs/TE00205b.htm
-/tas/objects/TD0000207.htm, /ref/tas/biogs/TE00205b.htm
+/ref/tas/objects/TD0000207.htm, /ref/tas/objects/TE00205.htm
+/tas/objects/TD0000207.htm, /ref/tas/objects/TE00205.htm
 
 #Redirects added by Cate O'Neill 8 February 2019
 
@@ -5946,3 +5946,12 @@ ref/vic/objects/D00000395.htm, /ref/vic/bib/P00000802.htm
 
 /ref/wa/objects/WD0001028.htm, /ref/wa/biogs/WE00901b.htm
 /wa/objects/WD0001028.htm, /ref/wa/biogs/WE00901b.htm
+
+#This redirect was added by Cate O'Neill on 12 APril 2019
+
+/ref/nsw/objects/ND0000757.htm, /ref/nsw/objects/ND0000325.htm
+/nsw/objects/ND0000757.htm, /ref/nsw/objects/ND0000325.htm
+
+#This redirect was added by Nicola Laurent on 25 September 2019
+/ref/vic/objects/D00000551.htm, /ref/vic/biogs/E000229b.htm
+/vic/objects/D00000551.htm, /ref/vic/biogs/E000229b.htm
